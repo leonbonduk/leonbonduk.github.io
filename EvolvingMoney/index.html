@@ -19,7 +19,17 @@ body {	font-size: 80%;
         /*border: 4px double #000;				 
 	background-color: #ffffff; */}			 
 #logo {	width: 920px;				 
-        margin: 0px auto 2px auto;}			 
+        margin: 0px auto 2px auto;}	
+  
+.imgbox {
+            display: grid;
+            height: 100%;
+        }
+.center-fit {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+        }
 ul {	width: 920px;				 
       padding: 7px;				 
       margin: 0px auto 0px auto;			
@@ -74,11 +84,12 @@ p {
   <li><a href="contact.html">Contact</a></li>	 
   </ul>
 
-  <p> Test 5. </p>
+  <p> Test 6. </p>
 <br>
-<div id="logo">
-	<img src="Images/EM_circ_logo.jpg" alt="Evolving Money Donught" />	
-</div>	
+<div class="imgbox">
+    <img class="center-fit" src="Images/EM_circ_logo.jpg">
+</div>
+
 </div>
   </body> 
 </html> 
