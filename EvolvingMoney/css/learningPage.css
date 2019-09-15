@@ -18,9 +18,7 @@ body {
 #logo { width: 70%;
         margin: 0px auto 2px auto;}     
 
-li {
-        display: inline;
-        margin: 0px 5px}
+
 
 .imgbox {
             display: grid;
@@ -31,13 +29,18 @@ li {
             max-height: 100vh;
             margin: auto;}
 
-ul {    
-        width: 80%;
+#navigation {    
+        width: 95%;
         padding: 2%;
         margin: 0px auto 0px auto;
         border-top: 2px solid #000;
         border-bottom: 1px solid #000;
         text-align: center;}
+
+#navigation.li {
+        display: inline;
+        margin: 0px 5px}
+
 p {             
         text-align: left;
         width: 80%;
