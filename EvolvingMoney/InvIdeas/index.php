@@ -1,11 +1,22 @@
+<!DOCTYPE html>
 <html>
-  
-  	 <head>		
-       <title>Contrarian Investment Ideas</title>	
-  </head>
+<head>		
+		<title>Investment Ideas</title>
+	 	<link type="text/css" rel="stylesheet" href = "../css/learningPage.css"/>
+       		<meta name="description"
+             		content="Investment ideas, a mixture of macro and contrarian investment opportunites" />
+       		<meta name="keywords"
+             		content="investments, new, macro, contrarian" />
+       		<meta name="robots"
+             		content="follow" />
+       		<meta http-equiv="author"
+             		content="Leon Bond" />
+
+</head>
+
 <body>	
-<h1>			 <img src="Images/EM_logo.GIF"					 alt="Evolving Money" />		 </h1>	 
-<br>	 
+<?php include("../header.html");?>
+<br>
 <h1>Investment Ideas</h1>		 
    <p>Latest investment ideas:</p>
    
