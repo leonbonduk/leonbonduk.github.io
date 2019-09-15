@@ -18,7 +18,7 @@ body {
 #logo { width: 70%;
         margin: 0px auto 2px auto;}     
 
-#navigation {
+li {
         display: inline;
         margin: 0px 5px}
 
