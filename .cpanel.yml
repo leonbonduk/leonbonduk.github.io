@@ -3,3 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/evoltoxa/public_html/
     - /bin/cp EvolvingMoney/index.html $DEPLOYPATH
+    - /bin/cp EvolvingMoney/website_sandpit.html $DEPLOYPATH
