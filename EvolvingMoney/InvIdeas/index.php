@@ -15,7 +15,7 @@
 </head>
 
 <body>	
-<?php include("../includes/header.php");?>
+<?php include("../includes/header.html");?>
 <br>
 <h1>Investment Ideas</h1>		 
    <p>Latest investment ideas:</p>
