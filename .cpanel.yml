@@ -3,4 +3,15 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/evoltoxa/public_html/
     - /bin/cp EvolvingMoney/index.html $DEPLOYPATH
-    - /bin/cp EvolvingMoney/website_sandpit.html $DEPLOYPATH
+    - /bin/cp EvolvingMoney/about-us.html $DEPLOYPATH
+    - /bin/cp EvolvingMoney/contact.html $DEPLOYPATH
+    - /bin/cp -R EvolvingMoney/ContIdeas $DEPLOYPATH
+    - /bin/cp -R EvolvingMoney/CryptoIdeas $DEPLOYPATH
+    - /bin/cp -R EvolvingMoney/Further_Reading $DEPLOYPATH
+    - /bin/cp -R EvolvingMoney/Images $DEPLOYPATH
+    - /bin/cp -R EvolvingMoney/InvIdeas $DEPLOYPATH
+    - /bin/cp -R EvolvingMoney/MacroIdeas $DEPLOYPATH
+    - /bin/cp -R EvolvingMoney/PerToPer $DEPLOYPATH
+    - /bin/cp -R EvolvingMoney/cryptographicMoney $DEPLOYPATH
+    - /bin/cp -R EvolvingMoney/css $DEPLOYPATH
+    - /bin/cp -R EvolvingMoney/includes $DEPLOYPATH
