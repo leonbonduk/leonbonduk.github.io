@@ -1,55 +1,9 @@
 <html>
   
   	 <head>		
-       <title>WORLD OF INVESTMENTS</title>	
-  </head>
-<body>	
+       <title>Contact Us</title>	
 
- <link href="css/styles.css" type="text/css" rel="stylesheet" />
-
-<style type="text/css">			 
-body {	font-size: 80%;				 
-        font-family: "Arial", Arial, sans-serif;		   
-	letter-spacing: 0.15em;				
-	/*background-color: #efefef;8?
-	}
-
-#page {	max-width: 940px;				     
-	min-width: 720px;				     
-	margin: 10px auto 10px auto;		   
-	padding: 20px;				 
-        /*border: 4px double #000;				 
-	background-color: #ffffff; */}			 
-#logo {	width: 920px;				 
-        margin: 0px auto 2px auto;}	
-  
-.imgbox {
-            display: grid;
-            height: 100%;
-        }
-.center-fit {
-            max-width: 100%;
-            max-height: 100vh;
-            margin: auto;
-        }
-ul {	width: 920px;				 
-      padding: 7px;				 
-      margin: 0px auto 0px auto;			
-	border-top: 2px solid #000;			
-	border-bottom: 1px solid #000;			
-	text-align: center;}			 
-li {		
-	display: inline;				 
-        margin: 0px 5px;}			 
-
-p {		
-	text-align: center;				     
-	width: 600px; 				 
-        margin: 20px auto 20px auto; 		  
-	font-weight: normal;}
-
-
-	 </style>
+       <link href="css/learningPage.css" type="text/css" rel="stylesheet" />
 
        <meta name="description"
              content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
@@ -63,32 +17,15 @@ p {
              
   </head>
 <body>
-<div id="page">			 
-<div id="logo">
-<img src="Images/EM_logo.GIF" alt="Evolving Money" />	
-</div>
-<ul id="navigation">	 
-<li><a href="index.html" class="on">Home</a></li>
-  <li><a href="about-us.html">About</a></li>
-  
-  <li><a href="InvIdeas/index.html">Contrarian</a></li>
-  <li><a href="MacroIdeas/index.html">Macro</a></li>
-<li><a href="cryptographicMoney/what-is-crypto.html">E-Money</a></li>
-  <!-- <li><a href="glossary.html">Glossary</a></li>
-  <li><a href="brokers.html">Brokers</a></li>	
-  <li><a href="property.html">Property</a></li>	
-  <li><a href="online-banking.html">Online Banking</a></li>	-->
-  
-  <li><a href="PerToPer/index.html">P2P</a></li>	 
-  
-  <li><a href="Further_Reading/index.html">G&T</a></li>	
-  
-  <li><a href="contact.html">Contact</a></li>	 
-  </ul>
-	 
+	<?php include("includes/header.html");?>
+		 
+    <div id="logo">
+        <img src="Images/EM_logo.GIF" alt="Evolving Money" />	
+    </div>
+
 <h2> <img src="Images/ContactUs_logo.GIF" alt="Contact Us" /> </h2>
 <br>	
-<a href="mailto:leonbond@hotmail.com">Email Leon</a>
+<a href="mailto:leon@evolving.money">Email Leon</a>
 <br>
 <br>
 <a href="mailto:james_graham_day@yahoo.co.uk">Email James</a>

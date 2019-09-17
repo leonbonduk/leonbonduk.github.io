@@ -17,11 +17,11 @@
              
   </head>
 <body>
-	<?php include("../includes/header.html");?>
+	<?php include("includes/header.html");?>
     <br>
     <div class="imgbox">
     <img class="center-fit" src="Images/EM_circ_logo.jpg">
     </div>
-  	<?php include("../includes/footer.html");?>  
+  	<?php include("includes/footer.html");?>  
  </body> 
 </html> 
