@@ -25,10 +25,10 @@
 
 <h2> <img src="Images/ContactUs_logo.GIF" alt="Contact Us" /> </h2>
 <br>	
-<a href="mailto:leon@evolving.money">Email Leon</a>
+<a href="mailto:leon@evolving.money">Email: Leon</a>
 <br>
 <br>
-<a href="mailto:james_graham_day@yahoo.co.uk">Email James</a>
+<a href="mailto:james_graham_day@yahoo.co.uk">Email: James</a>
 <br>
 
   
