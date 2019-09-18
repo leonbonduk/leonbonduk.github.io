@@ -4,6 +4,33 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+.site-footer {
+  padding: 1rem;
+  background: #8a8a8a;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.site-footer .social-footer-icons li:last-of-type {
+  margin-right: 0;
+}
+
+.site-footer .site-footer-icons .fa {
+  font-size: 1.3rem;
+  color: #fefefe;
+}
+
+.site-footer .site-footer-icons .fa:hover {
+  color: #4a4a4a;
+  transition: color 0.3s ease-in;
+}
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -38,7 +65,7 @@
 <footer class="site-footer">
   <div id="footer-content"> 
     <div class="site-footer-left">
-        <p> &copy 2019 Evolving Money</p>
+        <p> &copy 2019 Evolving Money - All rights reserved</p>
     </div>
     <div class="site-footer-icons">
         <li><a href="http://www.facebook.com/110666326994953" class="fa fa-facebook"></a></li>
