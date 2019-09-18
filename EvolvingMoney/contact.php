@@ -18,9 +18,11 @@
   </head>
 <body>
 	<?php include("includes/header.html");?>
-
+	
 <h2> <img src="Images/ContactUs_logo.GIF" alt="Contact Us" /> </h2>
 <br>	
+<p>If you would like to get in touch with us then please drop either of us an email: </p>
+<br>
 <a href="mailto:leon@evolving.money">Email: Leon</a>
 <br>
 <br>
