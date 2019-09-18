@@ -1,14 +1,23 @@
+<!DOCTYPE html>
 <html>
-  	
-  	 <head>		
-       <title>P2P INVESTMENTS</title>	
+   	 <head>		
+       <title>P2P Investments</title>
+
+       <link href="../css/learningPage.css" type="text/css" rel="stylesheet" />
+
+       <meta name="description"
+             content="Guide to new types of p2p investments." />
+       <meta name="keywords"
+             content="investments, new, p2p" />
+       <meta name="robots"
+             content="follow" />
+       <meta http-equiv="author"
+             content="Leon Bond" />
+       	 
+             
   </head>
-<body>		
-<h1>			 <img src="../Images/WofI_logo.GIF"					 alt="World Of Investments" />		 </h1>	 
-<br>	 
-
-<h1>P2P INVESTMENTS</h1>
-
+<body>
+	<?php include("../includes/header.html");?>
 <p>Find out all about P2P Investments. Compare the person-to-person lending market...<p>		 
 <br>
 <table>			 
@@ -37,26 +46,8 @@
 </tr>
 <!-- more rows like the two above here -->			 
 </tbody>			 <tfoot>				 <tr>					 <td></td>					 <td colspan="2">Great way to diversify an investment portfolio!</td>				 </tr>			 </tfoot>		 </table>	 </body> <br>
-<p>	 <ul>		 <li><a <h2>Global Map</h2>		 
-<p>	 <ul>		 <li><a href="index.html">Home</a></li>
-  <li><a href="about-us.html">About</a></li>
-  
-  <li><a href="InvIdeas/index.html">Contrarian Ideas</a></li>
-  <li><a href="MacroIdeas/index.html">Macro Ideas</a></li>
-<li><a href="CryptoIdeas/index.html">Crypto Ideas</a></li>
-  <!-- <li><a href="glossary.html">Glossary</a></li>
-  <li><a href="brokers.html">Brokers</a></li>	
-  <li><a href="property.html">Property</a></li>	
-  <li><a href="online-banking.html">Online Banking</a></li>	-->
-  
-  <li><a href="PerToPer/index.html">P2P</a></li>	 
-  
-  <li><a href="Further_Reading/index.html">Further Reading</a></li>	
-  
-  <li><a href="contact.html">Contact</a></li>	 
-  </ul> </p>
 
-  
+</div>
+  	<?php include("../includes/footer.html");?>  
   </body> 
-
-</html>
+</html> 
