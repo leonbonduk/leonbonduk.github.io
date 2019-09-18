@@ -17,7 +17,9 @@
 <body>
 	<?php include("includes/header.html");?>
 <br>	
-<h2> <img src="Images/ContactUs_logo.GIF" alt="Contact Us" /> </h2>
+<div class="imgbox">
+    <img src="Images/ContactUs_logo.GIF" alt="Contact Us" />
+	</div>
 <br>	
 <p>If you would like to get in touch with us then please drop either of us an email: </p>
 <br>
@@ -25,6 +27,8 @@
 <br>
 <br>
 <a href="mailto:james_graham_day@yahoo.co.uk">Email: James</a>
+<br>
+<br>
 <br>
   	<?php include("includes/footer.html");?>  
 </body> 
