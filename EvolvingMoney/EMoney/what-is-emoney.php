@@ -16,6 +16,11 @@
 
 <body>
 	<?php include("../includes/header.html");?>
+	<ul id="navigation">	 
+  		<li><a href="what-is-crypto.html" class="on">E-Money></a></li>
+  		<li><a href="crypto.html">Crypto</a></li>
+  		<li><a href="banking.html">Banking</a></li>
+     	</ul>
 	<br>
 	<div class="imgbox">
     		<img class="center-fit" src="../Images/EMoney_logo.GIF">
