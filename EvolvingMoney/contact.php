@@ -15,11 +15,13 @@
 </head>
 
 <body>
-	<?php include("includes/header.html");?>
+
 
     <div id="page-container">
         <div id="content-wrap">
-            <br>	
+            	
+            <?php include("includes/header.html");?>
+            <br>
                 <div class="imgbox">
                     <img src="Images/ContactUs_logo.GIF" alt="Contact Us" />
 	            </div>
