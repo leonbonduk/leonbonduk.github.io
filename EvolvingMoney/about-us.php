@@ -2,7 +2,7 @@
 <html>
 <head>		
 		<title>E-Money</title>
-	 	<link type="text/css" rel="stylesheet" href = "../css/learningPage.css"/>
+	 	<link type="text/css" rel="stylesheet" href = "css/learningPage.css"/>
 
        		<meta name="description"
              		content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
@@ -15,7 +15,7 @@
 </head>
 
 <body>
-	<?php include("../includes/header.html");?>
+	<?php include("includes/header.html");?>
 	<br>
 <h1>			 <img src="Images/AboutUs_logo.GIF"					 alt="Evolving Money" />		 </h1>
 <br>
@@ -26,7 +26,7 @@
 <p> We are here to be your guides to the world of new types of investments, payments technologies, and even changes in money itself. More than that we are here to break it down by region, different parts of the world are doing different things, innovation tends to happen at the edges and move to the centre. We aim to be at the frontier giving you the story as it unfolds.
 <br>
 	
-  	<?php include("../includes/footer.html");?>  
+  	<?php include("includes/footer.html");?>  
 </body> 
 	
 </html> 
