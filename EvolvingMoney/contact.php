@@ -2,7 +2,7 @@
 <html>
 <head>		
 		<title>E-Money</title>
-	 	<link type="text/css" rel="stylesheet" href = "../css/learningPage.css"/>
+	 	<link type="text/css" rel="stylesheet" href = "css/learningPage.css"/>
 
        		<meta name="description"
              		content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
@@ -15,10 +15,10 @@
 </head>
 
 <body>
-	<?php include("../includes/header.html");?>
+	<?php include("includes/header.html");?>
 	<br>
 	<div class="imgbox">
-    		<img class="center-fit" src="../Images/EMoney_logo.GIF">
+    		<img class="center-fit" src="Images/EMoney_logo.GIF">
 	</div>
 
 		<p> One of the most exciting and least understood areas in finance is online purchasing and how it's still changing. Commerce has moved online, and those that have made 
@@ -36,7 +36,7 @@ finance that doesn't sufficiently innovate, could suffer a similar fate.   </p>
 
 	</div>
 	
-  	<?php include("../includes/footer.html");?>  
+  	<?php include("includes/footer.html");?>  
 </body> 
 	
 </html> 
