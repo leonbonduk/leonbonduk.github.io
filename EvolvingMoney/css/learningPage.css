@@ -12,13 +12,29 @@ body {
         letter-spacing: 0.15em; 
         /*background-color:rgb(128,128,128);*/}
 
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}
+
 #logo { width: 90%;
         margin: 0px auto 2px auto;}     
 
 .imgbox {
-            display: grid;
-            height: 100%;}
-
+        text-align: left;
+        width: 90%;
+        margin: 20px auto 20px auto;}
 .center-fit {
             max-width: 100%;
             max-height: 100vh;
@@ -46,31 +62,15 @@ p {
         font-size: 100%;
         letter-spacing: 0.15 em;
         line-height: 1.5 em}
-        
-.social-footer {
-  padding: 1rem;
-  background: #8a8a8a;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-}
 
-.site-footer .social-footer-icons li:last-of-type {
-  margin-right: 0;
-}
+a {             
+        text-align: left;
+        width: 90%;
+        margin: 20px auto 20px auto;
+        font-weight: normal;
+        font-style: sans-serif;
+        font-family: helvetica;
+        font-size: 100%;
+        letter-spacing: 0.15 em;
+        line-height: 1.5 em}
 
-.site-footer .site-footer-icons .fa {
-  font-size: 1.3rem;
-  color: #fefefe;
-}
-
-.site-footer .site-footer-icons .fa:hover {
-  color: #4a4a4a;
-  transition: color 0.3s ease-in;
-}

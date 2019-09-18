@@ -16,21 +16,28 @@
 
 <body>
 	<?php include("includes/header.html");?>
-<br>	
-<div class="imgbox">
-    <img src="Images/ContactUs_logo.GIF" alt="Contact Us" />
-	</div>
-<br>	
-<p>If you would like to get in touch with us then please drop either of us an email: </p>
-<br>
-<a href="mailto:leon@evolving.money">Email: Leon</a>
-<br>
-<br>
-<a href="mailto:james_graham_day@yahoo.co.uk">Email: James</a>
-<br>
-<br>
-<br>
-  	<?php include("includes/footer.html");?>  
+
+    <div id="page-container">
+        <div id="content-wrap">
+            <br>	
+                <div class="imgbox">
+                    <img src="Images/ContactUs_logo.GIF" alt="Contact Us" />
+	            </div>
+            <br>	
+            <p>If you would like to get in touch with us then please drop either of us an email: </p>
+            <br>
+            <a href="mailto:leon@evolving.money">Email: Leon</a>
+            <br>
+            <br>
+            <a href="mailto:james_graham_day@yahoo.co.uk">Email: James</a>
+            <br>
+            <br>
+            <br>
+        </div>
+        <footer id="footer">
+  	        <?php include("includes/footer.html");?>  
+  	    </footer>
+  	</div>
 </body> 
 	
 </html> 
