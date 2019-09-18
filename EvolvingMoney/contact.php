@@ -1,8 +1,7 @@
+<!DOCTYPE html>
 <html>
-  
-  	 <head>		
+<head>		
        <title>Contact Us</title>	
-
        <link href="css/learningPage.css" type="text/css" rel="stylesheet" />
 
        <meta name="description"
@@ -13,12 +12,11 @@
              content="follow" />
        <meta http-equiv="author"
              content="Leon Bond" />
-       	 
-             
-  </head>
+   	 
+</head>
 <body>
 	<?php include("includes/header.html");?>
-	
+<br>	
 <h2> <img src="Images/ContactUs_logo.GIF" alt="Contact Us" /> </h2>
 <br>	
 <p>If you would like to get in touch with us then please drop either of us an email: </p>
