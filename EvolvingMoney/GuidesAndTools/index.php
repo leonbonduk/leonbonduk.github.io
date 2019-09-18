@@ -1,7 +1,7 @@
+<!DOCTYPE html>
 <html>
-  
-  	 <head>		
-       <title>Contact Us</title>	
+   	 <head>		
+       <title>Guides and Tools</title>
 
        <link href="css/learningPage.css" type="text/css" rel="stylesheet" />
 
@@ -19,14 +19,13 @@
 <body>
 	<?php include("includes/header.html");?>
 
-<h2> <img src="Images/ContactUs_logo.GIF" alt="Contact Us" /> </h2>
-<br>	
-<a href="mailto:leon@evolving.money">Email: Leon</a>
-<br>
-<br>
-<a href="mailto:james_graham_day@yahoo.co.uk">Email: James</a>
-<br>
-
-  	<?php include("includes/footer.html");?>    
+<div class="imgbox">
+    <img class="center-fit" src="../Images/G&T_logo.GIF">
+</div>
+<p> Sorry no alcohol here! Bit hopefully you find this Guides and Tools section useful. A mix of books and websites we have found useful in learning the world of investment oppportunities. We have even collated a glossary of terms to help decipher all the confusing terminology you may come across!
+</p>
+</div>
+  	<?php include("includes/footer.html");?>  
   </body> 
-</html>
+</html> 
+

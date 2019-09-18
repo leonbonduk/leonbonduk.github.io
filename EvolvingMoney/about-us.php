@@ -18,10 +18,6 @@
   </head>
 <body>
 	<?php include("includes/header.html");?>
- 
-<div id="logo">
-<img src="Images/EM_logo.GIF" alt="Evolving Money" />	
-</div>
 
 <h1>			 <img src="Images/AboutUs_logo.GIF"					 alt="Evolving Money" />		 </h1>
 <br>
