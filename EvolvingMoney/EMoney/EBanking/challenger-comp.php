@@ -5,7 +5,7 @@
 		<title>Comapre the Challenger Banks</title>
 		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="../../css/reset.css"> <!-- CSS reset -->
-		<link rel="stylesheet" href="../../css/style.css"> <!-- Resource style -->
+		<link rel="stylesheet" href="../../css/style-comp-table.css"> <!-- Resource style -->
 		<script src="../../js/modernizr.js"></script> <!-- Modernizr -->
 
        		<meta name="description"
