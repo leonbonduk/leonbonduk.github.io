@@ -5,7 +5,7 @@
 		<title>Comapre the Challenger Banks</title>
 		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="../../css/reset.css"> <!-- CSS reset -->
-	 	<link type="text/css" rel="stylesheet" href = "../css/learningPage.css"/>
+	 	<!-- <link type="text/css" rel="stylesheet" href = "../css/learningPage.css"/> !-->
 		<link rel="stylesheet" href="../../css/style-comp-table.css"> <!-- Resource style -->
 		<script src="../../js/modernizr.js"></script> <!-- Modernizr -->
 
@@ -30,7 +30,7 @@
 	<div class="imgbox">
     		<img class="center-fit" src="../Images/Banking_logo.GIF">
 	<section class="cd-intro">
-		<h1>Products Comparison Table 2</h1>
+		<h1>Products Comparison Table 3</h1>
 	</section> <!-- .cd-intro -->
 	<section class="cd-products-comparison-table">
 		<header>
