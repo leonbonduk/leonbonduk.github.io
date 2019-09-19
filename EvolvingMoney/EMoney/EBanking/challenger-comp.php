@@ -30,7 +30,7 @@
 	<div class="imgbox">
     		<img class="center-fit" src="../Images/Banking_logo.GIF">
 	<section class="cd-intro">
-		<h1>Products Comparison Table 3</h1>
+		<h1>Products Comparison Table 4</h1>
 	</section> <!-- .cd-intro -->
 	<section class="cd-products-comparison-table">
 		<header>
