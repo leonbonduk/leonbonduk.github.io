@@ -17,9 +17,9 @@
 <body>
 	<?php include("../includes/header.html");?>
 	<ul id="navigation">	 
-  		<li><a href="what-is-crypto.html" class="on">E-Money></a></li>
-  		<li><a href="crypto.html">Crypto</a></li>
-  		<li><a href="banking.html">Banking</a></li>
+  		<li><a href="what-is-emoney.php" class="on">E-Money></a></li>
+  		<li><a href="crypto.php">Crypto</a></li>
+  		<li><a href="banking.php">Banking</a></li>
      	</ul>
 	<br>
 	<div class="imgbox">
@@ -40,8 +40,10 @@ over the next 5-10 years. Many of these new entrants to global e-commerce are cu
 finance that doesn't sufficiently innovate, could suffer a similar fate.   </p>
 
 	</div>
-	
-  	<?php include("../includes/footer.html");?>  
+
+        <footer id="footer">	
+  		<?php include("../includes/footer.html");?>  
+ 	</footer>
 </body> 
 	
 </html> 
