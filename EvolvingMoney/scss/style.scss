@@ -455,7 +455,7 @@ Main Components
 
 	height: 60px;
 	width: 40px;
-	background: rgba($color-1, .8) url('../img/cd-arrow.svg') no-repeat center center;
+	background: rgba($color-1, .8) url('../Images/cd-arrow.svg') no-repeat center center;
 	border-radius: 3px;
 	@include transition(background-color .3s, opacity .3s, visibility .3s, transform .3s);
 
