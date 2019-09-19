@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="../../css/reset.css"> <!-- CSS reset -->
 	 	<!-- <link type="text/css" rel="stylesheet" href = "../css/learningPage.css"/> !-->
 		<link rel="stylesheet" href="../../css/style-comp-table.css"> <!-- Resource style -->
-		<script src="../../js/modernizr.js"></script> <!-- Modernizr -->
+		<script src="https://evolving.money/js/modernizr.js"></script> <!-- Modernizr -->
 
        		<meta name="description"
              		content="Guide to comparing the new challenger banks." />
@@ -67,7 +67,7 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="../../Images/product.png" alt="product image">
+							<img src="https://evolving.money/Images/product.png" alt="product image">
 							<h3>Sumsung Series 6 J6300</h3>
 						</div> <!-- .top-info -->
 
@@ -248,8 +248,8 @@
 			</ul>
 		</div> <!-- .cd-products-table -->
 	</section> <!-- .cd-products-comparison-table -->
-<script src="../../js/jquery-2.1.4.js"></script>
-<script src="../../js/main.js"></script> <!-- Resource jQuery -->
+<script src="https://evolving.money/js/jquery-2.1.4.js"></script>
+<script src="https://evolving.money/js/main.js"></script> <!-- Resource jQuery -->
 
        <footer id="footer">
  	      <?php include("../../includes/footer.html");?>  
