@@ -19,7 +19,7 @@
 	<ul id="navigation">	 
   		<li><a href="what-is-emoney.php" class="on">E-Money></a></li>
   		<li><a href="crypto.php">Crypto</a></li>
-  		<li><a href="EBanking/banking.php">Banking</a></li>
+  		<li><a href="EBanking/challenger-comp.php">Banking</a></li>
      	</ul>
 	<br>
 	<div class="imgbox">
