@@ -69,11 +69,12 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img src="https://evolving.money/Images/Revolut_logo_EM.png" alt="product image">
+							<img src="https://evolving.money/Images/Revolut_card_EM.png" alt="product image">
 							<h3>Revolut</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
-							<li><img src="https://evolving.money/Images/Revolut_card_EM.png" alt="product image"></li>
+							<li>xxx</li>
 							<li class="rate"><span>5/5</span></li>
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
@@ -92,11 +93,12 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img src="https://evolving.money/Images/Revolut_logo_EM.png" alt="product image">
+							<img src="https://evolving.money/Images/Revolut_prem_EM.png" alt="product image">
 							<h3>Revolut Premium</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
-							<li><img src="https://evolving.money/Images/Revolut_prem_EM.png" alt="product image"></li>
+							<li>xxx</li>
 							<li class="rate"><span>5/5</span></li>
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
@@ -115,11 +117,12 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img src="https://evolving.money/Images/Revolut_logo_EM.png" alt="product image">
+							<img src="https://evolving.money/Images/Revolut_metal_EM.png" alt="product image">
 							<h3>Revolut Metal</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
-							<li><img src="https://evolving.money/Images/Revolut_metal_EM.png" alt="product image"></li>
+							<li>xxx</li>
 							<li class="rate"><span>5/5</span></li>
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
