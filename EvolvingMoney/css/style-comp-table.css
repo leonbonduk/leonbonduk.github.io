@@ -226,6 +226,18 @@ Main Components
   border-top-width: 1px;
   border-right-width: 1px;
 }
+
+.cd-features-subheading {
+   font-size: 1.8rem;
+  font-weight: bold;
+  padding: 25px 40px;
+  border-color: #e6e6e6;
+  border-style: solid;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  background: #8a8a8a;
+}
+
 .cd-features-list li.rate {
   /* rating stars */
   padding: 21px 0;
