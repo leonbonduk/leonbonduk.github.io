@@ -68,8 +68,7 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="https://evolving.money/Images/Revolut_logo_EM.png" alt="product image">
-							<img src="https://evolving.money/Images/Revolut_card_EM.png" alt="product image">
+							<img src="https://evolving.money/Images/Revolut_card_logo_EM.png" alt="product image">
 							<h3>Revolut</h3>
 						</div> <!-- .top-info -->
 
@@ -92,8 +91,7 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="https://evolving.money/Images/Revolut_logo_EM.png" alt="product image">
-							<img src="https://evolving.money/Images/Revolut_prem_EM.png" alt="product image">
+							<img src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image">
 							<h3>Revolut Premium</h3>
 						</div> <!-- .top-info -->
 
@@ -116,8 +114,7 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="https://evolving.money/Images/Revolut_logo_EM.png" alt="product image">
-							<img src="https://evolving.money/Images/Revolut_metal_EM.png" alt="product image">
+							<img src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
 							<h3>Revolut Metal</h3>
 						</div> <!-- .top-info -->
 
