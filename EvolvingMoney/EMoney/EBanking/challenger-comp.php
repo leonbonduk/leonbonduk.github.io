@@ -58,6 +58,7 @@
 					<li>Fee free ATM withdrawl</li>
 					<li>Banking liscense</li>
 					<li>Apple Pay</li>
+					<li class="cd-features-subheading">Security features</li>
 					<li>Virtual cards</li>
 				</ul>
 			</div> <!-- .features -->
@@ -85,6 +86,7 @@
 							<li>Up to £200pm</li>
 							<li>Received</li>
 							<li>Yes</li>
+							<li></li>
 							<li>Yes</li>
 						</ul>
 					</li> <!-- .product -->
@@ -103,13 +105,14 @@
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£6.99</li>
-							<li>Yes</li>
-							<li>Yes</li>
-							<li>Yes</li>
-							<li>Up to £400pm</li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"></li>
+							<li><img src="https://evolving.money/Images/cancelled.png" alt="product image">Up to £400pm</li>
 							<li>Received</li>
-							<li>Yes</li>
-							<li>Yes</li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"></li>
+							<li class="cd-features-subheading"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -133,6 +136,7 @@
 							<li>Up to £600pm</li>
 							<li>Received</li>
 							<li>Yes</li>
+							<li class="cd-features-subheading"></li>
 							<li>Yes</li>
 						</ul>
 					</li> <!-- .product -->
