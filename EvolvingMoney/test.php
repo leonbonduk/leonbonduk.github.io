@@ -24,7 +24,22 @@ body {
   text-decoration: none;
   font-size: 17px;
 }
+	
+.subnav {
+  float: left;
+  overflow: hidden;
+}
 
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
 .topnav a:hover {
   background-color: #ddd;
   color: black;
@@ -37,6 +52,30 @@ body {
 
 .topnav .icon {
   display: none;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: red;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
 }
 
 @media screen and (max-width: 600px) {
@@ -65,14 +104,36 @@ body {
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="#home" class="active">Home</a>
-  <a href="#news">News</a>
+  <a href="#home">Home</a>
+  <div class="subnav">
+    <button class="subnavbtn">About <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#company">Company</a>
+      <a href="#team">Team</a>
+      <a href="#careers">Careers</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Services <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#bring">Bring</a>
+      <a href="#deliver">Deliver</a>
+      <a href="#package">Package</a>
+      <a href="#express">Express</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Partners <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#link1">Link 1</a>
+      <a href="#link2">Link 2</a>
+      <a href="#link3">Link 3</a>
+      <a href="#link4">Link 4</a>
+    </div>
+  </div>
   <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
 </div>
+
 
 <div style="padding-left:16px">
   <h2>Responsive Topnav Example</h2>
@@ -90,7 +151,5 @@ function myFunction() {
 }
 </script>
 
-	
-	<?php include("includes/header.html");?>
 </body>
 </html>
