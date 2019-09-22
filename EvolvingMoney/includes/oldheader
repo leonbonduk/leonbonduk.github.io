@@ -1,0 +1,35 @@
+<html>
+
+<head>
+
+	<title></title>
+
+</head>
+
+<body>
+
+<div class="imgbox" id="logo"><img alt="Evolving Money" class="center-fit" src="https://www.evolving.money/Images/EM_logo.GIF" /></div>
+
+
+
+<ul id="navigation">
+
+	<li><a class="on" href="https://www.evolving.money/index.php">Home</a></li>
+
+	<li><a href="https://www.evolving.money/about-us.php">About</a></li>
+
+	<li><a href="https://www.evolving.money/InvIdeas/index.php">Contrarian</a></li>
+
+	<li><a href="https://www.evolving.money/EMoney/what-is-emoney.php">E-Money</a></li>
+
+	<li><a href="https://www.evolving.money/PerToPer/index.php">P2P</a></li>
+
+	<li><a href="https://www.evolving.money/GuidesAndTools/index.php">G&amp;T</a></li>
+
+	<li><a href="https://www.evolving.money/contact.php">Contact</a></li>
+
+</ul>
+
+</body>
+
+</html>
