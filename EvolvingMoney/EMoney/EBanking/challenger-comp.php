@@ -86,7 +86,7 @@
 							<li>Up to £200pm</li>
 							<li>Received</li>
 							<li>Yes</li>
-							<li> </li>
+							<li><br></li>
 							<li>Yes</li>
 						</ul>
 					</li> <!-- .product -->
@@ -105,14 +105,14 @@
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£6.99</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "16" width = "16"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "16" width = "16"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "16" width = "16"></li>
-							<li><img src="https://evolving.money/Images/cancel.png" alt="product image" height = "16" width = "16">Up to £400pm</li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "15" width = "15"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "15" width = "15"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "15" width = "15"></li>
+							<li><img src="https://evolving.money/Images/cancel.png" alt="product image" height = "15" width = "15"> Up to £400pm</li>
 							<li>Received</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "16" width = "16"></li>
-							<li class="cd-features-subheading"> </li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "16" width = "16"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "15" width = "15"></li>
+							<li class="cd-features-subheading"><br></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "15" width = "15"></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -136,7 +136,7 @@
 							<li>Up to £600pm</li>
 							<li>Received</li>
 							<li>Yes</li>
-							<li class="cd-features-subheading"> </li>
+							<li class="cd-features-subheading"><br></li>
 							<li>Yes</li>
 						</ul>
 					</li> <!-- .product -->
