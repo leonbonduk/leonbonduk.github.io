@@ -80,7 +80,7 @@
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£0.00</li>
-							<li>Yes</li>
+							<li><tick>Yes<tick></li>
 							<li>Yes</li>
 							<li>Yes</li>
 							<li>Up to £200pm</li>
