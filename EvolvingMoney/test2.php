@@ -274,20 +274,6 @@
 	STUFF
 -->
 
-<div class="sm">
-	<ul>
-		<li><a href="http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly" class="sm__back" title="Drop-Down Navigation: Touch-Friendly and Responsive">Article</a></li>
-		<li><a href="http://facebook.com/sharer/sharer.php?u=http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly" target="_blank" rel="nofollow" class="socialite facebook-like" data-href="http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false">Like</a></li>
-		<li><a href="http://plus.google.com/share?url=http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly" target="_blank" rel="nofollow" class="socialite googleplus-one" data-size="medium" data-href="http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly">+1</a></li>
-		<li><a href="http://twitter.com/intent/tweet?url=http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly&amp;text=Drop-Down Navigation: Touch-Friendly and Responsive&amp;via=osvaldas" target="_blank" rel="nofollow" class="socialite twitter-share" data-text="Drop-Down Navigation: Touch-Friendly and Responsive &ndash;" data-url="http://osvaldas.info/drop-down-navigation-responsive-and-touch-friendly" data-via="osvaldas" data-related="osvaldas" data-count="horizontal">Tweet</a></li>
-		<li><a href="http://twitter.com/osvaldas" class="socialite twitter-follow" target="_blank" rel="me" data-type="follow" data-show-count="true">Follow @osvaldas</a></li>
-	</ul>
-</div>
-
-<div class="ad">
-	<a href="#" class="ad__close" title="Close the ad"></a>
-	<script async src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=osvaldasinfo" id="_carbonads_js"></script>
-</div>
 
 <script src="https://www.evolving.money/navbar-nodejs/main.js"></script>
 <script>var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-7572727-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
