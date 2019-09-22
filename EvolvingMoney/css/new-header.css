@@ -8,3 +8,20 @@
 @import url( '_normalize.css' );
 @import url( '_defaults.css' );
 
+body,
+{
+	font-family: Lucida Grande, Helvetica Neue, Helvetica, Arial, Verdana, sans-serif;
+}
+
+a
+{
+	color: currentColor;
+	text-decoration: none;
+}
+
+.clearfix::after
+{
+	content: '';
+	display: table;
+	clear: both;
+}
