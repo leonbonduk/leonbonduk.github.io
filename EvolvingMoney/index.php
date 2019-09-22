@@ -3,7 +3,7 @@
    	 <head>		
        <title>Evolving Money</title>
 
-       <link href="css/learningPage.css" type="text/css" rel="stylesheet" />
+   <!--    <link href="css/learningPage.css" type="text/css" rel="stylesheet" /> !-->
 
        <meta name="description"
              content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
