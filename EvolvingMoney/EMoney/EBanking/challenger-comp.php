@@ -86,7 +86,7 @@
 							<li>Up to £200pm</li>
 							<li>Received</li>
 							<li>Yes</li>
-							<li></li>
+							<li> </li>
 							<li>Yes</li>
 						</ul>
 					</li> <!-- .product -->
@@ -94,7 +94,7 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image">
+							<img src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image"">
 		<!--					<img src="https://evolving.money/Images/product.png" alt="product image">
 		!-->					<h3>Revolut Premium</h3>
 						</div> <!-- .top-info -->
@@ -105,14 +105,14 @@
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£6.99</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"></li>
-							<li><img src="https://evolving.money/Images/cancelled.png" alt="product image">Up to £400pm</li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "16" width = "16"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "16" width = "16"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "16" width = "16"></li>
+							<li><img src="https://evolving.money/Images/cancel.png" alt="product image" height = "16" width = "16">Up to £400pm</li>
 							<li>Received</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"></li>
-							<li class="cd-features-subheading"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "16" width = "16"></li>
+							<li class="cd-features-subheading"> </li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "16" width = "16"></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -136,7 +136,7 @@
 							<li>Up to £600pm</li>
 							<li>Received</li>
 							<li>Yes</li>
-							<li class="cd-features-subheading"></li>
+							<li class="cd-features-subheading"> </li>
 							<li>Yes</li>
 						</ul>
 					</li> <!-- .product -->
