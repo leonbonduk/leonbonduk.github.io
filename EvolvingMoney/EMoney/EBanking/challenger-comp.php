@@ -105,14 +105,14 @@
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£6.99</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "15" width = "15"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "15" width = "15"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "15" width = "15"></li>
-							<li><img src="https://evolving.money/Images/cancel.png" alt="product image" height = "15" width = "15"> Up to £400pm</li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/cancel.png" alt="product image" height = "14" width = "14"> Up to £400pm</li>
 							<li>Received</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "15" width = "15"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "14" width = "14"></li>
 							<li class="cd-features-subheading"><br></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "15" width = "15"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "14" width = "14"></li>
 						</ul>
 					</li> <!-- .product -->
 
