@@ -59,7 +59,16 @@
 					<li>Banking liscense</li>
 					<li>Apple Pay</li>
 					<li class="cd-features-subheading">Security features</li>
+					<li>Transaction notification</li>
 					<li>Virtual cards</li>
+					<li>Freeze card in app</li>
+					<li>Magstripe disable</li>
+					<li>Online 3D secure</li>
+					<li>Refunds for fraudulent trans</li>
+					<li>Location based</li>
+					<li>Contactless disable</li>
+					<li>ATM disable</li>
+					<li>E commerce disable</li>
 				</ul>
 			</div> <!-- .features -->
 			
@@ -70,8 +79,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img src="https://evolving.money/Images/Revolut_card_logo_EM.png" alt="product image">
-			<!--				<img src="https://evolving.money/Images/product.png" alt="product image">
-			!-->				<h3>Revolut</h3>
+							<h3>Revolut</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -86,8 +94,17 @@
 							<li>Up to £200pm</li>
 							<li>Received</li>
 							<li>Yes</li>
-							<li><br></li>
-							<li>Yes</li>
+							<li class="cd-features-subheading"><br></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li>TBC</li>
+							<li>TBC</li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -95,8 +112,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image"">
-		<!--					<img src="https://evolving.money/Images/product.png" alt="product image">
-		!-->					<h3>Revolut Premium</h3>
+							<h3>Revolut Premium</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -112,7 +128,16 @@
 							<li>Received</li>
 							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "14" width = "14"></li>
 							<li class="cd-features-subheading"><br></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li>TBC</li>
+							<li>TBC</li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -120,8 +145,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
-		<!--					<img src="https://evolving.money/Images/product.png" alt="product image">
-		!-->					<h3>Revolut Metal</h3>
+							<h3>Revolut Metal</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -137,10 +161,50 @@
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li>Yes</li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li>TBC</li>
+							<li>TBC</li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 						</ul>
 					</li> <!-- .product -->
+					<li class="product">
+						<div class="top-info">
+							<div class="check"></div>
+							<img src="https://evolving.money/Images/Starling_card_logo_EM.png" alt="product image">
+							<h3>Starling</h3>
+						</div> <!-- .top-info -->
 
+						<ul class="cd-features-list">
+							<li>xxx</li>
+							<li class="rate"><span>5/5</span></li>
+							<li>London, 2015</li>
+							<li>2,000,000+</li>
+							<li>£0.00</li>
+							<li>Yes</li>
+							<li>Yes</li>
+							<li>Yes</li>
+							<li>Up to £600pm</li>
+							<li>Received</li>
+							<li>Yes</li>
+							<li class="cd-features-subheading"><br></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li>TBC</li>
+							<li>TBC</li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+						</ul>
+					</li> <!-- .product -->
 				</ul> <!-- .cd-products-columns -->
 			</div> <!-- .cd-products-wrapper -->    !-->
 			
@@ -159,3 +223,4 @@
 /body> 
 
 </html> 
+
