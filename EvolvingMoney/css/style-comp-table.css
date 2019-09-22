@@ -249,6 +249,13 @@ Main Components
   background: url(../Images/cd-star.svg);
   color: transparent;
 }
+.cd-features-list li tick {
+  display: inline-block;
+  height: 22px;
+  width: 110px;
+  background: url(../Images/Images/checked.png");
+  color: transparent;
+}
 @media only screen and (min-width: 1170px) {
   .cd-features-list li {
     font-size: 1.6rem;
