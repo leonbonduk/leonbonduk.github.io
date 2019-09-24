@@ -26,10 +26,12 @@
 			width: 100%; /* 1000 */
 			font-family: 'Open Sans', sans-serif;
 			font-weight: 400;
-			position: absolute;
-			top: 25%;
-			left: 50%;
-			margin-left: -30em; /* 30 480 */
+			/* position: absolute; */
+			float: left;
+			top: 0%; /* 25% */
+			left: 0%;   /* 50% */
+			margin-left: 0em; /* -30em */
+			margin-right: 0em;
 		}
 
 			#nav > a
@@ -48,7 +50,7 @@
 				}
 				#nav li a:active
 				{
-					background-color: #c00 !important;
+					background-color: #274168 !important;
 				}
 
 			#nav span:after
@@ -87,12 +89,12 @@
 					}
 						#nav > ul > li:not( :last-child ) > a
 						{
-							border-right: 1px solid #cc470d;
+							border-right: 1px solid #233766;
 						}
 						#nav > ul > li:hover > a,
 						#nav > ul:not( :hover ) > li.active > a
 						{
-							background-color: #cc470d;
+							background-color: #233766;
 						}
 
 
