@@ -10,7 +10,7 @@
 	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link rel="canonical" href="https://www.evolving.money/">
-	<link rel="icon" href="../favicon.ico" />
+	<link rel="icon" href="https://www.evolving.money/favicon.ico" />
 	<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
 	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400">
 	<style>
