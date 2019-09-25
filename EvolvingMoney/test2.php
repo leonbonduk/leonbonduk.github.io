@@ -158,10 +158,10 @@
 				#nav > a
 				{
 					width: 3.125em; /* 3.125em or 50 */
-					height: 3.125em; /* 3.125em or 50*/
+					height: 100%; /* 3.125em or 50*/
 					text-align: left;
 					text-indent: -9999px;
-					background-color: #274168; /*  #f47e29*/
+					background-color: #274168; /*  #f47e29 back ground to burger */
 					position: relative;
 				}
 					#nav > a:before,
@@ -169,14 +169,15 @@
 					{
 						position: absolute;
 						border: 2px solid #fff; /*#fff */
-						top: 35%; /* 35% */
-						left: 25%;
-						right: 25%;
+						top: 35%; /* 35% top part of burger */
+						left: 20; /* 25% */
+						width: 25;
+						/*right: 25%; /* 25% */
 						content: '';
 					}
 					#nav > a:after
 					{
-						top: 60%; /* 60% */
+						top: 60%; /* 60% bottom part of burger */
 
 					}
 
