@@ -52,7 +52,7 @@
 				}
 				#nav li a:active
 				{
-					background-color: #315084 !important;
+					background-color: #315084 !important;  /* hovered over top barw*/
 				}
 
 			#nav span:after
@@ -61,7 +61,7 @@
 				height: 0;
 				border: 0.313em solid transparent; /* 5 */
 				border-bottom: none;
-				border-top-color: #4772bb; /* hopefully the arow*/
+				border-top-color: #4772bb; /* sub-menu arrow*/
 				content: '';
 				vertical-align: middle;
 				display: inline-block;
@@ -104,7 +104,7 @@
 
 				#nav li ul
 				{
-					background-color: #cc470d;
+					background-color: #315084; /* sub-menu unselected */
 					display: none;
 					position: absolute;
 					top: 100%;
