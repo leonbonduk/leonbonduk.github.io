@@ -157,18 +157,18 @@
 			}
 				#nav > a
 				{
-					width: 3.125em; /* 50 */
-					height: 3.125em; /* 50 */
+					width: 3.125em; /* 3.125em or 50 */
+					height: 2px; /* 3.125em or 50*/
 					text-align: left;
 					text-indent: -9999px;
-					background-color: #fff; /* #274168 */
+					background-color: #f47e29; /* #274168 */
 					position: relative;
 				}
 					#nav > a:before,
 					#nav > a:after
 					{
 						position: absolute;
-						border: 2px solid #fff;
+						border: 2px solid #f47e29; /*#fff */
 						top: 20%; /* 35% */
 						left: 25%;
 						right: 25%;
