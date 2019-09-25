@@ -184,7 +184,6 @@
 					}
 
 				#nav:not( :target ) > a:first-of-type,
-			/*	#nav:target > a:first-of-type(2),*/
 				#nav:target > a:last-of-type
 				{
 					display: block;
