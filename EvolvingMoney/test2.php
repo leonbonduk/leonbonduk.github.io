@@ -161,7 +161,7 @@
 					height: 3.125em; /* 50 */
 					text-align: left;
 					text-indent: -9999px;
-					background-color: #274168;
+					background-color: #fff; /* #274168 */
 					position: relative;
 				}
 					#nav > a:before,
@@ -173,10 +173,6 @@
 						left: 25%;
 						right: 25%;
 						content: '';
-					}
-					#nav > a:after
-					{
-						top: 45%;
 					}
 					#nav > a:after
 					{
