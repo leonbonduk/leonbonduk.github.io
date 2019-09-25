@@ -61,7 +61,7 @@
 				height: 0;
 				border: 0.313em solid transparent; /* 5 */
 				border-bottom: none;
-				border-top-color: #274168;
+				border-top-color: #4772bb; /* hopefully the arow*/
 				content: '';
 				vertical-align: middle;
 				display: inline-block;
@@ -74,7 +74,7 @@
 			#nav > ul
 			{
 				height: 3.75em; /* 60 */
-				background-color: #4772bb; /* hopefully the arrow */
+				background-color: #274168; /* #4772bb inactive top box color */
 			}
 				#nav > ul > li
 				{
