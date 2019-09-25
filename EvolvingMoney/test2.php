@@ -181,9 +181,10 @@
 					#nav > a:after
 					{
 						top: 70%; /* 60% */
+						display: block;
 					}
 
-				#nav:not( :target ) > a:first-of-type,
+		/*		#nav:not( :target ) > a:first-of-type,
 				#nav:target > a:last-of-type (1)
 				{
 					display: block;
@@ -191,7 +192,7 @@
 				#nav:target > a:last-of-type
 				{
 					display: block;
-				}
+				} */
 
 			/* first level */
 
