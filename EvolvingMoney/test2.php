@@ -164,11 +164,11 @@
 					background-color: #274168; /*  #f47e29*/
 					position: relative;
 				}
-				/*	#nav > a:before,*/
+					#nav > a:before,
 					#nav > a:after
 					{
 						position: absolute;
-						border: 2px solid #f47e29; /*#fff */
+						border: 2px solid #fff; /*#fff */
 						top: 20%; /* 35% */
 						left: 25%;
 						right: 25%;
@@ -176,10 +176,15 @@
 					}
 					#nav > a:after
 					{
+						top: 45%; /* 60% */
+					}
+					#nav > a:after
+					{
 						top: 70%; /* 60% */
 					}
 
 				#nav:not( :target ) > a:first-of-type,
+				#nav:target > a:first-of-type(2),
 				#nav:target > a:last-of-type
 				{
 					display: block;
