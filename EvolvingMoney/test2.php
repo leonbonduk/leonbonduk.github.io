@@ -169,14 +169,18 @@
 					{
 						position: absolute;
 						border: 2px solid #fff;
-						top: 35%;
+						top: 20%; /* 35% */
 						left: 25%;
 						right: 25%;
 						content: '';
 					}
 					#nav > a:after
 					{
-						top: 60%;
+						top: 45%;
+					}
+					#nav > a:after
+					{
+						top: 70%; /* 60% */
 					}
 
 				#nav:not( :target ) > a:first-of-type,
