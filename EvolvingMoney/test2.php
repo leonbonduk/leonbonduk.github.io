@@ -157,8 +157,8 @@
 			}
 				#nav > a
 				{
-					width: 3.125em; /* 3.125em or 50 */
-					height: 100%; /* 3.125em or 50*/
+					width: 100%; /* 3.125em or 50 */
+					height: 3.125em; /* 3.125em or 50*/
 					text-align: left;
 					text-indent: -9999px;
 					background-color: #274168; /*  #f47e29 back ground to burger */
