@@ -158,17 +158,17 @@
 				#nav > a
 				{
 					width: 3.125em; /* 3.125em or 50 */
-					height: 2px; /* 3.125em or 50*/
+					height: 3.125em; /* 3.125em or 50*/
 					text-align: left;
 					text-indent: -9999px;
-					background-color: #f47e29; /* #274168 */
+					background-color: #274168; /*  #f47e29*/
 					position: relative;
 				}
 					#nav > a:before,
 					#nav > a:after
 					{
 						position: absolute;
-						border: 2px solid #f47e29; /*#fff */
+						border: 2px solid #fff; /*#fff */
 						top: 20%; /* 35% */
 						left: 25%;
 						right: 25%;
