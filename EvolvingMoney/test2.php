@@ -74,7 +74,7 @@
 			#nav > ul
 			{
 				height: 3.75em; /* 60 */
-				background-color: #274168;
+				background-color: #4772bb; /* hopefully the arrow */
 			}
 				#nav > ul > li
 				{
@@ -214,7 +214,7 @@
 						#nav > ul > li:not( :last-child ) > a
 						{
 							border-right: none;
-							border-bottom: 1px solid #cc470d;
+							border-bottom: 1px solid #315084; /* not sure */
 						}
 
 
