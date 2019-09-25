@@ -168,7 +168,7 @@
 					#nav > a:after
 					{
 						position: absolute;
-						border: 2px solid #fff; /*#fff */
+						border: 2px solid #f47e29; /*#fff */
 						top: 20%; /* 35% */
 						left: 25%;
 						right: 25%;
