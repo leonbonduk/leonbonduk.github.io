@@ -174,17 +174,17 @@
 						right: 25%;
 						content: '';
 					}
-					#nav > a:after
+				/*	#nav > a:after
 					{
 						top: 45%; /* 60% */
-					}
+					}*/
 					#nav > a:after
 					{
 						top: 70%; /* 60% */
 					}
 
 				#nav:not( :target ) > a:first-of-type,
-				#nav:target > a:first-of-type(2),
+			/*	#nav:target > a:first-of-type(2),*/
 				#nav:target > a:last-of-type
 				{
 					display: block;
