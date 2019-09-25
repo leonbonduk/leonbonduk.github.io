@@ -174,10 +174,10 @@
 						right: 25%;
 						content: '';
 					}
-				/*	#nav > a:after
+					#nav > a:after
 					{
 						top: 45%; /* 60% */
-					/*}*/
+					}
 					#nav > a:after
 					{
 						top: 70%; /* 60% */
@@ -188,8 +188,14 @@
 				{
 					display: block;
 				}
-
-
+				#nav:target > a:last-of-type (1)
+				{
+					display: block;
+				}
+				#nav:target > a:last-of-type (2)
+				{
+					display: block;
+				}
 			/* first level */
 
 			#nav > ul
