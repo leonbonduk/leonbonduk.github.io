@@ -170,7 +170,7 @@
 						position: absolute;
 						border: 2px solid #fff; /*#fff */
 						top: 35%; /* 35% top part of burger */
-						left: 15px; /* 25% */
+						left: 12px; /* 25% */
 						width: 20px;
 						/*right: 25%; /* 25% */
 						content: '';
