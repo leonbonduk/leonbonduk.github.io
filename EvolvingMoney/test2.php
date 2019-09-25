@@ -164,7 +164,7 @@
 					background-color: #274168; /*  #f47e29*/
 					position: relative;
 				}
-					#nav > a:before,
+				/*	#nav > a:before,*/
 					#nav > a:after
 					{
 						position: absolute;
@@ -174,10 +174,10 @@
 						right: 25%;
 						content: '';
 					}
-				/*	#nav > a:after
+					#nav > a:after
 					{
 						top: 70%; /* 60% */
-					}*/
+					}
 
 				#nav:not( :target ) > a:first-of-type,
 				#nav:target > a:last-of-type
