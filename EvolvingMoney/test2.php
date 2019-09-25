@@ -169,26 +169,18 @@
 					{
 						position: absolute;
 						border: 2px solid #fff; /*#fff */
-						top: 20%; /* 35% */
+						top: 35%; /* 35% */
 						left: 25%;
 						right: 25%;
 						content: '';
 					}
 					#nav > a:after
 					{
-						top: 45%; /* 60% */
-					}
-					#nav > a:after
-					{
-						top: 70%; /* 60% */
+						top: 60%; /* 60% */
 
 					}
 
 				#nav:not( :target ) > a:first-of-type,
-				#nav:target > a:last-of-type (1)
-				{
-					display: block;
-				}
 				#nav:target > a:last-of-type
 				{
 					display: block;
