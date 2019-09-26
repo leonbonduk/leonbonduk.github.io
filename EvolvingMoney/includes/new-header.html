@@ -224,14 +224,50 @@
 					padding-top: 0;
 				}
 		}
+		
+		#logo { width: 100%;
+			max-width 780px;
+       			 margin: 0px auto 2px auto;
+		}     
+		
+		#top-border
+		{
+			width: 100%;
+			margin: 0 0;
+		}
+		#top-border >ul
+		{
+			display: inline-block;
+		}
+		#left-top
+		{
+			width 20%;
+			height: 3.125em; /* 3.125em or 50*/
+			text-align: left;
+			background-color: #e28e4c; /*  #f47e29 back ground to burger */
+			position: relative;
+		}
+		#right-top
+		{
+			width 80%;
+			height: 3.125em; /* 3.125em or 50*/
+			text-align: left;
+			background-color: #274168; /*  #f47e29 back ground to burger */
+			position: relative;
+		}
 	</style>
 
 </head>
 
 <body>
 
+<div id="top-border">  
+	<ul>
+		<a id="left-top"></a>
+		<a id="right-top"></a>
+</div>
 
-
+<div class="imgbox" id="logo"><img alt="Evolving Money" class="center-fit" src="https://www.evolving.money/Images/EM_logo.GIF" /></div>
 
 <nav id="nav" role="navigation">
 	<a href="#nav" title="Show navigation">Show navigation</a>
