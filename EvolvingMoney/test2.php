@@ -25,6 +25,7 @@
 <?php include("includes/new-header.html");?>
 
 
+ <?php include("includes/footer.html");?>
 
 </body>
 
