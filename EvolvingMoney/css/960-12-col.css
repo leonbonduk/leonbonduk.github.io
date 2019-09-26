@@ -1,12 +1,12 @@
 /* Fix the width of the body */
 body {
-min-width: 960px;
+min-width: 1280px;
 margin:auto;
 }
 
 /* Wrapper */
 .row {
-width:960px;
+width:1280px;
 margin:auto;
 }
 
@@ -34,18 +34,35 @@ margin-right:0;
 }
 
 /* Column widths taking into account the margins */
-.col_12 {width:940px;}
-.col_9 {width:620px;}
-.col_8 {width:700px;}
-.col_6 {width:460px;}
-.col_4 {width:220px;}
-.col_3 {width:300px;}
+.col_12 {width:1252px;}
+.col_9 {width:934px;}
+.col_8 {width:828px;}
+.col_6 {width:616px;}
+.col_4 {width:404px;}
+.col_3 {width:298px;}
 img {width:100%;}
 
 /*****************/
 /* MEDIA QUERIES */
 /*****************/
 
+/* up to 960px screen size */
+@media only screen and (min-width: 960px) and (max-width: 1279px) {
+/* Resize the body */
+body {min-width:959px;}
+
+/* Resize the row */
+.row {width:959px;}
+
+/* Resize the columns */
+.col_12 {width:940px;}
+.col_9 {width:700px;}
+.col_8 {width:620px;}
+.col_6 {width:460px;}
+.col_4 {width:300px;}
+.col_3 {width:220px;}
+
+}
 /* Tablet Screen Sizes */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 /* Resize the body */
@@ -56,11 +73,11 @@ body {min-width:767px;}
 
 /* Resize the columns */
 .col_12 {width:748px;}
-.col_9 {width:492px;}
-.col_8 {width:556px;}
+.col_9 {width:556px;}
+.col_8 {width:492px;}
 .col_6 {width:364px;}
-.col_4 {width:172px;}
-.col_3 {width:236px;}
+.col_4 {width:236px;}
+.col_3 {width:172px;}
 
 }
 
