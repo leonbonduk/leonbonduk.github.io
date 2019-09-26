@@ -77,9 +77,7 @@
 	<div class="col_4 last" style="background-color:#9CC"><p>Why am I always last? :(</p></div>
 </div>
 <!—-
-<div class="row">
  	<?php include("includes/footer.html");?>
-</div>
 	!—>
 </body>
 
