@@ -1,12 +1,12 @@
 /* Fix the width of the body */
 body {
-min-width: 1280px;
+min-width: 768px;
 margin:auto;
 }
 
 /* Wrapper */
 .row {
-width:1280px;
+width:100%;
 margin:auto;
 }
 
@@ -18,8 +18,8 @@ margin:auto;
 .col_4, /* 1/3 width */
 .col_3 /* 1/4 width */
 {
-margin-left: 10px;
-margin-right: 10px;
+margin-left: 1.2%;
+margin-right: 1.2%;
 display: inline;
 float: left;
 }
@@ -34,52 +34,18 @@ margin-right:0;
 }
 
 /* Column widths taking into account the margins */
-.col_12 {width:1252px;}
-.col_9 {width:934px;}
-.col_8 {width:828px;}
-.col_6 {width:616px;}
-.col_4 {width:404px;}
-.col_3 {width:298px;}
+.col_12 {width:97.6%;}
+.col_9 {width:81.0%;}
+.col_8 {width:64.4%;}
+.col_6 {width:47.8%;}
+.col_4 {width:31.2%;}
+.col_3 {width:22.9%;}
 img {width:100%;}
 
 /*****************/
 /* MEDIA QUERIES */
 /*****************/
 
-/* up to 960px screen size */
-@media only screen and (min-width: 960px) and (max-width: 1279px) {
-/* Resize the body */
-body {min-width:959px;}
-
-/* Resize the row */
-.row {width:959px;}
-
-/* Resize the columns */
-.col_12 {width:940px;}
-.col_9 {width:700px;}
-.col_8 {width:620px;}
-.col_6 {width:460px;}
-.col_4 {width:300px;}
-.col_3 {width:220px;}
-
-}
-/* Tablet Screen Sizes */
-@media only screen and (min-width: 768px) and (max-width: 959px) {
-/* Resize the body */
-body {min-width:767px;}
-
-/* Resize the row */
-.row {width:767px;}
-
-/* Resize the columns */
-.col_12 {width:748px;}
-.col_9 {width:556px;}
-.col_8 {width:492px;}
-.col_6 {width:364px;}
-.col_4 {width:236px;}
-.col_3 {width:172px;}
-
-}
 
 /* Mobile Landscape Screen Sizes */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
@@ -87,16 +53,29 @@ body {min-width:767px;}
 body {min-width:479px;}
 
 /* Resize the row */
-.row {width:479px;}
+.row {width:100%;}
 
 /* Resize the columns */
-.col_12 {width:460px;}
-.col_9 {width:225px;}
-.col_8 {width:225px;}
-.col_6 {width:225px;}
-.col_4 {width:225px; margin-left:0px;}
-.col_3 {width:225px; margin-left:0px;}
+.col_12 {width:96%;}
+.col_9 {width:47%;}
+.col_8 {width:47%;}
+.col_6 {width:47%;}
+.col_4 {width:47%; margin-left:0px;}
+.col_3 {width:47%; margin-left:0px;}
 
+  /* Column margins */
+.col_12, /* full width */
+.col_9, /* 3/4 width */
+.col_8, /* 2/3 width */
+.col_6, /* half width */
+.col_4, /* 1/3 width */
+.col_3 /* 1/4 width */
+{
+margin-left: 2.0%;
+margin-right: 2.0%;
+display: inline;
+float: left;
+}
 /* Fix the .last issue */
 .last {
 margin-left:0;
@@ -111,19 +90,34 @@ margin-right:10px;
 body {min-width:320px;}
 
 /* Resize the row */
-.row {width:320px;}
+.row {width:100%;}
 
+ /* Column margins */
+.col_12, /* full width */
+.col_9, /* 3/4 width */
+.col_8, /* 2/3 width */
+.col_6, /* half width */
+.col_4, /* 1/3 width */
+.col_3 /* 1/4 width */
+{
+margin-left: 2.0%;
+margin-right: 2.0%;
+display: inline;
+float: left;
+}
+  
 /* Resize the columns */
-.col_12 {width:300px;}
-.col_9 {width:300px;}
-.col_8 {width:300px;}
-.col_6 {width:300px;}
-.col_4 {width:300px; margin-left:0px;}
-.col_3 {width:300px; margin-left:0px;}
+.col_12 {width:96%;}
+.col_9 {width:96%;}
+.col_8 {width:96%;}
+.col_6 {width:96%;}
+.col_4 {width:96%; margin-left:0px;}
+.col_3 {width:96%; margin-left:0px;}
+
 
 /* Fix the .last issue */
 .last {
 margin-left:0;
-margin-right:10px;
+margin-right:2.0%;
 }
 }
