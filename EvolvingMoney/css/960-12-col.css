@@ -19,7 +19,7 @@ margin:auto;
 .col_3 /* 1/4 width */
 {
 margin-left: 1.1%;
-margin-right: 1.1%;
+margin-right: 0%;
 display: inline;
 float: left;
 }
@@ -30,7 +30,7 @@ margin-left:1.1%; /* 0 */
 }
 
 .last {
-margin-right: 1.1%;
+margin-right: 0%;
 }
 
 /* Column widths taking into account the margins */
@@ -72,7 +72,7 @@ body {min-width:479px;}
 .col_3 /* 1/4 width */
 {
 margin-left: 2.0%;
-margin-right: 2.0%;
+margin-right: 0%;
 display: inline;
 float: left;
 }
@@ -83,7 +83,7 @@ margin-left:2.0%; /* 0 */
 /* Fix the .last issue */
 .last {
 margin-left: 2.0%; /* 0 */
-margin-right:2.0%; /* 10px */
+margin-right:0%; /* 10px */
 }
 
 }
@@ -105,7 +105,7 @@ body {min-width:320px;}
 .col_3 /* 1/4 width */
 {
 margin-left: 2.0%;
-margin-right: 2.0%;
+margin-right: 0%;
 display: inline;
 float: left;
 }
@@ -127,6 +127,6 @@ margin-left:2.0%; /* 0 */
 
 .last {
 margin-left:2.0%; /* 0 */
-margin-right:2.0%;
+margin-right:0%;
 }
 }
