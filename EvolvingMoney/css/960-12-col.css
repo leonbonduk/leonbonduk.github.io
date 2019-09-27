@@ -15,8 +15,8 @@ margin:auto;
 {
 margin-left: 0%;
 margin-right:0%;
-display: inline;
-float: left;
+display: block;
+float: none;
 }
 .col_12, /* full width */
 .col_9, /* 3/4 width */
@@ -67,8 +67,8 @@ body {min-width:479px;}
 .col_full {width:100%;
 margin-left: 0;
 margin-right: 0;
-display: inline;
-float: left;
+display: block;
+float: none;
 }
 .col_12 {width:96%;}
 .col_9 {width:47%;}
@@ -111,6 +111,13 @@ body {min-width:320px;}
 .row {width:100%;}
 
  /* Column margins */
+.col_full {width:100%;
+margin-left: 0;
+margin-right: 0;
+display: block;
+float: none;
+}
+
 .col_12, /* full width */
 .col_9, /* 3/4 width */
 .col_8, /* 2/3 width */
