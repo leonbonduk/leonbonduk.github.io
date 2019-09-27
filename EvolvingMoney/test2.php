@@ -77,8 +77,12 @@
 	<div class="col_3 last" style="background-color:#9CC"><p>Why am I always last? :(</p></div>
 </div>
 
-<footer>
+<div class="row">
+	<div class="col_12 first”>
 <?php include("includes/footer.html");?>
+</div>
+</div>
+
 </footer>
 
 </html>
