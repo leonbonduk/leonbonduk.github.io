@@ -20,7 +20,8 @@
 	
 	<style>
 		/* Column margins */
-		.col_12, /* full width */
+		 .col_full,
+      .col_12, /* full width */
 		.col_9, /* 3/4 width */
 		.col_8, /* 2/3 width */
 		.col_6, /* half width */
@@ -78,7 +79,7 @@
 </div>
 
 <div class="row">
-	<div class="col_12 first”>
+	<div class="col_full first”>
 <?php include("includes/footer.html");?>
 </div>
 </div>
