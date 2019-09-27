@@ -28,7 +28,7 @@
 		.col_4, /* 1/3 width */
 		.col_3 /* 1/4 width */
 		{
-			height: 50px;
+			height: auto;
 			margin-top:10px;
 			margin-bottom:10px;
 			text-align:center;
