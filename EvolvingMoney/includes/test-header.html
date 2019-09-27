@@ -88,26 +88,23 @@
 					#nav > ul > li > a
 					{
 						height: 100%;
-						font-size: 1.5em; /* 24 */
+						font-size: 1.0em; /* 1.5em 24 */
 						line-height: 2.5em; /* 60 (24) */
 						text-align: center;
 					}
 						#nav > ul > li:not( :last-child ) > a
 						{
-							border-right: 1px solid #cc470d;
+							border-right: 1px solid #315084;
 						}
 						#nav > ul > li:hover > a,
 						#nav > ul:not( :hover ) > li.active > a
 						{
-							background-color: #cc470d;
+							background-color: #315084;
 						}
-
-
 				/* second level */
-
 				#nav li ul
 				{
-					background-color: #cc470d;
+					background-color: #315084; /* sub-menu unselected */
 					display: none;
 					position: absolute;
 					top: 100%;
@@ -124,15 +121,16 @@
 						}
 						#nav li ul a
 						{
-							font-size: 1.25em; /* 20 */
-							border-top: 1px solid #e15a1f;
-							padding: 0.75em; /* 15 (20) */
+							font-size: 0.6m; /* 1.25em 20 */
+							border-top: 1px solid #274168;
+							padding: 0.6em; /* 0.75em 15 (20) */
 						}
 							#nav li ul li a:hover,
 							#nav li ul:not( :hover ) li.active a
 							{
-								background-color: #e15a1f;
+								background-color: #274168;
 							}
+
 
 
 		@media only screen and ( max-width: 62.5em ) /* 1000 */
