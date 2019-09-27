@@ -50,10 +50,10 @@
 </div>			
 
 <footer>
-<div class="row">
-		<div class="col_full”><?php include("includes/footer.html");?></div>
-</div>
-
+		
+	<div class="row">
+		<div class="col_full"><?php include("includes/footer.html");?></div>
+	</div>
 </footer>
 
 </html>
