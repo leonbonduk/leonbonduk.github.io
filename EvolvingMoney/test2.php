@@ -44,40 +44,11 @@
 
 <?php include("includes/new-header.html");?>
 
-
 <div class="row">
-	<div class="col_9 first" style="background-color:#3F6"><p>Here’s a 3/4 width column</p></div>
-	<div class="col_3 last" style="background-color:#6CC"><p>And it’s 1/4 width counterpart</p></div>
+	<div class="col_8 first" style="background-color:#CF0"><p>Compare the Challenger banks</p></div>
+	<div class="col_4 last" style="background-color:#9CC"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div></div>
 </div>
-	
-<div class="row">
-	<div class="col_8 first" style="background-color:#CF0"><p>Here’s a 2/3 width column</p></div>
-	<div class="col_4 last" style="background-color:#9CC"><p>And it’s 1/3 width counterpart.</p></div>
-</div>
-	
-<div class="row">
-	<div class="col_4 first" style="background-color:#9CC"><p>I’m a 1/3 width first</p></div>
-	<div class="col_8 last" style="background-color:#CF0"><p>And I’m a 2/3 width last</p></div>
-</div>
-	
-<div class="row">
-	<div class="col_6 first" style="background-color:#9CC"><p>Want to go halfsies?</p></div>
-	<div class="col_6 last" style="background-color:#CF0"><p>Sure, I’ll go halfsies!</p></div>
-</div>
-	
-<div class="row">
-	<div class="col_4 first" style="background-color:#CF0"><p>Here’s a 1/3 width column</p></div>
-	<div class="col_4" style="background-color:#9CC"><p>I’m a 1/3 width column, too!</p></div>
-	<div class="col_4 last" style="background-color:#9CC"><p>I’m the last 1/3 width :(</p></div>
-</div>
-	
-<div class="row">
-	<div class="col_3 first" style="background-color:#CF0"><p>Can we do 1/4 column</p></div>
-	<div class="col_3" style="background-color:#9CC"><p>Sure we can do 1/4!</p></div>
-	<div class="col_3" style="background-color:#9CC"><p>I echo that sentiment!</p></div>
-	<div class="col_3 last" style="background-color:#9CC"><p>Why am I always last? :(</p></div>
-</div>
-
+			
 <div class="row">
 	<div class="col_full”>
 <?php include("includes/footer.html");?>
