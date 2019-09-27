@@ -1,157 +1,177 @@
 <!DOCTYPE html>
-<html>
-<head>		
-		<title>Test page</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-}
 
-.topnav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
+
+<html lang="en">
+
+
+
+<head>
+
+	<meta charset="utf-8" />
+
+       <title>Evolving Money</title>
+
+   <!--    <link href="css/learningPage.css" type="text/css" rel="stylesheet" /> !-->
+
+       <meta name="description" content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
+
+       <meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking" />
+
+       <meta name="robots" content="follow" />
+
+       <meta http-equiv="author"content="Leon Bond" />
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<meta name="description" content="Demo of Drop-Down Navigation: Touch-Friendly and Responsive" />
+
+	<meta name="robots" content="all">
+
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+
+	<link rel="canonical" href="https://www.evolving.money/">
+
+	<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
+
+	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
+
 	
-.subnav {
-  float: left;
-  overflow: hidden;
-}
 
-.subnav .subnavbtn {
-  font-size: 16px;  
-  border: none;
-  outline: none;
-  color: white;
-  padding: 14px 16px;
-  background-color: inherit;
-  font-family: inherit;
-  margin: 0;
-}
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
+	<style>
 
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
-}
+		/* Column margins */
 
-.topnav .icon {
-  display: none;
-}
+		 .col_full,
 
-.subnav-content {
-  display: none;
-  position: absolute;
-  left: 0;
-  background-color: red;
-  width: 100%;
-  z-index: 1;
-}
+      .col_12, /* full width */
 
-.subnav-content a {
-  float: left;
-  color: white;
-  text-decoration: none;
-}
+		.col_9, /* 3/4 width */
 
-.subnav-content a:hover {
-  background-color: #eee;
-  color: black;
-}
+		.col_8, /* 2/3 width */
 
-.subnav:hover .subnav-content {
-  display: block;
-}
+		.col_6, /* half width */
 
-@media screen and (max-width: 600px) {
-  .topnav a:not(:first-child) {display: none;}
-  .topnav a.icon {
-    float: right;
-    display: block;
-  }
-}
+		.col_4, /* 1/3 width */
 
-@media screen and (max-width: 600px) {
-  .topnav.responsive {position: relative;}
-  .topnav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  .topnav.responsive a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-}
-</style>
+		.col_3 /* 1/4 width */
+
+		{
+
+			height: 50px;
+
+			margin-top:10px;
+
+			margin-bottom:10px;
+
+			text-align:center;
+
+			display:table-cell;
+
+			vertical-align:central;
+
+		}
+
+	</style>
+
 </head>
+
+	
+
+
+
 <body>
 
-<div class="topnav" id="myTopnav">
-  <a href="#home">Home</a>
-  <div class="subnav">
-    <button class="subnavbtn">About <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="#company">Company</a>
-      <a href="#team">Team</a>
-      <a href="#careers">Careers</a>
-    </div>
-  </div> 
-  <div class="subnav">
-    <button class="subnavbtn">Services <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="#bring">Bring</a>
-      <a href="#deliver">Deliver</a>
-      <a href="#package">Package</a>
-      <a href="#express">Express</a>
-    </div>
-  </div> 
-  <div class="subnav">
-    <button class="subnavbtn">Partners <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="#link1">Link 1</a>
-      <a href="#link2">Link 2</a>
-      <a href="#link3">Link 3</a>
-      <a href="#link4">Link 4</a>
-    </div>
-  </div>
-  <a href="#contact">Contact</a>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
+
+
+
+
+<?php include("includes/new-header.html");?>
+
+
+
+
+
+<div class="row">
+
+	<div class="col_9 first" style="background-color:#3F6"><p>Here’s a 3/4 width column</p></div>
+
+	<div class="col_3 last" style="background-color:#6CC"><p>And it’s 1/4 width counterpart</p></div>
+
+</div>
+
+	
+
+<div class="row">
+
+	<div class="col_8 first" style="background-color:#CF0"><p>Here’s a 2/3 width column</p></div>
+
+	<div class="col_4 last" style="background-color:#9CC"><p>And it’s 1/3 width counterpart.</p></div>
+
+</div>
+
+	
+
+<div class="row">
+
+	<div class="col_4 first" style="background-color:#9CC"><p>I’m a 1/3 width first</p></div>
+
+	<div class="col_8 last" style="background-color:#CF0"><p>And I’m a 2/3 width last</p></div>
+
+</div>
+
+	
+
+<div class="row">
+
+	<div class="col_6 first" style="background-color:#9CC"><p>Want to go halfsies?</p></div>
+
+	<div class="col_6 last" style="background-color:#CF0"><p>Sure, I’ll go halfsies!</p></div>
+
+</div>
+
+	
+
+<div class="row">
+
+	<div class="col_4 first" style="background-color:#CF0"><p>Here’s a 1/3 width column</p></div>
+
+	<div class="col_4" style="background-color:#9CC"><p>I’m a 1/3 width column, too!</p></div>
+
+	<div class="col_4 last" style="background-color:#9CC"><p>I’m the last 1/3 width :(</p></div>
+
+</div>
+
+	
+
+<div class="row">
+
+	<div class="col_3 first" style="background-color:#CF0"><p>Can we do 1/4 column</p></div>
+
+	<div class="col_3" style="background-color:#9CC"><p>Sure we can do 1/4!</p></div>
+
+	<div class="col_3" style="background-color:#9CC"><p>I echo that sentiment!</p></div>
+
+	<div class="col_3 last" style="background-color:#9CC"><p>Why am I always last? :(</p></div>
+
 </div>
 
 
-<div style="padding-left:16px">
-  <h2>Responsive Topnav Example</h2>
-  <p>Resize the browser window to see how it works.</p>
+
+<div class="row">
+
+	<div class="col_full”>
+
+<?php include("includes/footer.html");?>
+
 </div>
 
-<script>
-function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-}
-</script>
+</div>
 
-</body>
+
+
+</footer>
+
+
+
 </html>
