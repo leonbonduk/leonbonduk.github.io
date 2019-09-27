@@ -11,6 +11,13 @@ margin:auto;
 }
 
 /* Column margins */
+.col_full,
+{
+margin-left: 0%;
+margin-right:0%;
+display: inline;
+float: left;
+}
 .col_12, /* full width */
 .col_9, /* 3/4 width */
 .col_8, /* 2/3 width */
@@ -34,6 +41,7 @@ margin-right: 0%;
 }
 
 /* Column widths taking into account the margins */
+.col_full {width:100%;}
 .col_12 {width:97.6%;}
 .col_9 {width:72.7%;}
 .col_8 {width:64.4%;}
