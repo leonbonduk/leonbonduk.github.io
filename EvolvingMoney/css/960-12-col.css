@@ -64,6 +64,12 @@ body {min-width:479px;}
 .row {width:100%;}
 
 /* Resize the columns */
+.col_full {width:100%;
+margin-left: 0;
+margin-right: 0;
+display: inline;
+float: left;
+}
 .col_12 {width:96%;}
 .col_9 {width:47%;}
 .col_8 {width:47%;}
