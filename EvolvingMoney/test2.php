@@ -76,7 +76,9 @@
 	<div class="col_3" style="background-color:#9CC"><p>I echo that sentiment!</p></div>
 	<div class="col_3 last" style="background-color:#9CC"><p>Why am I always last? :(</p></div>
 </div>
-<!-- ?php include("includes/footer.html");? !-->
-</body>
+
+<footer>
+<?php include("includes/footer.html");?>
+</footer>
 
 </html>
