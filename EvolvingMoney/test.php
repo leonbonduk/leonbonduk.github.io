@@ -11,7 +11,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link rel="canonical" href="/examples/drop-down-navigation-touch-friendly-and-responsive">
 	<link rel="icon" href="../favicon.ico" />
-	<link rel="stylesheet" href="../main.css" />
+	<link rel="stylesheet" href="..css/main.css" />
 	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400">
 	<style>
 
@@ -258,8 +258,8 @@
 	</ul>
 </nav>
 
-<script src="../jquery.min.js"></script>
-<script src="doubletaptogo.js"></script>
+<script src="..navbar-nodejs/jquery.min.js"></script>
+<script src="..navbar-nodejs/doubletaptogo.js"></script>
 <script>
 	$( function()
 	{
@@ -289,8 +289,7 @@
 	<script async src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=osvaldasinfo" id="_carbonads_js"></script>
 </div>
 
-<script src="../main.js"></script>
-<script>var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-7572727-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
+<script src="....navbar-nodejs/main.js"></script>
 
 
 
