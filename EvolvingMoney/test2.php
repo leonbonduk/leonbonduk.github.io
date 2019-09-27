@@ -79,7 +79,7 @@
 </div>
 
 <div class="row">
-	<div class="col_full first”>
+	<div class="col_full”>
 <?php include("includes/footer.html");?>
 </div>
 </div>
