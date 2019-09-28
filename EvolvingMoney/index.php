@@ -51,12 +51,14 @@
 </div>			
 
 
-
+<!--
 <footer>
 		
 	<div class="row">
-		<div class="col_full" display: block><?php include("includes/footer.html");?></div>
-	</div>
-</footer>
+		<div class="col_full" display: block>  !-->
+			<?php include("includes/footer.html");?>
+	<!--        </div>
+	</div>   
+</footer>  !-->
 </body>
 </html>
