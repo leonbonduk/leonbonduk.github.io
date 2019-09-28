@@ -42,11 +42,12 @@
 	<?php include("includes/test-header.html");?>
 <div>	
  	<div class="row">
-		<div class="col_8 first" style="background-color:#CF0"><a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php">
-			<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div></a>
+		<div class="col_8 first" style="background-color:#CF0">
+			<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div></a>
 		</div>
-		<div class="col_4 last" style="background-color:#9CC"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div></div>
+		<div class="col_4 last" style="background-color:#9CC"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
 	</div>
+	
 </div>			
 
 <footer>
@@ -55,5 +56,5 @@
 		<div class="col_full"><?php include("includes/footer.html");?></div>
 	</div>
 </footer>
-
+</body>
 </html>
