@@ -8,12 +8,10 @@
              		content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
        		<meta name="keywords"
              		content="investments, new, macro, crypto, contrarian, p2p, banking" />
-       		<meta name="robots"
+       	
            <meta name="robots" content="follow" />
        <meta http-equiv="author"content="Leon Bond" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="description" content="Demo of Drop-Down Navigation: Touch-Friendly and Responsive" />
-	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link rel="canonical" href="https://www.evolving.money/">
 	<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
@@ -44,7 +42,7 @@
 
 	        <br>
 <div class="row">
-		<div class="col_12 first" style="background-color:#CF0">
+		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox">
 			    <img src="Images/AboutUs_logo.GIF"					 alt="Evolving Money" />
 		</div>
@@ -71,7 +69,7 @@
 <div class="clear"></div>
 </div>
 
-	  
+<div class="clear"></div>
        
 <?php include("includes/footer.html");?>  
   
