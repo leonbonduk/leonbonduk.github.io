@@ -63,7 +63,7 @@
 
 	</div>
 
-<div class="col_3 last" style="background-color:#9CC"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
+<div class="col_3 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
 	</div>
 
 <div class="clear"></div>
