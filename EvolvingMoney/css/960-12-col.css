@@ -178,14 +178,13 @@ margin-right:0%;
 }
 
 .imgbox {
-           		 display: grid;
-           		 height: 100%;
-        	}
-       		 .left-fit-page-heading
-		{
-			width: 600px;
-           		max-width: 75%; /* 96% */
-          		max-height: 100vh;
-            		margin: 2% 2%;
-			text-align: left;
-        	}
+           display: grid;
+           height: 100%;
+}
+.left-fit-page-heading
+{
+        max-width: 75%; /* 96% */
+        max-height: 100vh;
+        margin: 2% 2%;
+	text-align: left;
+}
