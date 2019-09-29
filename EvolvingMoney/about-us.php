@@ -36,15 +36,15 @@
 <body>
 	
 	<?php include("includes/test-header.html");?>
-
-<div><!--
+<!--
+<div>
 	<div class="row">
 		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox">
 				<img class="left-fit-page-heading" src="Images/AboutUs_logo.GIF" alt="Evolving Money" />
 			</div>
 		</div>
-	</div> !-->
+	</div> 
 
 	<div class="clear"></div>
 
@@ -65,7 +65,7 @@
 
 	<div class="clear"></div>
 
-</div>
+</div>!-->
 
 <!--
 <footer>
