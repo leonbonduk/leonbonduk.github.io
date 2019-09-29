@@ -12,7 +12,7 @@
 	<meta name="robots" content="all" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link rel="canonical" href="https://www.evolving.money/">
-	<!-- <link href="css/learningPage.css" type="text/css" rel="stylesheet" /> !-->
+	<link href="css/styles.css" type="text/css" rel="stylesheet" />
 	<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 	
