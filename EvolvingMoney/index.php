@@ -16,24 +16,6 @@
 	<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 	
-	<style>
-		/* Column margins */
-		 .col_full,
-      		.col_12, /* full width */
-		.col_9, /* 3/4 width */
-		.col_8, /* 2/3 width */
-		.col_6, /* half width */
-		.col_4, /* 1/3 width */
-		.col_3 /* 1/4 width */
-		{
-			height: auto;
-			margin-top:10px;
-			margin-bottom:10px;
-			text-align:center;
-			display:table-cell;
-			vertical-align:central;
-		}
-	</style>
 </head>
 <body>
 	
