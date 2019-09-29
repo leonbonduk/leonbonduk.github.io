@@ -4,24 +4,22 @@
 
 <head>
 	<meta charset="utf-8" />
-       <title>Evolving Money</title>
-   <!--    <link href="css/learningPage.css" type="text/css" rel="stylesheet" /> !-->
-       <meta name="description" content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
-       <meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking" />
-       <meta name="robots" content="follow" />
-       <meta http-equiv="author"content="Leon Bond" />
+       	<title>Evolving Money</title>
+        <meta name="description" content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
+       	<meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking" />
+       	<meta http-equiv="author"content="Leon Bond" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="description" content="Demo of Drop-Down Navigation: Touch-Friendly and Responsive" />
-	<meta name="robots" content="all">
+	<meta name="robots" content="all" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link rel="canonical" href="https://www.evolving.money/">
+	<link href="css/learningPage.css" type="text/css" rel="stylesheet" />
 	<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 	
 	<style>
 		/* Column margins */
 		 .col_full,
-      .col_12, /* full width */
+      		.col_12, /* full width */
 		.col_9, /* 3/4 width */
 		.col_8, /* 2/3 width */
 		.col_6, /* half width */
@@ -50,15 +48,7 @@
 <div class="clear"></div>
 </div>			
 
+<?php include("includes/footer.html");?>
 
-<!--
-<footer>
-		
-	<div class="row">
-		<div class="col_full" display: block>  !-->
-			<?php include("includes/footer.html");?>
-	<!--        </div>
-	</div>   
-</footer>  !-->
 </body>
 </html>
