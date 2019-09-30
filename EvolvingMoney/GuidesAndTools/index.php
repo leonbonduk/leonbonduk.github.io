@@ -23,7 +23,7 @@
 	<div class="row" margin 0 0;>
 		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox">
-    				<img class="left-fit-page-heading" src="../Images/G&T_logo.GIF">
+    				<img class="left-fit-page-heading" src="../Images/G&T_logo.gif">
 			</div>
 		</div>
 	</div> 
