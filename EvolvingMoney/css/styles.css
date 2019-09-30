@@ -13,7 +13,7 @@ p {
         font-style: sans-serif;
         font-family: helvetica;
         font-size: 100%;
-        letter-spacing: 0.15 em;
+        /* letter-spacing: 0.15 em; */
         line-height: 1.5 em}
 
 /* a {             
