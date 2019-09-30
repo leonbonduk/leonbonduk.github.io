@@ -1,33 +1,37 @@
 <!DOCTYPE html>
-<html>
-<head>		
-		<title>E-Money</title>
-	 	<link type="text/css" rel="stylesheet" href = "../css/learningPage.css"/>
-
-       		<meta name="description"
-             		content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
-       		<meta name="keywords"
-             		content="investments, new, macro, crypto, contrarian, p2p, banking" />
-       		<meta name="robots"
-             		content="follow" />
-       		<meta http-equiv="author"
-             		content="James Day" />
+<html lang="en">
+<head>
+	<meta charset="utf-8" /
+		<title>Evolving Money - What is E-Money</title>
+       		<meta name="description" content="Introduction to evolving nature of money due to online technology" />
+       		<meta name="keywords" content="emoney, new, crypto, banking" />
+       		<meta http-equiv="author" content="James Day" />
+		<meta name="robots" content="all">
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<link href="css/styles.css" type="text/css" rel="stylesheet" />
+		<link rel="canonical" href="https://www.evolving.money/">
+		<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 </head>
+
 
 <body>
 
-    <div id="page-container">
-        <div id="content-wrap">
-		<?php include("../includes/header.html");?>
-		<ul id="navigation">	 
-  			<li><a href="what-is-emoney.php" class="on">E-Money></a></li>
-  			<li><a href="crypto.php">Crypto</a></li>
-  			<li><a href="EBanking/challenger-comp.php">Banking</a></li>
-     		</ul>
-		<br>
-		<div class="imgbox">
-    			<img class="center-fit" src="../Images/EMoney_logo.GIF">
+	<?php include("includes/test-header.html");?>
+
+<div>
+	<div class="row" margin 0 0;>
+		<div class="col_12 first" style="background-color:#fff">
+			<div class="imgbox">
+    				<img class="left-fit-page-heading" src="../Images/EMoney_logo.GIF">
+			</div>
 		</div>
+	</div> 
+
+	<div class="clear"></div>
+
+	<div class="row">
+		<div class="col_9 first" style="background-color:#fff">
 
 		<p> One of the most exciting and least understood areas in finance is online purchasing and how it's still changing. Commerce has moved online, and those that have made 
 			e-commerce "frictionless" (<strong>Paypal, Amazon, Alibaba</strong>) have slaughtered the competition. It hasn't stopped with <strong>Amazon</strong> and <strong>Paypal</strong>, innovations continue. Payments systems like <strong>Transferwise</strong> 
@@ -43,13 +47,18 @@
 		finance that doesn't sufficiently innovate, could suffer a similar fate.   </p>
 
 	</div>
-      		 <footer id="footer">	
-  			<?php include("../includes/footer.html");?>  
- 		</footer>
-    </div>
-</body> 
-	
-</html> 
 
+		<div class="col_3 last" style="background-color:#fff">
+			<div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
+		</div>
 
-	
+	</div>
+
+	<div class="clear"></div>
+
+</div>
+
+<?php include("includes/footer.html");?>
+
+</body>
+</html>
