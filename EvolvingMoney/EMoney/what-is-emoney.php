@@ -17,13 +17,13 @@
 
 <body>
 
-	<?php include("includes/test-header.html");?>
+	<?php include("https://www.evolving.money/includes/test-header.html");?>
 
 <div>
 	<div class="row" margin 0 0;>
 		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox">
-    				<img class="left-fit-page-heading" src="../Images/EMoney_logo.GIF">
+    				<img class="left-fit-page-heading" src="https://www.evolving.money//Images/EMoney_logo.GIF">
 			</div>
 		</div>
 	</div> 
@@ -49,7 +49,7 @@
 	</div>
 
 		<div class="col_3 last" style="background-color:#fff">
-			<div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
+			<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg"></div>
 		</div>
 
 	</div>
@@ -58,7 +58,7 @@
 
 </div>
 
-<?php include("includes/footer.html");?>
+<?php include("https://www.evolving.money/includes/footer.html");?>
 
 </body>
 </html>
