@@ -34,9 +34,9 @@
 		<div class="col_9 first" style="background-color:#fff">
             <p>If you would like to get in touch with us then please drop either of us an email: </p>
             <br>
-            <a href="mailto:leon@evolving.money">leon@evolving.money</a>
+            <a class="link" href="mailto:leon@evolving.money">leon@evolving.money</a>
             <br>
-            <a href="mailto:james_graham_day@yahoo.co.uk">james_graham_day@yahoo.co.uk</a>
+            <a class="link" href="mailto:james_graham_day@yahoo.co.uk">james_graham_day@yahoo.co.uk</a>
             <br>
 
 		</div>
