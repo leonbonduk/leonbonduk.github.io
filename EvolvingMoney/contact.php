@@ -3,7 +3,6 @@
 <head>
 	<meta charset="utf-8" />	
 		<title>Evolving Money - Contact Us</title>
-	 	<link type="text/css" rel="stylesheet" href = "css/learningPage.css"/>
        		<meta name="description" content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
        		<meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking" />
 		<meta http-equiv="author"content="Leon Bond" />
