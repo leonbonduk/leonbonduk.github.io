@@ -20,7 +20,7 @@
 
 <body>
 
-	<?php include("https://www.evolving.money/includes/test-header.html");?>
+	<?php include("../../includes/test-header.html");?>
 
 <div>
 	<div class="row" margin 0 0;>
@@ -232,7 +232,7 @@
 <script src="https://evolving.money/table-nodejs/jquery-2.1.4.js"></script>
 <script src="https://evolving.money/table-nodejs/main.js"></script> <!-- Resource jQuery -->
 
-<?php include("https://www.evolving.money/includes/footer.html");?>
+<?php include("../../includes/footer.html");?>
 
 </body>
 
