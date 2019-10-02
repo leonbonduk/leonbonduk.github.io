@@ -35,10 +35,10 @@
  
 	<div class="row">
 		<div class="col_9 first" style="background-color:#fff">
-<p>Here’s a list of some of our favourite links to websites we find or have found useful in developing oir knowledge or finding leads for new investment ideas: </p>
+<p>Here’s a list of some of our favourite books we find or have found useful in developing our knowledge or finding leads: </p>
 <ul>
 <li>
-<a href="http://www.barrons.com" target="_blank"> Barron's: America's premier finacial magazine</a></li>
+Coming soon...</li>
 </ul>
 </div>
  
