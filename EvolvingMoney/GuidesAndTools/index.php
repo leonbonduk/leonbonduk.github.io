@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8" /
+	<meta charset="utf-8" />
        	<title>Evolving Money - Guides and Tools</title>
        	<meta name="description" content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
        	<meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking" />
