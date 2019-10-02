@@ -18,7 +18,7 @@ css/styles.css" type="text/css" rel="stylesheet" />
 
 <body>
 
-	<?php include("https://www.evolving.money/includes/test-header.html");?>
+	<?php include("../includes/test-header.html");?>
 
 <div>
 	<div class="row" margin 0 0;>
@@ -48,7 +48,7 @@ css/styles.css" type="text/css" rel="stylesheet" />
 
 </div>
 
-<?php include("https://www.evolving.money/includes/footer.html");?>
+<?php include("../includes/footer.html");?>
 
 </body>
 </html>
