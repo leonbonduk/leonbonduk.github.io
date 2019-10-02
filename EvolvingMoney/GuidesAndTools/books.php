@@ -35,7 +35,7 @@
  
 	<div class="row">
 		<div class="col_9 first" style="background-color:#fff">
-<p>Here’s a list of some of our favourite books we find or have found useful in developing our knowledge or finding leads: </p>
+<p>Here’s a list of some of our favourite books we find or have found useful in developing our knowledge of the world of money and investments: </p>
 <ul>
 <li>
 Coming soon...</li>
