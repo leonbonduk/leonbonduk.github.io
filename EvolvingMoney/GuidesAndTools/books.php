@@ -1,36 +1,59 @@
 <!DOCTYPE html>
-<html>
-   	 <head>	
-       <title>Books</title>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
 
-       <link href="../css/learningPage.css" type="text/css" rel="stylesheet" />
-
-       <meta name="description"
-             content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
-       <meta name="keywords"
-             content="investments, new, macro, crypto, contrarian, p2p, banking" />
-       <meta name="robots"
-             content="follow" />
-       <meta http-equiv="author"
-             content="Leon Bond" />
+       <title>Evolving Money - Books</title>
        	 
+         	<meta name="description" content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
+       	<meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking" />
+       	<meta http-equiv="author" content="Leon Bond" />
+       	<meta name="robots" content="all">
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<link href="https://www.evolving.money/css/styles.css" type="text/css" rel="stylesheet" />
+	<link rel="canonical" href="https://www.evolving.money/">
+	<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
+	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
              
-  </head>
+</head>
+ 
 <body>
-	<?php include("../includes/header.html");?>
-	<ul id="navigation">	 
-		<li><a href="index.html" class="on">G&T></a></li>
-  		<li><a href="glossary.html">Glossary</a></li>
-  		<li><a href="books.html">Books</a></li>
-  		<li><a href="media.html">Media</a></li>
-		<li><a href="websites.html">Websites</a></li>
- 	</ul>
-<div class="imgbox">
-    <img class="center-fit" src="../Images/Media_logo.GIF">
+ 
+	<?php include("../includes/test-header.html");?>
+ 
+<div>
+
+	<div class="row" margin 0 0;>
+		<div class="col_12 first" style="background-color:#fff">
+			<div class="imgbox">
+    				<img class="left-fit-page-heading" src="../Images/Media_logo.GIF">
+			</div>
+		</div>
+	</div> 
+ 
+	<div class="clear"></div>
+ 
+	<div class="row">
+		<div class="col_9 first" style="background-color:#fff">
+<p>Here’s a list of some of our favourite links to websites we find or have found useful in developing oir knowledge or finding leads for new investment ideas: </p>
+<ul>
+<li>
+<a href="http://www.barrons.com" target="_blank"> Barron's: America's premier finacial magazine</a></li>
+</ul>
 </div>
  
+		<div class="col_3 last" style="background-color:#fff">
+			<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg"></div>
+		</div>
  
-<p> Coming soon.... </p>
-  	<?php include("../includes/footer.html");?>  
-  </body> 
-</html> 
+	</div>
+ 
+	<div class="clear"></div>
+ 
+</div>
+ 
+<?php include("../includes/footer.html");?>
+ 
+</body>
+</html>
+
