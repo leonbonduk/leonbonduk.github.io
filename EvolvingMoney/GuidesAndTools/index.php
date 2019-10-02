@@ -8,7 +8,8 @@
        	<meta http-equiv="author" content="Leon Bond" />
        	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<link href="css/styles.css" type="text/css" rel="stylesheet" />
+	<link href="https://www.evolving.money/ 
+css/styles.css" type="text/css" rel="stylesheet" />
 	<link rel="canonical" href="https://www.evolving.money/">
 	<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
@@ -23,7 +24,7 @@
 	<div class="row" margin 0 0;>
 		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox">
-    				<img class="left-fit-page-heading" src="../Images/G&T_logo.gif">
+    				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/G&T_logo.gif">
 			</div>
 		</div>
 	</div> 
