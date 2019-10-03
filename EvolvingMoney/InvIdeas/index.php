@@ -1,55 +1,55 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" class="no-js">
 <head>		
-		<title>Investment Ideas</title>
-	 	<link type="text/css" rel="stylesheet" href = "../css/learningPage.css"/>
-       		<meta name="description"
-             		content="Investment ideas, a mixture of macro and contrarian investment opportunites" />
-       		<meta name="keywords"
-             		content="investments, new, macro, contrarian" />
-       		<meta name="robots"
-             		content="follow" />
-       		<meta http-equiv="author"
-             		content="Leon Bond" />
+		<meta charset="UTF-8">
+		<title>Evolving Money - Investment Ideas</title>
+	 	<meta name="description" content="Investment ideas, a mixture of macro and contrarian investment opportunites" />
+       		<meta name="keywords" content="investments, new, macro, contrarian" />
+       		<meta http-equiv="author" content="Leon Bond" />
+	       	<meta name="robots" content="all">
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<link href="https://www.evolving.money//css/styles.css" type="text/css" rel="stylesheet" />
+		<link rel="canonical" href="https://www.evolving.money/">
+		<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
+		<link rel="stylesheet" type="text/css" href="https://www.evolving.money//css/960-12-col.css" />
 
-</head>
+<body>
 
-<body>	
-<?php include("../includes/header.html");?>
-<br>
-<h1>Investment Ideas</h1>		 
-   <p>Latest investment ideas:</p>
+	<?php include("../../includes/test-header.html");?>
+
+<div>
+	<div class="row" margin 0 0;>
+		<div class="col_12 first" style="background-color:#fff">
+			<div class="imgbox"><img class="left-fit-page-heading" src="https://www.evolving.money/Images/Investments_logo.GIF">
+		</div>
+	</div>
+</div> 
+
+<div class="clear"></div>
+
+<div class="row">
+	<div class="col_9 first" style="background-color:#fff">	 
+   		<p>Latest investment ideas:</p>
    
-   <ul>			 
-     <li><a href="BT-Sept19.html">BT a contrarian buy? - Sept 2019</a></li>
-  
-     <li>Coming...</li>			 
-     <li>Coming...</li>		
-   </ul>
-<br>
-<h2>Global Map</h2>		 
-<p>	 <ul>		 <li><a href="index.html">Home</a></li>
-  <li><a href="about-us.html">About</a></li>
-  
-  <li><a href="InvIdeas/index.html">Investment Ideas</a></li>
-  
-  <!-- <li><a href="glossary.html">Glossary</a></li>
-  <li><a href="brokers.html">Brokers</a></li>	
-  <li><a href="property.html">Property</a></li>	
-  <li><a href="online-banking.html">Online Banking</a></li>	-->
-  
-  <li><a href="PerToPer/index.html">P2P</a></li>	 
-  
-  <li><a href="Further_Reading/index.html">Further Reading</a></li>	
-  
-  <li><a href="contact.html">Contact</a></li>	 
-  </ul> </p>m
- 
-  
-  <hr/>
+   		<ul>			 
+     			<li><a href="BT-Sept19.html">BT a contrarian buy? - Sept 2019</a></li>
+       			<li>Coming...</li>			 
+     			<li>Coming...</li>		
+   		</ul>
+		<br>
+	</div>
+
+	<div class="col_3 last" style="background-color:#fff">
+		<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg"></div>
+	</div>
+
+</div>
+
+<div class="clear"></div>
 	
-  <?php include("../includes/footer.html");?>  
-  </body> 
+<?php include("../../includes/footer.html");?>
+	
+</body>
 </html> 
 
  
