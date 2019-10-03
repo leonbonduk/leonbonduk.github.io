@@ -2,7 +2,7 @@
 <html lang="en" class="no-js">
 <head>		
 		<meta charset="UTF-8">
-		<title>Comapre the Challenger Banks</title>
+		<title>Compare the Challenger Banks</title>
 		<script src="https://evolving.money/table-nodejs/modernizr.js"></script> <!-- Modernizr -->
        		<meta name="description" content="Guide to comparing the new challenger banks." />
        		<meta name="keywords" content="compare, challenger banks, banking, fintech" />
