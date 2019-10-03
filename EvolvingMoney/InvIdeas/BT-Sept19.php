@@ -13,14 +13,10 @@
 	<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 
-
+</head>
 
 <body>
-
-
-
 	<?php include("../includes/test-header.html");?>
-
 	
 <div class="row">
 
