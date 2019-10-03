@@ -9,10 +9,10 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="robots" content="all">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
-		<link href="css/styles.css" type="text/css" rel="stylesheet" />
 		<link rel="canonical" href="https://www.evolving.money/">
 		<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
 		<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
+		<link href="css/styles.css" type="text/css" rel="stylesheet" />
 </head>
 
 <body>
@@ -32,12 +32,13 @@
 
 	<div class="row">
 		<div class="col_9 first" style="background-color:#fff">
-            <p>If you would like to get in touch with us then please drop either of us an email: </p>
-            <br>
-            <a class="link" href="mailto:leon@evolving.money">leon@evolving.money</a>
-            <br>
-            <a class="link" href="mailto:james_graham_day@yahoo.co.uk">james_graham_day@yahoo.co.uk</a>
-            <br>
+            		<p>If you would like to get in touch with us then please drop either of us an email: </p>
+            		<br>
+            		<a class="link" href="mailto:leon@evolving.money">leon@evolving.money</a>
+           	 	<br>
+            		<a class="link" href="mailto:james_graham_day@yahoo.co.uk">james_graham_day@yahoo.co.uk</a>
+            		<br>
+			<p>Or connect with us on social media via the links t the bottom of the page...</p>	
 
 		</div>
 
