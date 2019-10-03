@@ -16,11 +16,11 @@
 	
 	<style>
 		.link {             
-        text-align: left;
+        float: left;
         width: 90%;
         margin: 20px auto 20px auto;
         text-decoration: underline;
-        font-color: blue;
+        color: blue;
         font-weight: normal;
         font-style: sans-serif;
         font-family: helvetica;
