@@ -19,7 +19,7 @@
 
 
 
-	<?php include("https://www.evolving.money/includes/test-header.html");?>
+	<?php include("../includes/test-header.html");?>
 
 	
 <div class="row">
@@ -44,7 +44,7 @@
 
 <div class="clear"></div>
 
-<?php include("https://www.evolving.money/includes/footer.html");?>
+<?php include("../includes/footer.html");?>
 
 </body>
 </html> 
