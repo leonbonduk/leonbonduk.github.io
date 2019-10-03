@@ -32,7 +32,7 @@
    		<p>Latest investment ideas:</p>
    
    		<ul>			 
-     			<li><a href="BT-Sept19.html">BT a contrarian buy? - Sept 2019</a></li>
+     			<li><a href="BT-Sept19.php">BT a contrarian buy? - Sept 2019</a></li>
        			<li>Coming...</li>			 
      			<li>Coming...</li>		
    		</ul>
