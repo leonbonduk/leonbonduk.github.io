@@ -20,7 +20,7 @@
 <div>
 	<div class="row" margin 0 0;>
 		<div class="col_12 first" style="background-color:#fff">
-			<div class="imgbox"><img class="left-fit-page-heading" src="https://www.evolving.money/Images/Investments_logo.GIF">
+			<div class="imgbox"><img class="left-fit-page-heading" src="https://www.evolving.money/Images/Investments_logo.gif">
 		</div>
 	</div>
 </div> 
