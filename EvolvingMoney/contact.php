@@ -13,6 +13,21 @@
 		<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
 		<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 		<link href="css/styles.css" type="text/css" rel="stylesheet" />
+	
+	<style>
+		.link {             
+        text-align: left;
+        width: 90%;
+        margin: 20px auto 20px auto;
+        text-decoration: underline;
+        font-color: blue;
+        font-weight: normal;
+        font-style: sans-serif;
+        font-family: helvetica;
+        font-size: 100%;
+      /*  letter-spacing: 0.15 em; */
+        line-height: 1.5 em} */
+	</style>
 </head>
 
 <body>
@@ -38,7 +53,7 @@
            	 	<br>
             		<a class="link" href="mailto:james_graham_day@yahoo.co.uk">james_graham_day@yahoo.co.uk</a>
             		<br>
-			<p>Or connect with us on social media via the links t the bottom of the page...</p>	
+			<p>Or connect with us on social media via the links at the bottom of the page...</p>	
 
 		</div>
 
