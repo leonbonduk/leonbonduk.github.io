@@ -48,11 +48,11 @@
 	<div class="row">
 		<div class="col_9 first" style="background-color:#fff">
             		<p>If you would like to get in touch with us then please drop either of us an email: 
-            		<br>
+            		<br><br>
             		<a class="link" href="mailto:leon@evolving.money">leon@evolving.money</a>
-           	 	<br>
+           	 	<br><br>
             		<a class="link" href="mailto:james_graham_day@yahoo.co.uk">james_graham_day@yahoo.co.uk</a>
-            		<br>
+            		<br><br>
 			Or connect with us on social media via the links at the bottom of the page...</p>	
 
 		</div>
