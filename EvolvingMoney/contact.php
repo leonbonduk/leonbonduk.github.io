@@ -13,21 +13,6 @@
 		<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
 		<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 		<link href="css/styles.css" type="text/css" rel="stylesheet" />
-	
-	<style>
-		.link {             
-        text-align: left;
-        width: 100%;
-        margin: 20px auto 20px auto;
-        text-decoration: underline;
-        color: blue;
-        font-weight: normal;
-        font-style: sans-serif;
-        font-family: helvetica;
-        font-size: 100%;
-      /*  letter-spacing: 0.15 em; */
-        line-height: 1.5 em} */
-	</style>
 </head>
 
 <body>
