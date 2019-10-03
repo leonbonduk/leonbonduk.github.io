@@ -16,8 +16,8 @@
 	
 	<style>
 		.link {             
-        float: left;
-        width: 90%;
+        text-align: left;
+        width: 100%;
         margin: 20px auto 20px auto;
         text-decoration: underline;
         color: blue;
