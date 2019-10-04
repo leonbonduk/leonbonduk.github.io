@@ -22,7 +22,7 @@
 
 	<div class="col_9 first" style="background-color:#fff">	
 		<br>	 
-		<h1> BT a contrarian buy?</h1>		 
+		<h1>Is BT a contrarian buy?</h1>		 
 		<p><img src="https://www.evolving.money/Images/BT_up.jpeg" alt="BT Tower" title="Is BT low share price a contrarian buy?" width=“100” height=“200” align=“left” /> Price: 167p <br>Date: 2 Sept 2019 <br> <br> With such a significant drop in share price over recent months, down 32% for the year, to PE of 6 and dividend yield of 9% this could well be an unmissable buying opportunity!
 		<br><br>
 			BT has a new CEO and the company is now beating analysts expectations</p>
