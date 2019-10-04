@@ -31,8 +31,31 @@
 	</div>
 
 	<div class="col_3 last" style="background-color:#fff">
-		<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg"></div>
-	</div>
+		<!-- TradingView Widget BEGIN -->
+		<div class="tradingview-widget-container">
+ 		<div id="tradingview_0416e"></div>
+ 		<div class="tradingview-widget-copyright"><a href="https://uk.tradingview.com/symbols/LSE-BT.A/" rel="noopener" target="_blank"><span class="blue-text">BT.A Chart</span></a> by TradingView</div>
+  		<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  		<script type="text/javascript">
+  		new TradingView.widget(
+  		{
+  		"autosize": true,
+  		"symbol": "LSE:BT.A",
+  		"interval": "W",
+  		"timezone": "Europe/London",
+  		"theme": "Light",
+  		"style": "1",
+  		"locale": "uk",
+  		"toolbar_bg": "#f1f3f6",
+  		"enable_publishing": false,
+  		"allow_symbol_change": true,
+  		"container_id": "tradingview_0416e"
+		}		
+ 		 );
+  		</script>
+		</div>
+		<!-- TradingView Widget END -->
+		</div>
 </div>
 
 <div class="clear"></div>
