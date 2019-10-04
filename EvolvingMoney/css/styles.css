@@ -1,6 +1,6 @@
 
 body {
-        font-size: 90%;
+        font-size: 100%;
         font-family: "Arial", Arial, sans-serif;
         /*letter-spacing: 0.15em; */
         /*background-color:rgb(128,128,128);*/}
@@ -16,6 +16,18 @@ p {
         /* letter-spacing: 0.15 em; */
         line-height: 1.5 em}
 
+h1 {
+
+        text-align: left;
+        width: 100%;
+        margin: 1% 1% 1% 1%;
+        font-weight: bold;
+        font-style: sans-serif;
+        font-family: helvetica;
+        font-size: 150%;
+        font color: #274168;
+}
+        
 .link {             
         text-align: left;
         width: 100%;
