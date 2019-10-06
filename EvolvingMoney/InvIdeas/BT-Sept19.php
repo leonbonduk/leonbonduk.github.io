@@ -93,7 +93,7 @@
   "largeChartUrl": "",
   "displayMode": "compact",
   "width": "100%",
-  "height": "100%",
+  "height": "550",
   "locale": "uk"
 }
   </script>
