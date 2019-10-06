@@ -80,7 +80,7 @@
 
 	<div class="clear"></div>
 	
-	<div class="col_9 first" style="background-color:#fff">	
+	<div class="col_9 first" style="background-color:#fff" height: 550px >	
 		<!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
