@@ -73,8 +73,8 @@
   		"isTransparent": false,
   		"largeChartUrl": "",
   		"displayMode": "adaptive",
-  		"width": "960",
-  		"height": "550",
+  		"width": "100%",
+  		"height": "100%",
   		"locale": "uk"
 		}
   		</script>
