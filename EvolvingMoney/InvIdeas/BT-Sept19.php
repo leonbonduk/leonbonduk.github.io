@@ -20,7 +20,7 @@
 	
 <div class="row">
 
-	<div class="col_9 first" style="background-color:#fff">	
+	<div class="col_8 first" style="background-color:#fff">	
 		<br>	 
 		<h1>Is BT a contrarian buy?</h1>
 		<h2>Leon Bond, 6th October 2019</h2>
@@ -31,7 +31,7 @@
 		<br>
 	</div>
 
-	<div class="col_3 last" style="background-color:#fff">
+	<div class="col_4 last" style="background-color:#fff">
 		<!-- TradingView Widget BEGIN -->
 		<div class="tradingview-widget-container">
   		<div id="tv-medium-widget"></div>
