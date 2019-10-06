@@ -33,28 +33,27 @@
 	<div class="col_3 last" style="background-color:#fff">
 		<!-- TradingView Widget BEGIN -->
 		<div class="tradingview-widget-container">
-  			<div id="tv-medium-widget"></div>
- 			<div class="tradingview-widget-copyright"><a href="https://uk.tradingview.com/symbols/LSE-BT/" rel="noopener" target="_blank"><span class="blue-text">BT Quotes</span></a> by TradingView</div>
-  			<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
- 			<script type="text/javascript">
- 				new TradingView.MediumWidget(
-  				{
-  				"container_id": "tv-medium-widget",
-  				"symbols": [
-    				"LSE:BT.A|60m"
-  				],
-  				"greyText": "Quotes by",
-  				"gridLineColor": "#e9e9ea",
-  				"fontColor": "#83888D",
-  				"underLineColor": "#dbeffb",
-  				"trendLineColor": "#4bafe9",
-  				"width": "300px",
-  				"height": "250px",
-  				"locale": "uk",
-  				"chartOnly": true
-				}
-  				);
-  			</script>
+  		<div id="tv-medium-widget"></div>
+  		<div class="tradingview-widget-copyright"><a href="https://uk.tradingview.com/symbols/LSE-BT/" rel="noopener" target="_blank"><span class="blue-text">BT Quotes</span></a> by TradingView</div>
+  		<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  		<script type="text/javascript">
+  		new TradingView.MediumWidget(
+  		{
+  		"container_id": "tv-medium-widget",
+  		"symbols": [
+    		"LSE:BT.A|60m"
+  		],
+  		"greyText": "Quotes by",
+  		"gridLineColor": "#e9e9ea",
+  		"fontColor": "#83888D",
+  		"underLineColor": "#dbeffb",
+  		"trendLineColor": "#4bafe9",
+  		"width": "300px",
+  		"height": "400px",
+  		"locale": "uk"
+		}
+  		);
+  		</script>
 		</div>
 		<!-- TradingView Widget END -->
 	</div>
@@ -74,7 +73,7 @@
   		"largeChartUrl": "",
   		"displayMode": "adaptive",
   		"width": "100%",
-  		"height": "100%",
+  		"height": "550",
   		"locale": "uk"
 		}
   		</script>
