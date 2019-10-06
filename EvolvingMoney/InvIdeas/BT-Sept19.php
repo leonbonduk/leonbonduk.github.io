@@ -64,7 +64,7 @@
 	<div class="col_9 first" style="background-color:#fff">	
 		<!-- TradingView Widget BEGIN -->
 		<div class="tradingview-widget-container">
- 		<div class="tradingview-widget-container__widget"></div>
+  		<div class="tradingview-widget-container__widget"></div>
   		<div class="tradingview-widget-copyright"><a href="https://uk.tradingview.com/symbols/LSE-BT.A/" rel="noopener" target="_blank"><span class="blue-text">BT.A Fundamental Data</span></a> by TradingView</div>
   		<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-financials.js" async>
   		{
@@ -72,15 +72,17 @@
   		"colorTheme": "light",
   		"isTransparent": false,
   		"largeChartUrl": "",
-  		"displayMode": "compact",
-  		"width": "480",
-  		"height": "830",
+  		"displayMode": "adaptive",
+  		"width": "960",
+  		"height": "550",
   		"locale": "uk"
 		}
   		</script>
+		</div>
+		<!-- TradingView Widget END -->
 	</div>
-	<!-- TradingView Widget END -->
-	</div>
+	
+	<div class="clear"></div>
 </div>
 	
 <?php include("../includes/footer.html");?>
