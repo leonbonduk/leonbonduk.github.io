@@ -7,7 +7,7 @@ margin: auto; /* auto */
 /* Wrapper */
 .row {
 width:100%;
-margin:auto;
+margin:1.0% 0 1.0% 0; /* auto */ 
 }
 
 .clear {
@@ -20,7 +20,6 @@ margin:auto;
 }
 
 .col_full,
-.col_article,
 .col_12, /* full width */
 .col_9, /* 3/4 width */
 .col_8, /* 2/3 width */
@@ -44,13 +43,6 @@ margin-right:0%;
 display: block;
 float: none;
 }
-.col_article,
-{
-margin-left: 10%;
-margin-right: 10%;
-display: block;
-float: none;
-}
 .col_12, /* full width */
 .col_9, /* 3/4 width */
 .col_8, /* 2/3 width */
@@ -66,7 +58,7 @@ float: left;
 
 /* First and Last */
 .first {
-margin-left:2.3%; /* 1.1% */
+margin-left:10.0%; /* 1.1% */
 }
 
 .last {
@@ -75,13 +67,12 @@ margin-right: 0%;
 
 /* Column widths taking into account the margins */
 .col_full {width:100%;}
-.col_article {width:80%;}
-.col_12 {width:95.2%;} /* 97.6 */
-.col_9 {width:70.9%;} /* 72.7 */
-.col_8 {width:62.8%;} /* 64.4 */
-.col_6 {width:46.6%;} /* 47.8 */
-.col_4 {width:30.4%;} /* 31.2 */
-.col_3 {width:22.3%;} /* 22.85 */
+.col_12 {width:79.6%;} /* 97.6 */
+.col_9 {width:59.2%;} /* 72.7 */
+.col_8 {width:52.4%;} /* 64.4 */
+.col_6 {width:38.8%;} /* 47.8 */
+.col_4 {width:25.2%;} /* 31.2 */
+.col_3 {width:18.4%;} /* 22.85 */
 img {width:100%;}
 
 /*****************/
@@ -98,8 +89,7 @@ body {min-width:479px;}
 .row {width:100%;}
 
 /* Resize the columns */
-.col_full,
-.col_article 
+.col_full
 {width:100%;
 margin-left: 0;
 margin-right: 0;
@@ -148,8 +138,7 @@ body {min-width:320px;}
 .row {width:100%;}
 
  /* Column margins */
-.col_full,
-.col_article
+.col_full
 {width:100%;
 margin-left: 0;
 margin-right: 0;
