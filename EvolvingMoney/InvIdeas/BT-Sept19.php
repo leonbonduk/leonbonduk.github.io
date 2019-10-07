@@ -32,15 +32,14 @@
 	</div>
 
 	<div class="col_4 last" style="background-color:#fff">
-		<div class="chart_container" style>
-			<p>Hello</p>
-		</div>	
+			
 		
 		<div class="chart_box"/>
 		<p>Latest BT share price:</p>
 		</div>
-		<div class="chart_box"/>
-<!-- TradingView Widget BEGIN -->
+	
+		<div class="chart_container" style>
+			<!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tv-medium-widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://uk.tradingview.com/symbols/LSE-BT/" rel="noopener" target="_blank"><span class="blue-text">BT Quotes</span></a> by TradingView</div>
@@ -65,8 +64,9 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
-	</div>
-		
+		</div>
+	
+	<div>
 		<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox">
 				<img class="center-fit" src="../Images/Comp_chall_banks.png"></div></a>
 		
