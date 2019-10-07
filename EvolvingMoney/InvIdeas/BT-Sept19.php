@@ -32,6 +32,7 @@
 	</div>
 
 	<div class="col_4 last" style="background-color:#fff">
+		<div style="height:400px;"/>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tv-medium-widget"></div>
@@ -57,6 +58,7 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
+	</div>
 		
 		<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox">
 				<img class="center-fit" src="../Images/Comp_chall_banks.png"></div></a>
@@ -65,7 +67,8 @@
 
 	<div class="clear"></div>
 	
-	<div class="col_9 first" style="background-color:#fff" >	
+	<div class="col_9 first" style="background-color:#fff" >
+		
 		<!-- TradingView Widget BEGIN -->
 		<div class="tradingview-widget-container">
   		<div class="tradingview-widget-container__widget"></div>
