@@ -32,6 +32,10 @@
 	</div>
 
 	<div class="col_4 last" style="background-color:#fff">
+		<div class="chart_container" style>
+			<p>Hello</p>
+		</div>	
+		
 		<div class="chart_box"/>
 		<p>Latest BT share price:</p>
 		</div>
