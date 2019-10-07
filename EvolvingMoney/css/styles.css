@@ -1,15 +1,15 @@
 
 body {
         font-size: 100%;
-        font-family: "Arial", Arial, sans-serif;
+        font-style: sans-serif;
+        font-family: helvetica;
         /*letter-spacing: 0.15em; */
         /*background-color:rgb(128,128,128);*/}
 
 p {             
         text-align: left;
-        width: 500%;
+        width: 100%;
         margin: 1% 1% 1% 1%;
-        padding: 0 10px 0 0;
         font-weight: normal;
         font-style: sans-serif;
         font-family: helvetica;
