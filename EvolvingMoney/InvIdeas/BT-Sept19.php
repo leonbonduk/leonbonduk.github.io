@@ -38,6 +38,7 @@
 		</div>
 	
 		<div class="chart_container" style>
+			<div class="chart_chart">
 			<!-- TradingView Widget BEGIN -->
 			<div class="tradingview-widget-container">
   				<div id="tv-medium-widget"></div>
@@ -63,6 +64,7 @@
   				</script>
 			</div>
 			<!-- TradingView Widget END -->
+			</div>
 		</div>
 	
 		<div>
