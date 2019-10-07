@@ -32,7 +32,7 @@
 	</div>
 
 	<div class="col_4 last" style="background-color:#fff">
-		<div style="height:400px;"/>
+		<div style="height:auto;"/>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tv-medium-widget"></div>
