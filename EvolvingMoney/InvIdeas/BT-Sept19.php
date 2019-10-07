@@ -10,7 +10,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link href="../css/styles.css" type="text/css" rel="stylesheet" />
 	<link rel="canonical" href="https://www.evolving.money/">
-	 <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
+	<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 
 </head>
@@ -32,6 +32,9 @@
 	</div>
 
 	<div class="col_4 last" style="background-color:#fff">
+		<div class="chart_box"/>
+		<p>Hello</p>
+		</div>
 		<div class="chart_box"/>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
