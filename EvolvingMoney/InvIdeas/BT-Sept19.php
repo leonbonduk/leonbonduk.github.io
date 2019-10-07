@@ -33,45 +33,46 @@
 
 	<div class="col_4 last" style="background-color:#fff">
 			
-		
 		<div class="chart_box"/>
-		<p>Latest BT share price:</p>
+			<p>Latest BT share price:</p>
 		</div>
 	
 		<div class="chart_container" style>
 			<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div id="tv-medium-widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://uk.tradingview.com/symbols/LSE-BT/" rel="noopener" target="_blank"><span class="blue-text">BT Quotes</span></a> by TradingView</div>
-  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
-  <script type="text/javascript">
-  new TradingView.MediumWidget(
-  {
-  "container_id": "tv-medium-widget",
-  "symbols": [
-    "LSE:BT.A|60m"
-  ],
-  "greyText": "Quotes by",
-  "gridLineColor": "#e9e9ea",
-  "fontColor": "#83888D",
-  "underLineColor": "#dbeffb",
-  "trendLineColor": "#4bafe9",
-  "width": "100%",
-  "height": "100%",
-  "locale": "uk"
-}
-  );
-  </script>
-</div>
-<!-- TradingView Widget END -->
+			<div class="tradingview-widget-container">
+  				<div id="tv-medium-widget"></div>
+  				<div class="tradingview-widget-copyright"><a href="https://uk.tradingview.com/symbols/LSE-BT/" rel="noopener" target="_blank"><span class="blue-text">BT Quotes</span></a> by TradingView</div>
+  				<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  				<script type="text/javascript">
+  					new TradingView.MediumWidget(
+  					{
+  					"container_id": "tv-medium-widget",
+  					"symbols": [
+    					"LSE:BT.A|60m"
+  					],
+  					"greyText": "Quotes by",
+  					"gridLineColor": "#e9e9ea",
+  					"fontColor": "#83888D",
+  					"underLineColor": "#dbeffb",
+  					"trendLineColor": "#4bafe9",
+  					"width": "100%",
+  					"height": "100%",
+  					"locale": "uk"
+					}
+  					);
+  				</script>
+			</div>
+			<!-- TradingView Widget END -->
 		</div>
 	
-	<div>
-		<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox">
+		<div>
+			<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox">
 				<img class="center-fit" src="../Images/Comp_chall_banks.png"></div></a>
 		
+		</div>
+	
 	</div>
-
+	
 	<div class="clear"></div>
 	
 	<div class="col_9 first" style="background-color:#fff" >
