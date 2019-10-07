@@ -70,3 +70,21 @@ h2 {
         height: 500px; /* 0 */
         /*padding-top: 125%; */
 }
+
+.chart_container {
+        /* width = auto; */
+        
+        padding-top: 125%; */
+        height: 0px; /* 0 */
+        position: relative;
+}
+
+.chart_chart
+{
+        width: 100%;
+        height: 100%;
+        posiyion: absolute;
+        top: 0;
+        left: 0;
+}
+        
