@@ -53,3 +53,9 @@ h2 {
         font-size: 100%;
       /*  letter-spacing: 0.15 em; */
         line-height: 1.5 em} */
+
+.chart_box {
+        width = auto;
+        height: 0;
+        padding-top: 125%;
+}
