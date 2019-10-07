@@ -28,7 +28,18 @@ h1 {
         font-size: 300%;
         color: #274168;
 }
-    
+
+.h1_article {
+
+        text-align: left;
+        width: 100%;
+        margin: 1% 1% 1% 1%;
+        font-weight: bold;
+        font-style: sans-serif;
+        font-family: helvetica;
+        font-size: 300%;
+        color: #274168;
+}
 
 h2 {
         text-align: left;
