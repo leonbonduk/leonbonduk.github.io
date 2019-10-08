@@ -53,7 +53,8 @@ h2 {
         color: #274168;
         border-top: 1px solid #d4d2cd;
         border-bottom: 1px solid #d4d2cd;
-        padding-bottom: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
 }
 
 .link {             
