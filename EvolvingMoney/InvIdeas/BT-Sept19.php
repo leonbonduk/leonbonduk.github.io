@@ -24,7 +24,7 @@
 		<br>	 
 		<h1 class="h1_article">Is BT a contrarian buy?</h1>
 		<h2>Leon Bond, 2nd September 2019, Price £1.67</h2>
-		<p><img src="https://www.evolving.money/Images/BT_up.jpeg" alt="BT Tower" title="Is BT low share price a contrarian buy?" style="width:300px;height:400px;float: left; margin: 1% 1% 1% 1%:"/> <br> With such a significant drop in share price over recent months, down 32% for the year, to PE of 6 and dividend yield of 9% this could well be an unmissable buying opportunity!
+		<p><img src="https://www.evolving.money/Images/BT_up.jpeg" alt="BT Tower" title="Is BT low share price a contrarian buy?" style="width:300px;height:400px;float: left; margin: 1%; padding: 1%;"/> <br> With such a significant drop in share price over recent months, down 32% for the year, to PE of 6 and dividend yield of 9% this could well be an unmissable buying opportunity!
 		<br><br>
 			BT has a new CEO and the company is now beating analysts expectations</p>
 		<p>Related news and coverage:</p>
