@@ -39,9 +39,9 @@
 	
 		<div class="chart_container" style>
 			<div class="chart_chart">
-				<p>Hello</p>
+			<!--	<p>Hello</p> !-->
 			<!-- TradingView Widget BEGIN -->
-			<!-- <div class="tradingview-widget-container">
+			 <div class="tradingview-widget-container">
   				<div id="tv-medium-widget"></div>
   				<div class="tradingview-widget-copyright"><a href="https://uk.tradingview.com/symbols/LSE-BT/" rel="noopener" target="_blank"><span class="blue-text">BT Quotes</span></a> by TradingView</div>
   				<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
@@ -63,7 +63,7 @@
 					}
   					);
   				</script>
-			</div> !-->
+			</div>
 			<!-- TradingView Widget END -->
 			</div>
 		</div>
