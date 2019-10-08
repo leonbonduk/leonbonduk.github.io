@@ -78,7 +78,7 @@
 	
 	<div class="clear"></div>
 	
-	<div class="col_9 first" style="background-color:#fff" >
+	<div class="col_8 first" style="background-color:#fff" >
 		
 		<!-- TradingView Widget BEGIN -->
 		<div class="tradingview-widget-container">
