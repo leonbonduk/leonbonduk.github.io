@@ -37,7 +37,7 @@
 			<p>Latest BT share price:</p>
 		</div>
 	
-		<div class="chart_container" style>
+		<div class="chart_container">
 			<div class="chart_chart">
 			<!--	<p>Hello</p> !-->
 			<!-- TradingView Widget BEGIN -->
