@@ -10,6 +10,7 @@ p {
         text-align: left;
         width: 100%;
         margin: 1% 1% 1% 1%;
+        padding: 1%;
         font-weight: normal;
         font-style: sans-serif;
         font-family: helvetica;
@@ -50,6 +51,9 @@ h2 {
         font-family: helvetica;
         font-size: 100%;
         color: #274168;
+        border-top: 1px solid #d4d2cd;
+        border-bottom: 1px solid #d4d2cd;
+        padding-bottom: 10px;
 }
 
 .link {             
