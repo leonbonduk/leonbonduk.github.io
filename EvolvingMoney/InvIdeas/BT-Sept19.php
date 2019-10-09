@@ -1,4 +1,3 @@
-		<p >With the share price now at 167p, this is significantly down from the heady heights of 500p back in 2015, that’s almost 67% down from it’s peak and 30% down for the year to date. With a forecast PE ratio of 6 (it was around 16 back in 2015!) and a dividend yield of 9% could this now be an unmissable buying opportunity?.</p> 
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 <head>		
