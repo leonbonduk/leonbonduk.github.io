@@ -15,7 +15,7 @@ p {
         font-family: helvetica;
         font-size: 100%;
         /* letter-spacing: 0.15 em; */
-        line-height: 1.5 em}
+        line-height: 3.0 em}
 
 h1 {
 
@@ -70,7 +70,8 @@ h3 {
 }
 
 .Glossary li {
-        text-align: left;
+        margin: 1% 1% 1% 1%;
+        padding: 1%;text-align: left;
         list-style-type: circle;
         list-style-position: outside;
 } 
