@@ -28,7 +28,7 @@
 		<p>With the share price now at 167p, this is significantly down from the heady heights of 500p back in 2015, that’s almost 67% down from it’s peak and 30% down for the year to date. With a forecast PE ratio of 6 (it was around 16 back in 2015!) and a dividend yield of 9% could this now be an unmissable buying opportunity?.</p> 
 		<h2>What went wrong?</h2>
 		<p>After a dramatic rise in the share price in the years up to 2015, from the lows after the last financial crisis, the price has fallen significantly since the EE acquisition back in January 2016. EE has been a relative bright spot in BT’s results since acquisition but other various headwind pressures have battered the share price including:
-		<ul>
+		<ul class="Glossary">
 			<li>A fall in revenues and earnings driven by regulated prices at Openreach, a fall in voice revenues as VOIP grows more popular, as well as falls in the international Global Services division.</li>
 			<li>An accounting scandal in the Italian division resulted in a charge of £530mil early 2017.</li>
 			<li>Cashflow pressures to cover capital expenditure needs for the roll out of full fibre, 5G and significant pension liabilities on the historic defined contribution schemes all threaten the perceived ability of the company to continue to pay it’s dividend at the same levels.</li>
