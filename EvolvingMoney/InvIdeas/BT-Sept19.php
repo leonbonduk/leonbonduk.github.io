@@ -27,15 +27,15 @@
 		<p><img src="https://www.evolving.money/Images/BT_up.jpeg" alt="BT Tower" title="Is BT low share price a contrarian buy?" style="width:300px;height:400px;float: left; margin: 1%; padding: 1%;"/> </p>
 		<p>With the share price now at 167p, this is significantly down from the heady heights of 500p back in 2015, that’s almost 67% down from it’s peak and 30% down for the year to date. With a forecast PE ratio of 6 (it was around 16 back in 2015!) and a dividend yield of 9% could this now be an unmissable buying opportunity?.</p> 
 		<h2>What went wrong?</h2>
-		<p>After a dramatic rise in the share price in the years up to 2015, from the lows after the last financial crisis, the price has fallen significantly since the EE acquisition back in January 2016. EE has been a relative bright spot in BT’s results since acquisition but other various headwind pressures have battered the share price including:
-		<p><ul class="Glossary">
+		<p>After a dramatic rise in the share price in the years up to 2015, from the lows after the last financial crisis, the price has fallen significantly since the EE acquisition back in January 2016. EE has been a relative bright spot in BT’s results since acquisition but other various headwind pressures have battered the share price including:</p>
+		<ul class="Glossary">
 			<li>A fall in revenues and earnings driven by regulated prices at Openreach, a fall in voice revenues as VOIP grows more popular, as well as falls in the international Global Services division.</li>
 			<li>An accounting scandal in the Italian division resulted in a charge of £530mil early 2017.</li>
 			<li>Cashflow pressures to cover capital expenditure needs for the roll out of full fibre, 5G and significant pension liabilities on the historic defined contribution schemes all threaten the perceived ability of the company to continue to pay it’s dividend at the same levels.</li>
 			<li>Growth in debt to fund the pension top-up payments.</li>
 			<li>Potential significant costs for new 5G spectrum and football rights.</li>
 			<li>A rocky relationship with the regulator along with little clarity as to whether Openreach should be spun out as separate company or not.</li>
-		</ul></p>	
+		</ul>	
 		<h2>The way ahead</h2>
 		<p>BT’s revenue’s and earnings are forecast to still fall slightly in the coming year but the hire of the new CEO, Philip Jansen, at the start of the year and his reputation for restructuring should hopefully start to bare fruit in the next few years. He has been doing the rounds of government departments in recent weeks plugging an accelerated roll-out of full fibre services, which should be music to the ears of Boris Johnson’s government who appear to be putting more focus on such a vision to drive economic growth for  the country in a post-Brexit world. Along with a change in personnel at the regulator Ofgem, relations should be thawing for BT and hopefully Philip has enough bargaining power that increased rates will be rewarded in return for an accelerated roll out of fibre.</p>
 		<p>Although earlier this month Bank of America Merrill Lynch suggested a 40% cut in the dividend was likely this may not be such a bad thing if and when it does happen. The dividend would still be a not unreasonable 5.4% and the extra cash would allow BT to accelerate the roll out of full fibre and so provide the modern network required to drive revenues and financial growth in the coming years. It will also finally put an end to market speculation around such a cut and so the market can move on to future returns that can be driven from forthcoming capital expenditure.</p>
