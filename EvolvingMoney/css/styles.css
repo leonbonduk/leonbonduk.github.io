@@ -18,6 +18,20 @@ p {
         line-height: 3.0 em;
 }
 
+article
+{             
+        text-align: left;
+        width: 100%;
+        margin: 1% 1% 1% 1%;
+        padding: 1%;
+        font-weight: normal;
+        font-style: sans-serif;
+        font-family: helvetica;
+        font-size: 100%;
+        /* letter-spacing: 0.15 em; */
+        line-height: 3.0 em;
+}
+
 h1 {
 
         text-align: left;
@@ -74,7 +88,8 @@ h3 {
         margin: 1% 1% 1% 1%;
         padding: 1%;text-align: left;
         list-style-type: circle;
-        list-style-position: outside;
+        list-style-position: inside;
+        text-indent: -1.5em;
 } 
 
 .link {             
