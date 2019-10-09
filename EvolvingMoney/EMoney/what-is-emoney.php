@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8" /
+	<meta charset="utf-8">
 		<title>Evolving Money - What is E-Money</title>
        		<meta name="description" content="Introduction to evolving nature of money due to online technology" />
        		<meta name="keywords" content="emoney, new, crypto, banking" />
@@ -10,7 +10,6 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<link href=""https://www.evolving.money/css/styles.css" type="text/css" rel="stylesheet" />
 		<link rel="canonical" href="https://www.evolving.money/">
-		<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 		<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 </head>
 
