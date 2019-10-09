@@ -77,7 +77,7 @@ h3 {
         text-align: left;
         list-style-type: circle;
         list-style-position: inside;
-        /* text-indent: -1.5em; */
+        text-indent: -1.5em;
         line-height: 1.5em;
 } 
 
