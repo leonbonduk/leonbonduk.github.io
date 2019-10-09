@@ -76,7 +76,7 @@ h3 {
         padding: 1%;
         text-align: left;
         list-style-type: circle;
-        list-style-position: inside;
+        list-style-position: outside;
         text-indent: -1.5em;
 } 
 
