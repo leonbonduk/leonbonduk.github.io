@@ -72,7 +72,7 @@ h3 {
 .Glossary li {
         text-align: left;
         list-style-type: circle;
-        list-style-position: inside;
+        list-style-position: outside;
 } 
 
 .link {             
