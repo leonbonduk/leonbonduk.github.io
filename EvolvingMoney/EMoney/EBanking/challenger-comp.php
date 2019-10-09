@@ -6,7 +6,7 @@
 		<script src="https://evolving.money/table-nodejs/modernizr.js"></script> <!-- Modernizr -->
        		<meta name="description" content="Guide to comparing the new challenger banks." />
        		<meta name="keywords" content="compare, challenger banks, banking, fintech, Revolut, Monese, Starling, N26, Monzo, Cashplus, Monzo plus, Cashplus Activeplus, Cashplus Deluxe, Monese Simple, Monese classic, Monese premium, N26 black, N26 metal, Revolut metal, Revolut premium" />
-       		<meta http-equiv="author" content="Leon Bond" />
+       		<meta name="author" content="Leon Bond" />
 	       	<meta name="robots" content="all">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
