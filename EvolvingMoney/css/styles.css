@@ -70,14 +70,14 @@ h3 {
         padding-bottom: 5px;
 }
 
-.Glossary li
+.Glossary
 {
         margin: 1% 1% 1% 1%;
         padding: 1%;
         text-align: left;
         list-style-type: circle;
         list-style-position: inside;
-        text-indent: -1.5em;
+        /* text-indent: -1.5em; */
         line-height: 1.5em;
 } 
 
