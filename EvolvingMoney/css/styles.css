@@ -15,21 +15,7 @@ p {
         font-family: helvetica;
         font-size: 100%;
         /* letter-spacing: 0.15 em; */
-        line-height: 1.5 em;
-}
-
-article
-{             
-        text-align: left;
-        width: 100%;
-        margin: 1% 1% 1% 1%;
-        padding: 1%;
-        font-weight: normal;
-        font-style: sans-serif;
-        font-family: helvetica;
-        font-size: 100%;
-        /* letter-spacing: 0.15 em; */
-        line-height: 1.5 em;
+        line-height: 1.5em;
 }
 
 h1 {
@@ -84,7 +70,8 @@ h3 {
         padding-bottom: 5px;
 }
 
-.Glossary li {
+.Glossary
+{
         margin: 1% 1% 1% 1%;
         padding: 1%;
         text-align: left;
