@@ -70,7 +70,7 @@ h3 {
         padding-bottom: 5px;
 }
 
-.Glossary
+.Glossary li
 {
         margin: 1% 1% 1% 1%;
         padding: 1%;
@@ -91,7 +91,7 @@ h3 {
         font-family: helvetica;
         font-size: 100%;
       /*  letter-spacing: 0.15 em; */
-        line-height: 1.5 em} */
+        line-height: 1.5em} */
 
 .chart_box {
         /* width = auto; */
