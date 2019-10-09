@@ -43,7 +43,6 @@
 		<p>The Global Services division has also been pruned and refocused to higher margin services and so hopefully providing a sounder footing for growth for this segment of the Group.</p>
 		<p>Philip also now has a lot of skin in the game owing £3.6million of BT shares (having bought a further £1mil worth on 16th September), quite a significant purchase from a director, and showing his faith in the future prospect of the group.</p>
 		<p>With a forecast PE ratio of just over 6 the market appears to have already factored in an excessive worst case scenario of costs and cashflow restrictions and does not give any value to the potential future growth in returns from an accelerated roll out of the full fibre service and those of other of the other restructuring activities being enacted . Surely at such a lowly valuation the risk is now to the upside and any positive news and signs that Philip’s plans are starting to deliver should initiate a return to a growth in the share price. Therefore I think on balance, the company’s shares are a “Buy”.</p>
-		<p>Related news and coverage:</p>
 		<br>
 	</div>
 
