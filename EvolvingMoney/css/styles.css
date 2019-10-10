@@ -1,7 +1,7 @@
 body {
         font-size: 100%;
-        font-style: sans-serif;
-        font-family: helvetica;
+        font-style: normal;
+        font-family: helvetica, sans-serif;
         /*letter-spacing: 0.15em; */
         /*background-color:rgb(128,128,128);*/}
 
@@ -11,8 +11,8 @@ p {
         margin: 1% 1% 1% 1%;
         padding: 1%;
         font-weight: normal;
-        font-style: sans-serif;
-        font-family: helvetica;
+        font-style: normal;
+        font-family: helvetica, sans-serif;
         font-size: 100%;
         /* letter-spacing: 0.15 em; */
         line-height: 1.5em;
@@ -24,8 +24,8 @@ h1 {
         width: 100%;
         margin: 1% 1% 1% 1%;
         font-weight: bold;
-        font-style: sans-serif;
-        font-family: helvetica;
+        font-style: normal;
+        font-family: helvetica, sans-serif;
         font-size: 300%;
         color: #274168;
 }
@@ -36,8 +36,8 @@ h1 {
         width: 100%;
         margin: 1% 1% 1% 1%;
         font-weight: bold;
-        font-style: sans-serif;
-        font-family: helvetica;
+        font-style: normal;
+        font-family: helvetica, sans-serif;
         font-size: 300%;
         color: #274168;
 }
@@ -47,8 +47,8 @@ h2 {
         width: 100%;
         margin: 1% 1% 1% 1%;
         font-weight: bold;
-        font-style: sans-serif;
-        font-family: helvetica;
+        font-style: normal;
+        font-family: helvetica, sans-serif;
         font-size: 100%;
         color: #274168;
         padding-top: 5px;
@@ -60,8 +60,8 @@ h3 {
         width: 100%;
         margin: 1% 1% 1% 1%;
         font-weight: bold;
-        font-style: sans-serif;
-        font-family: helvetica;
+        font-style: normal;
+        font-family: helvetica, sans-serif;
         font-size: 100%;
         color: #274168;
         border-top: 1px solid #d4d2cd;
@@ -88,8 +88,8 @@ h3 {
         text-decoration: underline;
         color: blue;
         font-weight: normal;
-        font-style: sans-serif;
-        font-family: helvetica;
+        font-style: normal;
+        font-family: helvetica,sans-serif;
         font-size: 100%;
       /*  letter-spacing: 0.15 em; */
         line-height: 1.5em} */
