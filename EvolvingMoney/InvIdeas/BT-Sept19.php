@@ -53,7 +53,6 @@
 	
 		<div class="chart_container">
 			<div class="chart_chart">
-			<!--	<p>Hello</p> !-->
 			<!-- TradingView Widget BEGIN -->
 			 <div class="tradingview-widget-container">
   				<div id="tv-medium-widget"></div>
