@@ -14,7 +14,7 @@
 		<link rel="stylesheet" href="../../css/style-comp-table.css"> <!-- Resource style -->
 		<link href="../../css/styles.css" type="text/css" rel="stylesheet" />
 		<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
-		<!-- <link rel="stylesheet" type="text/css" href="../../css/960-12-col.css" /> !-->
+		<link rel="stylesheet" type="text/css" href="../../css/960-12-col.css" />
 </head>
 
 <body>
