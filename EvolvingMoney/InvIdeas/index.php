@@ -5,11 +5,10 @@
 		<title>Evolving Money - Investment Ideas</title>
 	 	<meta name="description" content="Investment ideas, a mixture of macro and contrarian investment opportunites" />
        		<meta name="keywords" content="investments, new, macro, contrarian" />
-       		<meta http-equiv="author" content="Leon Bond" />
+       		<meta name="author" content="Leon Bond" />
 	       	<meta name="robots" content="all">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<link href="https://www.evolving.money/css/styles.css" type="text/css" rel="stylesheet" />
-		<link rel="canonical" href="https://www.evolving.money/">
 		<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
 		<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 
