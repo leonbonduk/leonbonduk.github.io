@@ -5,7 +5,7 @@
 		<title>Evolving Money - What is E-Money</title>
        		<meta name="description" content="Introduction to evolving nature of money due to online technology" />
        		<meta name="keywords" content="emoney, new, crypto, banking" />
-       		<meta http-equiv="author" content="James Day" />
+       		<meta name="author" content="James Day" />
 		<meta name="robots" content="all">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<link href="https://www.evolving.money/css/styles.css" type="text/css" rel="stylesheet" />
