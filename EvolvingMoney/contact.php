@@ -4,13 +4,12 @@
 	<meta charset="utf-8" />	
 		<title>Evolving Money - Contact Us</title>
        		<meta name="description" content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
-       		<meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking" />
-		<meta http-equiv="author"content="Leon Bond" />
+       		<meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking, contact us" />
+		<meta name="author"content="Leon Bond" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="robots" content="all">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
-		<link rel="canonical" href="https://www.evolving.money/">
-		<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
+		<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 		<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 		<link href="css/styles.css" type="text/css" rel="stylesheet" />
 </head>
