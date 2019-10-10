@@ -75,12 +75,12 @@
 					<li>Free UK Account</li>
 					<li>Free Euro Account</li>
 					<li>FX at inter-bank rate</li>
-					<li>Fee free ATM withdrawl</li>
+					<li>Fee free ATM withdrawl</li>"
 					<li>Banking liscense</li>
 					<li>Apple Pay</li>
 					<li class="cd-features-subheading">Security features</li>
 					<li>Transaction notification</li>
-					<li>Virtual cards</li>
+				<li>Virtual cards</li>
 					<li>Freeze card in app</li>
 					<li>Magstripe disable</li>
 					<li>Online 3D secure</li>
@@ -98,7 +98,7 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="https://evolving.money/Images/Revolut_card_logo_EM.png" alt="product image">
+							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_card_logo_EM.png" alt="product image">
 							<h3>Revolut</h3>
 						</div> <!-- .top-info -->
 
@@ -115,7 +115,7 @@
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img  src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
@@ -131,7 +131,7 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image"">
+							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image"">
 							<h3>Revolut Premium</h3>
 						</div> <!-- .top-info -->
 
@@ -164,7 +164,7 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
+							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
 							<h3>Revolut Metal</h3>
 						</div> <!-- .top-info -->
 
@@ -196,7 +196,7 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="https://evolving.money/Images/Starling_card_logo_EM.png" alt="product image">
+							<img class="col-fit-img" src="https://evolving.money/Images/Starling_card_logo_EM.png" alt="product image">
 							<h3>Starling</h3>
 						</div> <!-- .top-info -->
 
