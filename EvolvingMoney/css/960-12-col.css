@@ -181,8 +181,9 @@ margin-right:0%;
 }
 
 .imgbox {
-           display: grid;
-           height: 100%;
+        display: grid;
+        height: 100%;
+	width:100%;
 }
 .left-fit-page-heading
 {
