@@ -36,7 +36,7 @@ margin:1.0% 0 1.0% 0; /* auto */
 }
 
 /* Column margins */
-.col_full,
+.col_full
 {
 margin-left: 0%;
 margin-right:0%;
@@ -191,6 +191,6 @@ margin-right:0%;
         max-height: 55px;
         /* margin: 2% 2%; */
 	margin: 0 0;
-	padding: 1% 0 1% 0
+	padding: 1% 0 1% 0;
 	text-align: left;
 }
