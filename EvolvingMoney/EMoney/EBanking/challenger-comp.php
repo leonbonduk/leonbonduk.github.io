@@ -12,7 +12,7 @@
 		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="../../css/reset.css"> <!-- CSS reset -->
 		<link rel="stylesheet" href="../../css/style-comp-table.css"> <!-- Resource style -->
-		<!-- <link href="../../css/styles.css" type="text/css" rel="stylesheet" /> !-->
+		<link href="../../css/styles.css" type="text/css" rel="stylesheet" />
 		<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 		<!-- <link rel="stylesheet" type="text/css" href="../../css/960-12-col.css" /> !-->
 </head>
@@ -226,7 +226,7 @@
 						</ul>
 					</li> <!-- .product -->
 				</ul> <!-- .cd-products-columns -->
-			</div> <!-- .cd-products-wrapper -->    !-->
+			</div> <!-- .cd-products-wrapper -->
 			
 			<ul class="cd-table-navigation">
 				<li><a href="#0" class="prev inactive">Prev</a></li>
