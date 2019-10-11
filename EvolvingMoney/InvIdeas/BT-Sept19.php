@@ -47,7 +47,7 @@
 
 	<div class="col_4 last" style="background-color:#fff">
 			
-		<div class="chart_box"/>
+		<div>
 			<p>Latest BT share price:</p>
 		</div>
 	
