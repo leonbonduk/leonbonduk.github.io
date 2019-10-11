@@ -502,3 +502,97 @@ body
 
         	}
 
+
+/* Footer CSS follows............. */
+.site-footer {
+  padding: 1rem;
+  background: #8a8a8a;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+
+}
+  
+#footer-content{
+    width: 100%;
+
+}
+  
+.site-footer .site-footer-icons {
+       width: 50%; /* 300px */
+       float: left; 
+       text-align: right;
+      /* clear: right; no elements to the right */
+}
+
+.site-footer .site-footer-icons li {
+        display: inline;
+}
+
+.site-footer .site-footer-icons li:last-of-type {
+  margin-right: 0;
+}
+
+.site-footer .site-footer-icons .fa {
+  font-size: 0.8rem; /* size of central part of logo */
+  color: #fefefe;
+}
+
+.site-footer .site-footer-icons .fa:hover {
+  color: #4a4a4a;
+  transition: color 0.3s ease-in;
+}
+.site-footer .site-footer-left{
+       /* display: block;  */
+       width: 50%; /* 50% */
+       float: left; 
+       /* clear: right; */
+}
+
+.site-footer .site-footer-left p{
+        text-align: left;
+        width: 100%; 
+        margin: 20px auto 20px auto;
+        font-weight: normal;
+        font-style: sans-serif;
+        font-family: helvetica;
+        font-size: 75%;
+        color: white;
+        letter-spacing: 0.15 em;
+        line-height: 1.5 em    
+    
+}
+.fa {
+  padding: 1.5em;  /* 10px make circles wider */
+  font-size: 0.8em; /* 20px */
+  width: 4em;   /* 10 pxmake circles wider */
+  text-align: center;
+  text-decoration: none;
+  margin: 0.2em 0.3em;
+  border-radius: 50%; /* how circular */
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
