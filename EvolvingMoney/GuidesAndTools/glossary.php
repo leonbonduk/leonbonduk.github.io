@@ -18,10 +18,10 @@
 	<?php include("../includes/test-header.html");?>
 
 <div>
-	<div class="row" margin 0 0;>
+	<div class="row">
 		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox">
-    				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/Glossary_logo.gif">
+    				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/Glossary_logo.gif" alt="Glossary.Money">
 			</div>
 		</div>
 	</div> 
@@ -52,7 +52,7 @@
 			</dl>
 		</div>
 		<div class="col_3 last" style="background-color:#fff">
-			<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg"></div>
+			<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg" alt="Evolving.Money logo"></div>
 		</div>
 
 	</div>
