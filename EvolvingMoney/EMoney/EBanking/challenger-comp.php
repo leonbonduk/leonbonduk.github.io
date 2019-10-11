@@ -10,8 +10,8 @@
 	       	<meta name="robots" content="all">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
-		<!-- <link rel="stylesheet" href="../../css/reset.css"> <!-- CSS reset -->
-		<!-- <link rel="stylesheet" href="../../css/style-comp-table.css"> <!-- Resource style -->
+		<!-- <link rel="stylesheet" href="../../css/reset.css">  CSS reset -->
+		<!-- <link rel="stylesheet" href="../../css/style-comp-table.css">  Resource style -->
 		<link href="../../css/styles.css" type="text/css" rel="stylesheet" />
 		<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 		<link rel="stylesheet" type="text/css" href="../../css/960-12-col.css" />
@@ -25,12 +25,12 @@
 	<div class="row" margin 0 0;>
 		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox">
-    				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/Banking_logo.GIF">
+    				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/Banking_logo.GIF" alt="Banking.Money">
 			</div>
 		</div>
 	</div> 
 	<div class="clear"></div>
-	<div class="row" margin 0 0;>
+	<div class="row">
 		<div class="col_12 first" style="background-color:#fff">
 			<h1>Which is the best challenger bank?</h1>
 		</div>
@@ -45,7 +45,7 @@
 		</p>
 	</div>
 		<div class="col_3 last" style="background-color:#fff">
-			<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg"></div>
+			<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg" alt="Evolving.Money logo"></div>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -131,7 +131,7 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image"">
+							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image">
 							<h3>Revolut Premium</h3>
 						</div> <!-- .top-info -->
 
