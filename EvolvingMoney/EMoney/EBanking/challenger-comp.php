@@ -20,9 +20,9 @@
 <body>
 
 	<?php include("../../includes/test-header.html");?>
-
+<!--
 <div>
-	<div class="row" margin 0 0;>
+	<div class="row">
 		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox">
     				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/Banking_logo.GIF" alt="Banking.Money">
@@ -54,7 +54,7 @@
 	<section class="cd-intro">
 		<h1>Challenger Bank Comparison Table</h1>
 	</section> <!-- .cd-intro -->
-	<section class="cd-products-comparison-table">
+<!--	<section class="cd-products-comparison-table">
 		<header>
 			<div class="actions">
 				<a href="#0" class="reset">Reset</a>
@@ -75,7 +75,7 @@
 					<li>Free UK Account</li>
 					<li>Free Euro Account</li>
 					<li>FX at inter-bank rate</li>
-					<li>Fee free ATM withdrawl</li>"
+					<li>Fee free ATM withdrawl</li>
 					<li>Banking liscense</li>
 					<li>Apple Pay</li>
 					<li class="cd-features-subheading">Security features</li>
@@ -93,7 +93,7 @@
 			</div> <!-- .features -->
 			
 
-			<div class="cd-products-wrapper">
+	<!--		<div class="cd-products-wrapper">
 				<ul class="cd-products-columns">
 					<li class="product">
 						<div class="top-info">
@@ -102,7 +102,7 @@
 							<h3>Revolut</h3>
 						</div> <!-- .top-info -->
 
-						<ul class="cd-features-list">
+		<!--				<ul class="cd-features-list">
 							<li>xxx</li>
 							<li class="rate"><span>4/5</span></li>
 							<li>London, 2015</li>
@@ -128,13 +128,13 @@
 						</ul>
 					</li> <!-- .product -->
 
-					<li class="product">
+<!--					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image">
 							<h3>Revolut Premium</h3>
 						</div> <!-- .top-info -->
-
+<!--
 						<ul class="cd-features-list">
 							<li>xxx</li>
 							<li class="rate"><span>5/5</span></li>
@@ -161,14 +161,14 @@
 						</ul>
 					</li> <!-- .product -->
 
-					<li class="product">
+	<!--				<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
 							<h3>Revolut Metal</h3>
 						</div> <!-- .top-info -->
 
-						<ul class="cd-features-list">
+	<!--					<ul class="cd-features-list">
 							<li>xxx</li>
 							<li class="rate"><span>5/5</span></li>
 							<li>London, 2015</li>
@@ -193,14 +193,14 @@
 							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 						</ul>
 					</li> <!-- .product -->
-					<li class="product">
+	<!--				<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Starling_card_logo_EM.png" alt="product image">
 							<h3>Starling</h3>
 						</div> <!-- .top-info -->
 
-						<ul class="cd-features-list">
+		<!--				<ul class="cd-features-list">
 							<li>xxx</li>
 							<li class="rate"><span>5/5</span></li>
 							<li>London, 2015</li>
@@ -228,13 +228,13 @@
 				</ul> <!-- .cd-products-columns -->
 			</div> <!-- .cd-products-wrapper -->
 			
-			<ul class="cd-table-navigation">
+	<!--		<ul class="cd-table-navigation">
 				<li><a href="#0" class="prev inactive">Prev</a></li>
 				<li><a href="#0" class="next">Next</a></li>
 			</ul>
 		</div> <!-- .cd-products-table -->
 	</section> <!-- .cd-products-comparison-table -->
-<script src="https://evolving.money/table-nodejs/jquery-2.1.4.js"></script>
+<!--<script src="https://evolving.money/table-nodejs/jquery-2.1.4.js"></script>
 <script src="https://evolving.money/table-nodejs/main.js"></script> <!-- Resource jQuery -->
 
 <?php include("../../includes/footer.html");?>
