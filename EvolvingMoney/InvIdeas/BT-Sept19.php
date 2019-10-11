@@ -83,7 +83,7 @@
 	
 		<div>
 			<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox">
-				<img class="center-fit" src="../Images/Comp_chall_banks.png"></div></a>
+				<img class="center-fit" src="../Images/Comp_chall_banks.png", alt="bank cards"></div></a>
 		
 		</div>
 	
