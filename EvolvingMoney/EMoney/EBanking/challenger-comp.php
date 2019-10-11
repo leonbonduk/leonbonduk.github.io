@@ -12,14 +12,14 @@
 	<!--	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
 		<!-- <link rel="stylesheet" href="../../css/reset.css">  CSS reset -->
 		<!-- <link rel="stylesheet" href="../../css/style-comp-table.css">  Resource style -->
-		<link href="../../css/styles.css" type="text/css" rel="stylesheet" />
+		<link href="https://evolving.money/css/styles.css" type="text/css" rel="stylesheet" />
 		<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
-		<link rel="stylesheet" type="text/css" href="../../css/960-12-col.css" />
+		<link rel="stylesheet" type="text/css" href="https://evolving.money/css/960-12-col.css" />
 </head>
 
 <body>
 
-	<?php include("../../includes/test-header.html");?>
+	<?php include("https://evolving.money/includes/test-header.html");?>
 <!--
 <div>
 	<div class="row">
