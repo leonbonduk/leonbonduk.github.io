@@ -10,8 +10,8 @@
 	       	<meta name="robots" content="all">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="../../css/reset.css"> <!-- CSS reset -->
-		<link rel="stylesheet" href="../../css/style-comp-table.css"> <!-- Resource style -->
+		<!-- <link rel="stylesheet" href="../../css/reset.css"> <!-- CSS reset -->
+		<!-- <link rel="stylesheet" href="../../css/style-comp-table.css"> <!-- Resource style -->
 		<link href="../../css/styles.css" type="text/css" rel="stylesheet" />
 		<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 		<link rel="stylesheet" type="text/css" href="../../css/960-12-col.css" />
