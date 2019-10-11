@@ -221,7 +221,7 @@ Main Components
 .cd-features-list li {
   font-size: 1.4rem;
   font-weight: bold;
-  padding: 1.4rem 2.25rem; /* 25px 40px; */
+  padding: 1.25rem 2.25rem; /* 25px 40px; */
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -231,7 +231,7 @@ Main Components
 .cd-features-subheading {
    font-size: 1.8rem;
   font-weight: bold;
-  padding: 1.3rem 2.25rem; /* 25px 40px */
+  padding: 1.25rem 2.25rem; /* 25px 40px */
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -241,7 +241,7 @@ Main Components
 
 .cd-features-list li.rate {
   /* rating stars */
-  padding: 21px 0;
+  padding: 1.05rem 0; /* 21px 0 */
 }
 .cd-features-list li.rate span {
   display: inline-block;
