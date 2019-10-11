@@ -108,14 +108,14 @@
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£0.00</li>
-							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 							<li>Yes</li>
 							<li>Yes</li>
 							<li>Up to £200pm</li>
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li><img  src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
+							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
 							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "14" width = "14"></li>
