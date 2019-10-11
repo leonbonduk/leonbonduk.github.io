@@ -255,12 +255,12 @@ Main Components
     font-size: 1.6rem;
   }
   .cd-features-list li.rate {
-    padding: 22px 0;
+    padding: 1.05rem 0; /* 22px 0 */
   }
 }
 .cd-features-list li.tick {
   /* rating stars */
-  padding: 21px 0;
+  padding: 1.05rem 0; /* 22px 0 */
 }
 .cd-features-list li.tick span {
   display: inline-block;
@@ -274,12 +274,12 @@ Main Components
     font-size: 1.6rem;
   }
   .cd-features-list li.tick {
-    padding: 22px 0;
+    padding: 1.05rem 0; /*  22px 0 */
   }
 }
 .cd-features-list li.tick {
   /* rating stars */
-  padding: 21px 0;
+  padding: 1.05rem 0; /* 21px 0 */
 }
 
 .features .cd-features-list li,
@@ -289,7 +289,7 @@ Main Components
   font-weight: bold;
   /* set line-height value equal to font-size of text inside product cells */
   line-height: 14px;
-  padding: 25px 10px;
+  padding: 1.25rem 0.5rem;  /* 25px 10px */
   text-align: left;
 }
 @media only screen and (min-width: 1170px) {
@@ -297,7 +297,7 @@ Main Components
   .cd-products-table .features .top-info {
     text-transform: uppercase;
     line-height: 16px;
-    padding: 25px 20px;
+    padding: 1.25rem 1.0rem; /*25px 20px */
     letter-spacing: 1px;
   }
 }
