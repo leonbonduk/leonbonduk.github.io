@@ -3,7 +3,7 @@
 <head>		
 	<meta charset="UTF-8">
        	<title>Evolving Money - BT a contrarian buy?</title>	
- 	<meta name="description" content="IIs BT a contrarian buy?" />
+ 	<meta name="description" content="Is BT a contrarian buy?" />
    	<meta name="keywords" content="BT, buy, share tip, contrarian" />
        	<meta name="author" content="Leon Bond" />
 	<meta name="robots" content="all">
