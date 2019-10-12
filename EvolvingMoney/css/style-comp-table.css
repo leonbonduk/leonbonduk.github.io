@@ -283,8 +283,8 @@ Main Components
 }
 .cd-features-list li.tick span {
   display: inline-block;
-  height: 1.6rem;
-  width: 1.6rem;
+  height: 2.0rem;
+  width: 2.0rem;
   background: url(../Images/checked.png);
   background-size: contain;
   color: transparent;
