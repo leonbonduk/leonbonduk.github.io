@@ -104,7 +104,7 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate"><span>4/5</span></li>
+							<li class="rate" style="width: 60px;"><span>4/5</span></li>
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£0.00</li>
