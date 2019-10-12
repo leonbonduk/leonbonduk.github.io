@@ -108,23 +108,23 @@
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£0.00</li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><span>1/1</span></li>
 							<li>Yes</li>
 							<li>Yes</li>
 							<li>Up to £200pm</li>
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><span>1/1</span></li>
+							<li class="tick"><span>1/1</span></li>
+							<li class="tick"><span>1/1</span></li>
+							<li class="tick"><span>1/1</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><span>1/1</span></li>
+							<li class="tick"><span>1/1</span></li>
+							<li class="tick"><span>1/1</span></li>
+							<li class="tick"><span>1/1</span></li>
 						</ul>
 					</li> <!-- .product -->
 
