@@ -264,7 +264,7 @@ Main Components
 }
 .cd-features-list li.rate span {
   display: inline-block;
-  height: 21px;
+  height: 20px;
   width: 110px;
   background: url(../Images/cd-star.svg);
   color: transparent;
@@ -283,7 +283,7 @@ Main Components
 }
 .cd-features-list li.tick span {
   display: inline-block;
-  height: 21px;
+  height: 20px;
   width: 110px;
   background: url(../Images/checked.svg);
   color: transparent;
