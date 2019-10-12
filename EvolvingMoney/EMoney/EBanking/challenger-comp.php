@@ -115,7 +115,7 @@
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"><span>1/1</span></li>
+							<li class="tick"><span>5/5</span></li>
 							<li class="tick"><span>1/1</span></li>
 							<li class="tick"><span>1/1</span></li>
 							<li class="tick"><span>1/1</span></li>
