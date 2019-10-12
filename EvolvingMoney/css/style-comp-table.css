@@ -279,8 +279,6 @@ Main Components
 }
 .cd-features-list li.tick {
   /* rating stars */
-  height 1.6rem;
-  width: 1.6rem;
   padding: 1.05rem 0; /* 22px 0 */
 }
 .cd-features-list li.tick span {
