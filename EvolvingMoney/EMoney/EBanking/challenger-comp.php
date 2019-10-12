@@ -115,9 +115,9 @@
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>1/1</span></li>
-							<li class="tick"><span>1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 4.0rem;">2/2</span></li>
+							<li class="tick"><span style="width: 6.0rem;">3/3</span></li>
 							<li class="tick"><span>1/1</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
