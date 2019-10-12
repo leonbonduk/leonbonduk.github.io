@@ -10,8 +10,8 @@
 	       	<meta name="robots" content="all">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="../../css/reset.css">  CSS reset -->
-		<link rel="stylesheet" href="../../css/style-comp-table.css">  Resource style -->
+		<link rel="stylesheet" href="../../css/reset.css">  <!-- CSS reset -->
+		<link rel="stylesheet" href="../../css/style-comp-table.css">  <!-- Resource style -->
 		<link href="../../css/styles.css" type="text/css" rel="stylesheet" />
 		<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 		<link rel="stylesheet" type="text/css" href="https://evolving.money/css/960-12-col.css" />
@@ -99,7 +99,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_card_logo_EM.png" alt="product image">
-							<h3>Revolut</h3>
+							<p class="table_title">Revolut</p>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -132,7 +132,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image">
-							<h3>Revolut Premium</h3>
+							<p class="table_title">Revolut Premium</p>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -165,7 +165,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
-							<h3>Revolut Metal</h3>
+							<p class="table_title">Revolut Metal</p>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -197,7 +197,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Starling_card_logo_EM.png" alt="product image">
-							<h3>Starling</h3>
+							<p class="table_title">Starling</p>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
