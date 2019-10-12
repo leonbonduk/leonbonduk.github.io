@@ -104,7 +104,7 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate"><span style="width: 80px;">4/5</span></li>
+							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£0.00</li>
@@ -116,15 +116,15 @@
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
 							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
-							<li class="tick"><span style="width: 4.0rem;">2/2</span></li>
-							<li class="tick"><span style="width: 6.0rem;">3/3</span></li>
-							<li class="tick"><span>1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">2/2</span></li>
+							<li class="tick"><span style="width: 2.0rem;">3/3</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="tick"><span>1/1</span></li>
-							<li class="tick"><span>1/1</span></li>
-							<li class="tick"><span>1/1</span></li>
-							<li class="tick"><span>1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -137,27 +137,27 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate"><span>5/5</span></li>
+							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£6.99</li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image" height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/cancel.png" alt="product image" height = "17" width = "17"> Up to £400pm</li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 							<li>Received</li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image" height = "17" width = "17"></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -170,7 +170,7 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate"><span>5/5</span></li>
+							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£12.99</li>
@@ -181,16 +181,16 @@
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 						</ul>
 					</li> <!-- .product -->
 					<li class="product">
@@ -202,7 +202,7 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate"><span>5/5</span></li>
+							<li class="rate"><span style="width: 8.8rem;">4/5</span></li>
 							<li>London, 2015</li>
 							<li>2,000,000+</li>
 							<li>£0.00</li>
@@ -213,16 +213,16 @@
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 						</ul>
 					</li> <!-- .product -->
 				</ul> <!-- .cd-products-columns -->
