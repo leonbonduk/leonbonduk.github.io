@@ -105,8 +105,8 @@
 						<ul class="cd-features-list">
 							<li>xxx</li>
 							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
-							<li>London, 2015</li>
-							<li>7,000,000+</li>
+							<li>2015</li>
+							<li>7mil+</li>
 							<li>£0.00</li>
 							<li class="tick"><span>1/1</span></li>
 							<li>Yes</li>
@@ -138,8 +138,8 @@
 						<ul class="cd-features-list">
 							<li>xxx</li>
 							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
-							<li>London, 2015</li>
-							<li>7,000,000+</li>
+							<li>2015</li>
+							<li>7mil+</li>
 							<li>£6.99</li>
 							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
@@ -171,8 +171,8 @@
 						<ul class="cd-features-list">
 							<li>xxx</li>
 							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
-							<li>London, 2015</li>
-							<li>7,000,000+</li>
+							<li>2015</li>
+							<li>7mil+</li>
 							<li>£12.99</li>
 							<li>Yes</li>
 							<li>Yes</li>
@@ -203,8 +203,8 @@
 						<ul class="cd-features-list">
 							<li>xxx</li>
 							<li class="rate"><span style="width: 8.8rem;">4/5</span></li>
-							<li>London, 2015</li>
-							<li>2,000,000+</li>
+							<li>2015</li>
+							<li>2mil+</li>
 							<li>£0.00</li>
 							<li>Yes</li>
 							<li>Yes</li>
