@@ -115,16 +115,16 @@
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -141,23 +141,23 @@
 							<li>London, 2015</li>
 							<li>7,000,000+</li>
 							<li>£6.99</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/cancel.png" alt="product image" height = "17" width = "17"> Up to £400pm</li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image" height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/cancel.png" alt="product image" height = "17" width = "17"> Up to £400pm</li>
 							<li>Received</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image" height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image" height = "17" width = "17"></li>
 							<li class="cd-features-subheading"><br></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -181,16 +181,16 @@
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
 						</ul>
 					</li> <!-- .product -->
 					<li class="product">
@@ -213,16 +213,16 @@
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
-							<li><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
+							<li class="tick"><img src="https://evolving.money/Images/checked.png" alt="product image"  height = "17" width = "17"></li>
 						</ul>
 					</li> <!-- .product -->
 				</ul> <!-- .cd-products-columns -->
