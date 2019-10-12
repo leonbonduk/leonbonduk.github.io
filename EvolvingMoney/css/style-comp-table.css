@@ -33,12 +33,31 @@ h1 {
   text-align: center;
   padding: 4em 5%;
 }
+
+
+.table_title {
+        text-align: center;
+        font-weight: bold;
+        font-family: helvetica, sans-serif;
+        font-size: 2.2rem;
+        color: #274168;
+        padding: 4em 5%;
+}
 @media only screen and (min-width: 1170px) {
   h1 {
     font-size: 4rem;
     font-weight: 300;
     padding: 3em 5%;
   }
+
+.table_title {
+        text-align: center;
+        font-weight: bold;
+        font-family: helvetica, sans-serif;
+        font-size: 4rem;
+        color: #274168;
+        padding: 3em 5%;
+}
 }
 
 /* -------------------------------- 
@@ -245,7 +264,7 @@ Main Components
 }
 .cd-features-list li.rate span {
   display: inline-block;
-  height: 22px;
+  height: 21px;
   width: 110px;
   background: url(../Images/cd-star.svg);
   color: transparent;
