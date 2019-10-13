@@ -77,16 +77,16 @@
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="rate"<span>5/5</span></li>
-							<li class="rate"<span>5/5</span></li>
-							<li class="rate"<span>5/5</span></li>
-							<li class="rate"<span>5/5</span></li>
+							<li class="rate"><span>5/5</span></li>
+							<li class="rate"><span>5/5</span></li>
+							<li class="rate"><span>5/5</span></li>
+							<li class="rate"><span>5/5</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="rate"<span>5/5<1/1</span></li>
-							<li class="rate"<span>5/5</span></li>
-							<li class="rate"<span>5/5</span></li>
-							<li class="rate"<span>5/5</span></li>
+							<li class="rate"><span>5/5<1/1</span></li>
+							<li class="rate"><span>5/5</span></li>
+							<li class="rate"><span>5/5</span></li>
+							<li class="rate"><span>5/5</span></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -103,23 +103,23 @@
 							<li>2015</li>
 							<li>7mil+</li>
 							<li>£6.99</li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
 							<li>Received</li>
-							<li class="tick"<span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -165,7 +165,7 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate"><span>5/5</span></li>
+							<li class="rate" style="width: 99px;"><span>4.5/5</span></li>
 							<li>2015</li>
 							<li>2mil+</li>
 							<li>£0.00</li>
