@@ -70,7 +70,7 @@
 							<li>2015</li>
 							<li>7mil+</li>
 							<li>£0.00</li>
-							<li class="rate"<span>5/5</span></li>
+							<li class="rate"><span>5/5</span></li>
 							<li>Yes</li>
 							<li>Yes</li>
 							<li>Up to £200pm</li>
@@ -165,7 +165,7 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate" style="width: 99px;"><span>4.5/5</span></li>
+							<li class="rate"><span style="width: 99px;">4.5/5</span></li>
 							<li>2015</li>
 							<li>2mil+</li>
 							<li>£0.00</li>
