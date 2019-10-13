@@ -10,16 +10,16 @@
 	       	<meta name="robots" content="all">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
 		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" href="../../css/reset.css">  <!-- CSS reset -->
-		<link rel="stylesheet" href="../../css/style-comparison-table.css">  <!-- Resource style -->
-		<link href="../../css/styles.css" type="text/css" rel="stylesheet" />
-		<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
+		<link rel="stylesheet" href="css/reset.css">  <!-- CSS reset -->
+		<link rel="stylesheet" href="css/style-comparison-table.css">  <!-- Resource style -->
+		<link href="css/styles.css" type="text/css" rel="stylesheet" />
+		<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 		<link rel="stylesheet" type="text/css" href="https://evolving.money/css/960-12-col.css" />
 </head>
 
 <body>
 
-	<?php include("../../includes/test-header.html");?>
+	<?php include("includes/test-header.html");?>
 
 <div>
 	<div class="row">
@@ -98,7 +98,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_card_logo_EM.png" alt="product image">
-							<h3>Revolut</h3>
+							<h3 class="comp_title">Revolut</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -131,7 +131,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image">
-							<h3>Revolut Premium</h3>
+							<h3 class="comp_title">Revolut Premium</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -164,7 +164,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
-							<h3>Revolut Metal</h3>
+							<h3 class="comp_title">Revolut Metal</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -197,7 +197,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Starling_card_logo_EM.png" alt="product image">
-							<h3>Starling</h3>
+							<h3 class="comp_title">Starling</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -238,7 +238,7 @@
 <script src="https://evolving.money/table-nodejs/jquery-2.1.4.js"></script>
 <script src="https://evolving.money/table-nodejs/main.js"></script> <!-- Resource jQuery -->
 	
-<?php include("../../includes/footer.html");?>
+<?php include("includes/footer.html");?>
 
 </body>
 </html>
