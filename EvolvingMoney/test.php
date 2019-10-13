@@ -230,7 +230,8 @@
 			</ul>
 		</div> <!-- .cd-products-table -->
 	</section> <!-- .cd-products-comparison-table -->
-<script src=""https://evolving.money/table-nodejs/jquery-2.1.4.js"></script>
-<script src=""https://evolving.money/table-nodejs/main.js"></script> <!-- Resource jQuery -->
+<script src="https://evolving.money/table-nodejs/jquery-2.1.4.js"></script>
+<script src="https://evolving.money/table-nodejs/main.js"></script> <!-- Resource jQuery -->
+	
 </body>
 </html>
