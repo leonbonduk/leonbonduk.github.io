@@ -24,7 +24,7 @@
 
  		<div class="row" style="background-color:#e8ebe9">
 			<div class="col_8 first" style="background-color:#fff">
-				<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div></a>
+				<a href="https://www.evolving.money/test.php"><div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div></a>
 			</div>
 			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
 	
