@@ -30,17 +30,28 @@
 			<div class="features">
 				<div class="top-info">Models</div>
 				<ul class="cd-features-list">
-					<li>Price</li>
-					<li>Customer Rating</li>
-					<li>Resolution</li>
-					<li>Screen Type</li>
-					<li>Display Size</li>
-					<li>Refresh Rate</li>
-					<li>Model Year</li>
-					<li>Tuner Technology</li>
-					<li>Ethernet Input</li>
-					<li>USB Input</li>
-					<li>Scart Input</li>
+					<li>Card</li>
+					<li>EM rating</li>
+					<li>Founded</li>
+					<li>Number of customers</li>
+					<li>Monthly fee</li>
+					<li>Free UK Account</li>
+					<li>Free Euro Account</li>
+					<li>FX at inter-bank rate</li>
+					<li>Fee free ATM withdrawl</li>
+					<li>Banking liscense</li>
+					<li>Apple Pay</li>
+					<li class="cd-features-subheading">Security features</li>
+					<li>Transaction notification</li>
+					<li>Virtual cards</li>
+					<li>Freeze card in app</li>
+					<li>Magstripe disable</li>
+					<li>Online 3D secure</li>
+					<li>Refunds for fraudulent trans</li>
+					<li>Location based</li>
+					<li>Contactless disable</li>
+					<li>ATM disable</li>
+					<li>E commerce disable</li>
 				</ul>
 			</div> <!-- .features -->
 			
@@ -49,178 +60,135 @@
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="Images/product.png" alt="product image">
-							<h3>Sumsung Series 6 J6300</h3>
+							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_card_logo_EM.png" alt="product image">
+							<p class="table_title">Revolut</p>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
-							<li>$600</li>
-							<li class="rate"><span>5/5</span></li>
-							<li>1080p</li>
-							<li>LED</li>
-							<li>47.6 inches</li>
-							<li>800Hz</li>
+							<li>xxx</li>
+							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
 							<li>2015</li>
-							<li>mpeg4</li>
-							<li>1 Side</li>
-							<li>3 Port</li>
-							<li>1 Rear</li>
+							<li>7mil+</li>
+							<li>£0.00</li>
+							<li class="tick"><span>1/1</span></li>
+							<li>Yes</li>
+							<li>Yes</li>
+							<li>Up to £200pm</li>
+							<li>Received</li>
+							<li>Yes</li>
+							<li class="cd-features-subheading"><br></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">2/2</span></li>
+							<li class="tick"><span style="width: 2.0rem;">3/3</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li>TBC</li>
+							<li>TBC</li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 						</ul>
 					</li> <!-- .product -->
 
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="Images/product.png" alt="product image">
-							<h3>Sumsung Series 6 J6300</h3>
+							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image">
+							<p class="table_title">Revolut Premium</p>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
-							<li>$600</li>
-							<li class="rate"><span>5/5</span></li>
-							<li>1080p</li>
-							<li>LED</li>
-							<li>47.6 inches</li>
-							<li>800Hz</li>
+							<li>xxx</li>
+							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
 							<li>2015</li>
-							<li>mpeg4</li>
-							<li>1 Side</li>
-							<li>3 Port</li>
-							<li>1 Rear</li>
+							<li>7mil+</li>
+							<li>£6.99</li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li>Received</li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="cd-features-subheading"><br></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li>TBC</li>
+							<li>TBC</li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 						</ul>
 					</li> <!-- .product -->
 
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="Images/product.png" alt="product image">
-							<h3>Sumsung Series 6 J6300</h3>
+							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
+							<p class="table_title">Revolut Metal</p>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
-							<li>$600</li>
-							<li class="rate"><span>5/5</span></li>
-							<li>1080p</li>
-							<li>LED</li>
-							<li>47.6 inches</li>
-							<li>800Hz</li>
+							<li>xxx</li>
+							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
 							<li>2015</li>
-							<li>mpeg4</li>
-							<li>1 Side</li>
-							<li>3 Port</li>
-							<li>1 Rear</li>
+							<li>7mil+</li>
+							<li>£12.99</li>
+							<li>Yes</li>
+							<li>Yes</li>
+							<li>Yes</li>
+							<li>Up to £600pm</li>
+							<li>Received</li>
+							<li>Yes</li>
+							<li class="cd-features-subheading"><br></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li>TBC</li>
+							<li>TBC</li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 						</ul>
 					</li> <!-- .product -->
 
 					<li class="product">
 						<div class="top-info">
 							<div class="check"></div>
-							<img src="Images/product.png" alt="product image">
-							<h3>Sumsung Series 6 J6300</h3>
+							<img class="col-fit-img" src="https://evolving.money/Images/Starling_card_logo_EM.png" alt="product image">
+							<p class="table_title">Starling</p>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
-							<li>$600</li>
-							<li class="rate"><span>5/5</span></li>
-							<li>1080p</li>
-							<li>LED</li>
-							<li>47.6 inches</li>
-							<li>800Hz</li>
+							<li>xxx</li>
+							<li class="rate"><span style="width: 8.8rem;">4/5</span></li>
 							<li>2015</li>
-							<li>mpeg4</li>
-							<li>1 Side</li>
-							<li>3 Port</li>
-							<li>1 Rear</li>
+							<li>2mil+</li>
+							<li>£0.00</li>
+							<li>Yes</li>
+							<li>Yes</li>
+							<li>Yes</li>
+							<li>Up to £600pm</li>
+							<li>Received</li>
+							<li>Yes</li>
+							<li class="cd-features-subheading"><br></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li>TBC</li>
+							<li>TBC</li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
+							<li class="tick"><span style="width: 2.0rem;">1/1</span></li>
 						</ul>
 					</li> <!-- .product -->
-
-					<li class="product">
-						<div class="top-info">
-							<div class="check"></div>
-							<img src="Images/product.png" alt="product image">
-							<h3>Sumsung Series 6 J6300</h3>
-						</div> <!-- .top-info -->
-
-						<ul class="cd-features-list">
-							<li>$600</li>
-							<li class="rate"><span>5/5</span></li>
-							<li>1080p</li>
-							<li>LED</li>
-							<li>47.6 inches</li>
-							<li>800Hz</li>
-							<li>2015</li>
-							<li>mpeg4</li>
-							<li>1 Side</li>
-							<li>3 Port</li>
-							<li>1 Rear</li>
-						</ul>
-					</li> <!-- .product -->
-
-					<li class="product">
-						<div class="top-info">
-							<div class="check"></div>
-							<img src="Images/product.png" alt="product image">
-							<h3>Sumsung Series 6 J6300</h3>
-						</div> <!-- .top-info -->
-
-						<ul class="cd-features-list">
-							<li>$600</li>
-							<li class="rate"><span>5/5</span></li>
-							<li>1080p</li>
-							<li>LED</li>
-							<li>47.6 inches</li>
-							<li>800Hz</li>
-							<li>2015</li>
-							<li>mpeg4</li>
-							<li>1 Side</li>
-							<li>3 Port</li>
-							<li>1 Rear</li>
-						</ul>
-					</li> <!-- .product -->
-
-					<li class="product">
-						<div class="top-info">
-							<div class="check"></div>
-							<img src="Images/product.png" alt="product image">
-							<h3>Sumsung Series 6 J6300</h3>
-						</div> <!-- .top-info -->
-
-						<ul class="cd-features-list">
-							<li>$600</li>
-							<li class="rate"><span>5/5</span></li>
-							<li>1080p</li>
-							<li>LED</li>
-							<li>47.6 inches</li>
-							<li>800Hz</li>
-							<li>2015</li>
-							<li>mpeg4</li>
-							<li>1 Side</li>
-							<li>3 Port</li>
-							<li>1 Rear</li>
-						</ul>
-					</li> <!-- .product -->
-
-					<li class="product">
-						<div class="top-info">
-							<div class="check"></div>
-							<img src="Images/product.png" alt="product image">
-							<h3>Sumsung Series 6 J6300</h3>
-						</div> <!-- .top-info -->
-
-						<ul class="cd-features-list">
-							<li>$600</li>
-							<li class="rate"><span>5/5</span></li>
-							<li>1080p</li>
-							<li>LED</li>
-							<li>47.6 inches</li>
-							<li>800Hz</li>
-							<li>2015</li>
-							<li>mpeg4</li>
-							<li>1 Side</li>
-							<li>3 Port</li>
-							<li>1 Rear</li>
-						</ul>
-					</li> <!-- .product -->
+					
 				</ul> <!-- .cd-products-columns -->
 			</div> <!-- .cd-products-wrapper -->
 			
