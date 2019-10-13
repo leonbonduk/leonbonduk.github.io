@@ -61,7 +61,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_card_logo_EM.png" alt="product image">
-							<p class="table_title">Revolut</p>
+							<h3>Revolut</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -94,7 +94,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image">
-							<p class="table_title">Revolut Premium</p>
+							<h3>Revolut Premium</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -127,7 +127,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
-							<p class="table_title">Revolut Metal</p>
+							<h3>Revolut Metal</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
@@ -160,7 +160,7 @@
 						<div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Starling_card_logo_EM.png" alt="product image">
-							<p class="table_title">Starling</p>
+							<h3>Starling</h3>
 						</div> <!-- .top-info -->
 
 						<ul class="cd-features-list">
