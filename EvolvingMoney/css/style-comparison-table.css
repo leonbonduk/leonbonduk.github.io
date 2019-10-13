@@ -332,6 +332,12 @@ Main Components
   font-weight: bold;
   font-size: 0.875rem;
 }
+.comp_title {
+  padding: 1.25em 0 0.625em;
+  font-weight: bold;
+  font-size: 0.875rem;
+}
+
 .cd-products-table .top-info img {
   display: block;
   -webkit-backface-visibility: hidden;
