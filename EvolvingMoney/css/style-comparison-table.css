@@ -246,7 +246,7 @@ Main Components
   height: 22px;
   /*width: 110px; */
   background: url(../Images/checked.png);
-  background-size: contain;background: url(../Images/cd-star.svg);
+  background-size: contain;
   color: transparent;
 }
 @media only screen and (min-width: 1170px) {
