@@ -245,8 +245,9 @@ Main Components
   display: inline-block;
   height: 22px;
   width: 110px; 
-  background: url(../Images/checked.png);
-  background-size: contain;
+  /* background: url(../Images/checked.png);
+  background-size: contain; */
+  background: url(../Images/cd-star.svg);
   color: transparent;
 }
 @media only screen and (min-width: 1170px) {
@@ -254,6 +255,9 @@ Main Components
     font-size: 1.0rem;
   }
   .cd-features-list li.rate {
+    padding: 22px 0;
+  }
+    .cd-features-list li.tick {
     padding: 22px 0;
   }
 }
