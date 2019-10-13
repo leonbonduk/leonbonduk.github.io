@@ -279,11 +279,11 @@ Main Components
 }
 .cd-features-list li.tick {
   /* rating stars */
-  padding: 1.05rem 0; /* 22px 0 */
+  padding: 1.25rem 0; /* 1.05rem 22px 0 */
 }
 .cd-features-list li.tick span {
   display: inline-block;
-  height: 2.0rem;
+  height: 1.4rem; /* 2.0 rem */
   /* width: 110px; */
   background: url(../Images/checked.png);
   background-size: contain;
