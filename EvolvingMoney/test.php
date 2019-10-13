@@ -66,7 +66,7 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
+							<li class="rate"><span>5/5</span></li>
 							<li>2015</li>
 							<li>7mil+</li>
 							<li>£0.00</li>
@@ -99,7 +99,7 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
+							<li class="rate"><span>5/5</span></li>
 							<li>2015</li>
 							<li>7mil+</li>
 							<li>£6.99</li>
@@ -132,7 +132,7 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate"><span style="width: 9.9rem;">4.5/5</span></li>
+							<li class="rate"><span>5/5</span></li>
 							<li>2015</li>
 							<li>7mil+</li>
 							<li>£12.99</li>
@@ -165,7 +165,7 @@
 
 						<ul class="cd-features-list">
 							<li>xxx</li>
-							<li class="rate"><span style="width: 8.8rem;">4/5</span></li>
+							<li class="rate"><span>5/5</span></li>
 							<li>2015</li>
 							<li>2mil+</li>
 							<li>£0.00</li>
