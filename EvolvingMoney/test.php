@@ -70,23 +70,23 @@
 							<li>2015</li>
 							<li>7mil+</li>
 							<li>£0.00</li>
-							<li class="rate"><span>5/5</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
 							<li>Yes</li>
 							<li>Yes</li>
 							<li>Up to £200pm</li>
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="rate"><span>5/5</span></li>
-							<li class="rate"><span>5/5</span></li>
-							<li class="rate"><span>5/5</span></li>
-							<li class="rate"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="rate"><span>5/5<1/1</span></li>
-							<li class="rate"><span>5/5</span></li>
-							<li class="rate"><span>5/5</span></li>
-							<li class="rate"><span>5/5</span></li>
+							<li class="tick"><span>5/5<1/1</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span>5/5</span></li>
 						</ul>
 					</li> <!-- .product -->
 
