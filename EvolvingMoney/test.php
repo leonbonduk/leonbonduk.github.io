@@ -73,20 +73,20 @@
 							<li class="tick"><span style="width: 22px;">Yes</span></li>
 							<li>Yes</li>
 							<li>Yes</li>
-							<li>Up to £200pm</li>
+							<li><£200pm</li>
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="tick"><span>5/5<1/1</span></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -103,23 +103,23 @@
 							<li>2015</li>
 							<li>7mil+</li>
 							<li>£6.99</li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
 							<li>Received</li>
 							<li class="tick"><span>5/5</span></li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
-							<li class="tick"><span>5/5</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -139,20 +139,20 @@
 							<li>Yes</li>
 							<li>Yes</li>
 							<li>Yes</li>
-							<li>Up to £600pm</li>
+							<li><£600pm</li>
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
 						</ul>
 					</li> <!-- .product -->
 
@@ -172,20 +172,20 @@
 							<li>Yes</li>
 							<li>Yes</li>
 							<li>Yes</li>
-							<li>Up to £600pm</li>
+							<li><£600pm</li>
 							<li>Received</li>
 							<li>Yes</li>
 							<li class="cd-features-subheading"><br></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
 							<li>TBC</li>
 							<li>TBC</li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
-							<li class="tick"<span>5/5</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
+							<li class="tick"><span style="width: 22px;">Yes</span></li>
 						</ul>
 					</li> <!-- .product -->
 					
