@@ -245,9 +245,8 @@ Main Components
   display: inline-block;
   height: 22px;
   width: 110px; 
-  /* background: url(../Images/checked.png);
-  background-size: contain; */
-  background: url(../Images/cd-star.svg);
+  background: url(../Images/checked.png);
+  background-size: contain;
   color: transparent;
 }
 @media only screen and (min-width: 1170px) {
