@@ -1,60 +1,236 @@
-<!DOCTYPE html>
-
-<html lang="en">
-
+<!doctype html>
+<html lang="en" class="no-js">
 <head>
-	<meta charset="utf-8" />
-       <title>Evolving Money</title>
-   <!--    <link href="css/learningPage.css" type="text/css" rel="stylesheet" /> !-->
-       <meta name="description" content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
-       <meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking" />
-       <meta name="robots" content="follow" />
-       <meta http-equiv="author"content="Leon Bond" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="description" content="Demo of Drop-Down Navigation: Touch-Friendly and Responsive" />
-	<meta name="robots" content="all">
-	<meta name="viewport" content="width=device-width,initial-scale=1" />
-	<link rel="canonical" href="https://www.evolving.money/">
-	<link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" />
-	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
-	
-	<style>
-		/* Column margins */
-		 .col_full,
-      .col_12, /* full width */
-		.col_9, /* 3/4 width */
-		.col_8, /* 2/3 width */
-		.col_6, /* half width */
-		.col_4, /* 1/3 width */
-		.col_3 /* 1/4 width */
-		{
-			height: auto;
-			margin-top:10px;
-			margin-bottom:10px;
-			text-align:center;
-			display:table-cell;
-			vertical-align:central;
-		}
-	</style>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style-comparison-table.css"> <!-- Resource style -->
+	<script src="https://evolving.money/table-nodejs//modernizr.js"></script> <!-- Modernizr -->
+  	
+	<title>Products Comparison Table | CodyHouse</title>
 </head>
 <body>
-	
-	<?php include("includes/test-header.html");?>
-<div>	
- 	<div class="row">
-		<div class="col_8 first" style="background-color:#CF0">
-			<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div></a>
-		</div>
-		<div class="col_4 last" style="background-color:#9CC"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
-	</div>
-	
-</div>			
+	<section class="cd-intro">
+		<h1>Products Comparison Table</h1>
+	</section> <!-- .cd-intro -->
 
-<footer>
-		
-	<div class="row">
-		<div class="col_full"><?php include("includes/footer.html");?></div>
-	</div>
-</footer>
+	<section class="cd-products-comparison-table">
+		<header>
+			<h2>Compare Models</h2>
+
+			<div class="actions">
+				<a href="#0" class="reset">Reset</a>
+				<a href="#0" class="filter">Filter</a>
+			</div>
+		</header>
+
+		<div class="cd-products-table">
+			<div class="features">
+				<div class="top-info">Models</div>
+				<ul class="cd-features-list">
+					<li>Price</li>
+					<li>Customer Rating</li>
+					<li>Resolution</li>
+					<li>Screen Type</li>
+					<li>Display Size</li>
+					<li>Refresh Rate</li>
+					<li>Model Year</li>
+					<li>Tuner Technology</li>
+					<li>Ethernet Input</li>
+					<li>USB Input</li>
+					<li>Scart Input</li>
+				</ul>
+			</div> <!-- .features -->
+			
+			<div class="cd-products-wrapper">
+				<ul class="cd-products-columns">
+					<li class="product">
+						<div class="top-info">
+							<div class="check"></div>
+							<img src="Images/product.png" alt="product image">
+							<h3>Sumsung Series 6 J6300</h3>
+						</div> <!-- .top-info -->
+
+						<ul class="cd-features-list">
+							<li>$600</li>
+							<li class="rate"><span>5/5</span></li>
+							<li>1080p</li>
+							<li>LED</li>
+							<li>47.6 inches</li>
+							<li>800Hz</li>
+							<li>2015</li>
+							<li>mpeg4</li>
+							<li>1 Side</li>
+							<li>3 Port</li>
+							<li>1 Rear</li>
+						</ul>
+					</li> <!-- .product -->
+
+					<li class="product">
+						<div class="top-info">
+							<div class="check"></div>
+							<img src="Images/product.png" alt="product image">
+							<h3>Sumsung Series 6 J6300</h3>
+						</div> <!-- .top-info -->
+
+						<ul class="cd-features-list">
+							<li>$600</li>
+							<li class="rate"><span>5/5</span></li>
+							<li>1080p</li>
+							<li>LED</li>
+							<li>47.6 inches</li>
+							<li>800Hz</li>
+							<li>2015</li>
+							<li>mpeg4</li>
+							<li>1 Side</li>
+							<li>3 Port</li>
+							<li>1 Rear</li>
+						</ul>
+					</li> <!-- .product -->
+
+					<li class="product">
+						<div class="top-info">
+							<div class="check"></div>
+							<img src="Images/product.png" alt="product image">
+							<h3>Sumsung Series 6 J6300</h3>
+						</div> <!-- .top-info -->
+
+						<ul class="cd-features-list">
+							<li>$600</li>
+							<li class="rate"><span>5/5</span></li>
+							<li>1080p</li>
+							<li>LED</li>
+							<li>47.6 inches</li>
+							<li>800Hz</li>
+							<li>2015</li>
+							<li>mpeg4</li>
+							<li>1 Side</li>
+							<li>3 Port</li>
+							<li>1 Rear</li>
+						</ul>
+					</li> <!-- .product -->
+
+					<li class="product">
+						<div class="top-info">
+							<div class="check"></div>
+							<img src="Images/product.png" alt="product image">
+							<h3>Sumsung Series 6 J6300</h3>
+						</div> <!-- .top-info -->
+
+						<ul class="cd-features-list">
+							<li>$600</li>
+							<li class="rate"><span>5/5</span></li>
+							<li>1080p</li>
+							<li>LED</li>
+							<li>47.6 inches</li>
+							<li>800Hz</li>
+							<li>2015</li>
+							<li>mpeg4</li>
+							<li>1 Side</li>
+							<li>3 Port</li>
+							<li>1 Rear</li>
+						</ul>
+					</li> <!-- .product -->
+
+					<li class="product">
+						<div class="top-info">
+							<div class="check"></div>
+							<img src="Images/product.png" alt="product image">
+							<h3>Sumsung Series 6 J6300</h3>
+						</div> <!-- .top-info -->
+
+						<ul class="cd-features-list">
+							<li>$600</li>
+							<li class="rate"><span>5/5</span></li>
+							<li>1080p</li>
+							<li>LED</li>
+							<li>47.6 inches</li>
+							<li>800Hz</li>
+							<li>2015</li>
+							<li>mpeg4</li>
+							<li>1 Side</li>
+							<li>3 Port</li>
+							<li>1 Rear</li>
+						</ul>
+					</li> <!-- .product -->
+
+					<li class="product">
+						<div class="top-info">
+							<div class="check"></div>
+							<img src="Images/product.png" alt="product image">
+							<h3>Sumsung Series 6 J6300</h3>
+						</div> <!-- .top-info -->
+
+						<ul class="cd-features-list">
+							<li>$600</li>
+							<li class="rate"><span>5/5</span></li>
+							<li>1080p</li>
+							<li>LED</li>
+							<li>47.6 inches</li>
+							<li>800Hz</li>
+							<li>2015</li>
+							<li>mpeg4</li>
+							<li>1 Side</li>
+							<li>3 Port</li>
+							<li>1 Rear</li>
+						</ul>
+					</li> <!-- .product -->
+
+					<li class="product">
+						<div class="top-info">
+							<div class="check"></div>
+							<img src="Images/product.png" alt="product image">
+							<h3>Sumsung Series 6 J6300</h3>
+						</div> <!-- .top-info -->
+
+						<ul class="cd-features-list">
+							<li>$600</li>
+							<li class="rate"><span>5/5</span></li>
+							<li>1080p</li>
+							<li>LED</li>
+							<li>47.6 inches</li>
+							<li>800Hz</li>
+							<li>2015</li>
+							<li>mpeg4</li>
+							<li>1 Side</li>
+							<li>3 Port</li>
+							<li>1 Rear</li>
+						</ul>
+					</li> <!-- .product -->
+
+					<li class="product">
+						<div class="top-info">
+							<div class="check"></div>
+							<img src="Images/product.png" alt="product image">
+							<h3>Sumsung Series 6 J6300</h3>
+						</div> <!-- .top-info -->
+
+						<ul class="cd-features-list">
+							<li>$600</li>
+							<li class="rate"><span>5/5</span></li>
+							<li>1080p</li>
+							<li>LED</li>
+							<li>47.6 inches</li>
+							<li>800Hz</li>
+							<li>2015</li>
+							<li>mpeg4</li>
+							<li>1 Side</li>
+							<li>3 Port</li>
+							<li>1 Rear</li>
+						</ul>
+					</li> <!-- .product -->
+				</ul> <!-- .cd-products-columns -->
+			</div> <!-- .cd-products-wrapper -->
+			
+			<ul class="cd-table-navigation">
+				<li><a href="#0" class="prev inactive">Prev</a></li>
+				<li><a href="#0" class="next">Next</a></li>
+			</ul>
+		</div> <!-- .cd-products-table -->
+	</section> <!-- .cd-products-comparison-table -->
+<script src="js/jquery-2.1.4.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
 </body>
 </html>
