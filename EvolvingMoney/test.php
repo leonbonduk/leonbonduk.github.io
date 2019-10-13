@@ -7,7 +7,7 @@
 
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style-comparison-table.css"> <!-- Resource style -->
-	<script src="https://evolving.money/table-nodejs//modernizr.js"></script> <!-- Modernizr -->
+	<script src="https://evolving.money/table-nodejs/modernizr.js"></script> <!-- Modernizr -->
   	
 	<title>Products Comparison Table | CodyHouse</title>
 </head>
@@ -230,7 +230,7 @@
 			</ul>
 		</div> <!-- .cd-products-table -->
 	</section> <!-- .cd-products-comparison-table -->
-<script src="js/jquery-2.1.4.js"></script>
-<script src="js/main.js"></script> <!-- Resource jQuery -->
+<script src=""https://evolving.money/table-nodejs/jquery-2.1.4.js"></script>
+<script src=""https://evolving.money/table-nodejs/main.js"></script> <!-- Resource jQuery -->
 </body>
 </html>
