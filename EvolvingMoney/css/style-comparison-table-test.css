@@ -112,7 +112,7 @@ Main Components
   }
   .cd-products-comparison-table .filter {
     padding: .6em 2em;
-    margin-left;: 1.6em;
+    margin-left: 1.6em;
   }
 }
 
@@ -128,7 +128,6 @@ Main Components
   top: 0;
   left: 0;
   width: 120px;
-  height: 65px;
   border-style: solid;
   border-color: #e6e6e6;
   border-top-width: 1px;
@@ -152,7 +151,6 @@ Main Components
 @media only screen and (min-width: 1170px) {
   .cd-products-table .features {
     width: 210px;
-    height 65px;
   }
 }
 
@@ -191,7 +189,6 @@ Main Components
   position: relative;
   float: left;
   width: 150px;
-  height: 65px;
   text-align: center;
   -webkit-transition: opacity 0.3s, visibility 0.3s, -webkit-transform 0.3s;
   -moz-transition: opacity 0.3s, visibility 0.3s, -moz-transform 0.3s;
@@ -217,7 +214,6 @@ Main Components
 @media only screen and (min-width: 1170px) {
   .cd-products-columns .product {
     width: 310px;
-    height: 65px;
   }
 }
 
