@@ -31,8 +31,8 @@
    		<p>Latest investment ideas:</p>
    
    		<ul>			 
-     			<li><a href="BT-Sept19.php">BT a contrarian buy? - Sept 2019</a></li>
-       			<li>Coming...</li>			 
+     			<li><a href="Turkey-Oct19.php">Turkish Delight - 17th Oct 2019</a></li>
+       			<li><a href="BT-Sept19.php">BT a contrarian buy? - 2nd Sept 2019</a></li>		 
      			<li>Coming...</li>		
    		</ul>
 		<br>
