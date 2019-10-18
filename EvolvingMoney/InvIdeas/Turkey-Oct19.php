@@ -23,11 +23,12 @@
 		<br>	 
 		<h1 class="h1_article">Turkish Delight</h1>
 		<h3>Leon Bond, 17th October 2019, HSBC ETFs plc MSCI Turkey (HTRY), Price £1.69</h3>
+		<p><img src="https://www.evolving.money/Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish Flag" title="Turkish Delight" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
 		<p>Since Turkey's incursion into Syria a few days ago  Turkey's stock market has fallen to fresh lows with the MSCI Turky index down 18% since 30th September! It remains 13% higher than the lows seen in May this year however.</p> 
 		<p>With a ceasefie now negotiated by Trump as of today, and the Kurds having allowed the Syrian government forces up to protect the border the markets could now drift back up to their annual highs since just a couple of weeks ago.</p>
 		<h2>Other market details</h2>
 		<p>Turkey's market was already very cheap before this retracement, due in most part to the political turmoil of the Turkish president's regime, President Erdoğan. The Turkish MSCI index was following simlar market trends to the general MSCI EMerging Markets Index from 2004 right up to 2016. Since shortly before the attempted coup in 2016, however, the Turkish market has diverged considerably from the rest of the emerging markets, diverging by approx 50%.</p>
-		<p>At 30th September the MSCI Turkey index had a P/E ratio of 8.2 and a forward P/E ratio of 6.3! This compares to the MSCI EMerging Markets index which had P/E ratio of 13.2 and a forward P/E ratio of 11.9. Therefore the Turkish market is trading at apprximately half the value of other emrging markets...</p>
+		<p>At 30th September the MSCI Turkey index had a P/E ratio of 8.2 and a forward P/E ratio of 6.3! This compares to the MSCI Emerging Markets index which had P/E ratio of 13.2 and a forward P/E ratio of 11.9. Therefore the Turkish market is trading at approximately half the value of other emerging markets...</p>
 		<h2>High risk opportunity</h2>
 		<p>Although this is obviously a high risk play given the current Syrian situation, the market valuations provides some comfort that even if short term bet does not pan out, if you can hold for longer term then this should at least return to slightly more sensible valuations although coming fully back in line with the other emerging markets is unlikely for the foreseeable future until the internal political situation in Turkey settles down also.</p>
 	</div>
