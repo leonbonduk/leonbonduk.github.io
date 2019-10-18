@@ -24,11 +24,22 @@
 
  		<div class="row" style="background-color:#e8ebe9">
 			<div class="col_8 first" style="background-color:#fff">
-				<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div></a>
-				<div class="col_4 first">
-					<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
-					<h2 class="article-link-header">Potential opportunity to buy into cheap Turkish market? <h2>
-				</div>
+				<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php">
+					<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div>
+				</a>
+				<a href=""https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
+					<div class="col_4 first">
+						<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
+						<h2 class="article-link-header">Potential opportunity to buy into cheap Turkish market?<h2>
+					</div>
+				</a>
+									       
+				<a href=""https://www.evolving.money/InvIdeas/BT-Sept19.phpp">
+					<div class="col_4 last">
+						<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
+						<h2 class="article-link-header">Is BT a contrarian buy?<h2>
+					</div>
+				</a>
 			
 			</div>
 			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
