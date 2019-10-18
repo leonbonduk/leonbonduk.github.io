@@ -31,6 +31,8 @@
 			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
 	
 		</div>
+				
+		<div class="clear"></div>
 		
  		<div class="row" style="background-color:#e8ebe9">
 
@@ -49,11 +51,10 @@
 				</a>
 			
 			</div>
-			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
-	
+				
 		</div>
 	
-<div class="clear"></div>
+		<div class="clear"></div>
 </div>			
 
 <?php include("includes/footer.html");?>
