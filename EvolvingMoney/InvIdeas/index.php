@@ -49,12 +49,11 @@
 <div>	
 
  		<div class="row">
-			<div class="col_8 first">
+			<div class="col_12">
 				<div class="imgbox"><img class="left-fit-page-heading" src="https://www.evolving.money/Images/Investments_logo.gif" alt="Investments.Money"></div>
 				<p>Our latest investments tips, a collection of contrarian and macro-economic investment plays:</p>
 			</div>
-			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg" alt="Evolving Money logo"></div>
-	
+			
 		</div>
 				
 		<div class="clear"></div>
@@ -75,8 +74,9 @@
 					</div>
 				</a>
 			
-			</div>
-				
+				<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg" alt="Evolving Money logo"></div>
+	
+			
 		</div>
 	
 		<div class="clear"></div>
