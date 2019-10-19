@@ -16,7 +16,7 @@
 
 	<?php include("../includes/test-header.html");?>
 
-<div>
+<!-- <div>
 	<div class="row" margin 0 0;>
 		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox"><img class="left-fit-page-heading" src="https://www.evolving.money/Images/Investments_logo.gif">
@@ -44,8 +44,44 @@
 
 </div>
 
-<div class="clear"></div>
+<div class="clear"></div> !-->
 	
+<div>	
+
+ 		<div class="row">
+			<div class="col_8 first">
+				<div class="imgbox"><img class="left-fit-page-heading" src="https://www.evolving.money/Images/Investments_logo.gif">
+				<p>Our latest investments tips, a collection of contrarian and macro-economic investment plays:</p>
+			</div>
+			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
+	
+		</div>
+				
+		<div class="clear"></div>
+		
+ 		<div class="row">
+
+				<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
+					<div class="col_4 first">
+						<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
+						<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?<h2>
+					</div>
+				</a>
+									       
+				<a href="https://www.evolving.money/InvIdeas/BT-Sept19.php">
+					<div class="col_4">
+						<div class="imgbox"><img class="center-fit" src="Images/small_phone_boxes.jpg"></div>
+						<h2 class="article-link-header">Is BT a contrarian buy?<h2>
+					</div>
+				</a>
+			
+			</div>
+				
+		</div>
+	
+		<div class="clear"></div>
+</div>		
+					
 <?php include("../includes/footer.html");?>
 	
 </body>
