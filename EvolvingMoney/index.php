@@ -22,8 +22,8 @@
 	<?php include("includes/test-header.html");?>
 <div>	
 
- 		<div class="row" style="background-color:#e8ebe9">
-			<div class="col_8 first" style="background-color:#fff">
+ 		<div class="row">
+			<div class="col_8 first" style="border-bottom-width: 5px; border-bottom-color: #274168;">
 				<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php">
 					<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div>
 	
@@ -34,12 +34,12 @@
 				
 		<div class="clear"></div>
 		
- 		<div class="row" style="background-color:#e8ebe9">
+ 		<div class="row">
 
 				<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
 					<div class="col_4 first">
 						<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
-						<h2 class="article-link-header">Potential opportunity to buy into cheap Turkish market?<h2>
+						<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?<h2>
 					</div>
 				</a>
 									       
