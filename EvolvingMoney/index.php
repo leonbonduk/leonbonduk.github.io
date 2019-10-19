@@ -23,7 +23,7 @@
 <div>	
 
  		<div class="row">
-			<div class="col_8 first" style="border-bottom-width: 5px; border-bottom-color: #274168;">
+			<div class="col_8 first" style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
 				<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php">
 					<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div>
 	
