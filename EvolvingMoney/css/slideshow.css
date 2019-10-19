@@ -27,12 +27,12 @@
 }
 
 .next {
-    right: -50px;
+    right: 50px;
     border-radius: 3px 3px 3px 3px
 }
 
 .prev {
-    left: -50px;
+    left: 50px;
     border-radius: 3px 3px 3px 3px
 }
 
