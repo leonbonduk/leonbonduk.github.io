@@ -50,10 +50,10 @@
 
  		<div class="row">
 			<div class="col_8 first">
-				<div class="imgbox"><img class="left-fit-page-heading" src="https://www.evolving.money/Images/Investments_logo.gif">
+				<div class="imgbox"><img class="left-fit-page-heading" src="https://www.evolving.money/Images/Investments_logo.gif" alt="Investments.Money"></div>
 				<p>Our latest investments tips, a collection of contrarian and macro-economic investment plays:</p>
 			</div>
-			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg"></div>
+			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg" alt="Evolving Money logo"></div>
 	
 		</div>
 				
@@ -63,15 +63,15 @@
 
 				<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
 					<div class="col_4 first">
-						<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/turkey-flag-wrinkled.jpg"></div>
-						<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?<h2>
+						<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish flag"></div>
+						<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?</h2>
 					</div>
 				</a>
 									       
 				<a href="https://www.evolving.money/InvIdeas/BT-Sept19.php">
 					<div class="col_4">
-						<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/small_phone_boxes.jpg"></div>
-						<h2 class="article-link-header">Is BT a contrarian buy?<h2>
+						<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/small_phone_boxes.jpg" alt="Two red phone boxes"></div>
+						<h2 class="article-link-header">Is BT a contrarian buy?</h2>
 					</div>
 				</a>
 			
