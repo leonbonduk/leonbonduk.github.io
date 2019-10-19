@@ -24,23 +24,25 @@
 
  		<div class="row">
 			<div class="col_8 first" style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
-				  <div class="slideshow-container">
-              <div class="mySlides fade">
-                  <a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php">
-					            <div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div>
-              </div>
-              <div class="mySlides fade">
-                   <a href="https://www.evolving.money/InvIdeas/index.php">
-					            <div class="imgbox"><img class="center-fit" src="Images/investment_ideas.png"></div>
-              </div>
-              <a class="prev" onclick='plusSlides(-1)'>&#10094;</a>
-              <a class="next" onclick='plusSlides(1)'>&#10095;</a>
-          </div>
-        
-        
-        
-	
-			</div>
+				 <div class="slideshow-container">
+					 <div class="slideshow-inner">
+              					<div class="mySlides fade">
+                  					<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php">
+					            		<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div>
+              						</div>
+              					<div class="mySlides fade">
+                   					<a href="https://www.evolving.money/InvIdeas/index.php">
+					            		<div class="imgbox"><img class="center-fit" src="Images/investment_ideas.png"></div>
+              					</div>
+              					<a class="prev" onclick='plusSlides(-1)'>&#10094;</a>
+              					<a class="next" onclick='plusSlides(1)'>&#10095;</a>
+         			 	</div>
+        			<br/>
+				<div style='text-align: center;'>
+  				<span class="dot" onclick='currentSlide(1)'></span>
+  				<span class="dot" onclick='currentSlide(2)'></span>
+				</div>
+    			</div>
 			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
 	
 		</div>
