@@ -39,14 +39,14 @@
 				<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
 					<div class="col_4 first">
 						<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
-						<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?<h2>
+						<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?</h2>
 					</div>
 				</a>
 									       
 				<a href="https://www.evolving.money/InvIdeas/BT-Sept19.php">
 					<div class="col_4">
 						<div class="imgbox"><img class="center-fit" src="Images/small_phone_boxes.jpg"></div>
-						<h2 class="article-link-header">Is BT a contrarian buy?<h2>
+						<h2 class="article-link-header">Is BT a contrarian buy?</h2>
 					</div>
 				</a>
 			
