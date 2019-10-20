@@ -348,212 +348,212 @@
 					
 <!-- 4th card !-->					
 					
-					<li class=""product""><div class=""top-info"">
-							<div class=""check""></div>
-							<img class=""col-fit-img"" src=""https://evolving.money/Images/Revolut_prem_logo_EM.png"" alt=""product image"">
-							<h3 class=""comp_title"">Revolut premium</h3>
+					<li class=“product”><div class=“top-info”>
+							<div class=“check”></div>
+							<img class=“col-fit-img” src=“https://evolving.money/Images/Revolut_prem_logo_EM.png” alt=“product image”>
+							<h3 class=“comp_title”>Revolut premium</h3>
 						</div> <!-- .top-info -->
-						<ul class=""cd-features-list""><li>2015</li>
+						<ul class=“cd-features-list”><li>2015</li>
 <li>London</li>
 <li>7.0mil</li>
 <li>£ 6.99</li>
-<li class=""cd-features-subheading""><br></li>
+<li class=“cd-features-subheading”><br></li>
 <li>Prepaid debit card</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>Received</li>
 <li>nil</li>
 <li>Euro only</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
 <li>8.9</li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""cd-features-subheading""><br></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“cd-features-subheading”><br></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
 <li>TBC</li>
 <li>Up to 9 days</li>
 <li>None</li>
 <li>TBC</li>
 <li>App</li>
-<li class=""cd-features-subheading""><br></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“cd-features-subheading”><br></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>TBC</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li><li class=""cd-features-subheading""><br></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li><li class=“cd-features-subheading”><br></li>
 <li>Up to £400 per month</li>
 <li> 2.0%</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>TBC</li>
-<li class=""cd-features-subheading""><br></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“cd-features-subheading”><br></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>Up to  0.0%</li>
 <li>Up to  0.0%</li>
-<li class=""cd-features-subheading""><br></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
+<li class=“cd-features-subheading”><br></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
 <li>N/A</li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""cd-features-subheading""><br></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li></ul>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“cd-features-subheading”><br></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li></ul>
 					</li> <!-- .product -->
 "	"			</div> <!-- .features -->
-			<div class=""cd-products-wrapper"">
-				<ul class=""cd-products-columns"">
-					<li class=""product""><div class=""top-info"">
-							<div class=""check""></div>
-							<img class=""col-fit-img"" src=""https://evolving.money/Images/Revolut_metal_logo_EM.png"" alt=""product image"">
-							<h3 class=""comp_title"">Revolut metal</h3>
+			<div class=“cd-products-wrapper”>
+				<ul class=“cd-products-columns”>
+					<li class=“product”><div class=“top-info”>
+							<div class=“check”></div>
+							<img class=“col-fit-img” src=“https://evolving.money/Images/Revolut_metal_logo_EM.png” alt=“product image”>
+							<h3 class=“comp_title”>Revolut metal</h3>
 						</div> <!-- .top-info -->
-						<ul class=""cd-features-list""><li>2015</li>
+						<ul class=“cd-features-list”><li>2015</li>
 <li>London</li>
 <li>7.0mil</li>
 <li>£ 12.99</li>
-<li class=""cd-features-subheading""><br></li>
+<li class=“cd-features-subheading”><br></li>
 <li>Prepaid debit card</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>Received</li>
 <li>nil</li>
 <li>Euro only</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
 <li>8.9</li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""cd-features-subheading""><br></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“cd-features-subheading”><br></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
 <li>TBC</li>
 <li>Up to 9 days</li>
 <li>None</li>
 <li>TBC</li>
 <li>App</li>
-<li class=""cd-features-subheading""><br></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“cd-features-subheading”><br></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>TBC</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li><li class=""cd-features-subheading""><br></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li><li class=“cd-features-subheading”><br></li>
 <li>Up to £600 per month</li>
 <li> 2.0%</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>TBC</li>
-<li class=""cd-features-subheading""><br></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“cd-features-subheading”><br></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>Up to  0.0%</li>
 <li>Up to  0.0%</li>
-<li class=""cd-features-subheading""><br></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
+<li class=“cd-features-subheading”><br></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
 <li>N/A</li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""cd-features-subheading""><br></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li></ul>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“cd-features-subheading”><br></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li></ul>
 					</li> <!-- .product -->
 "	"			</div> <!-- .features -->
-			<div class=""cd-products-wrapper"">
-				<ul class=""cd-products-columns"">
-					<li class=""product""><div class=""top-info"">
-							<div class=""check""></div>
-							<img class=""col-fit-img"" src=""https://evolving.money/Images/Starling_card_logo_EM.png"" alt=""product image"">
-							<h3 class=""comp_title"">Starling</h3>
+			<div class=“cd-products-wrapper”>
+				<ul class=“cd-products-columns”>
+					<li class=“product”><div class=“top-info”>
+							<div class=“check”></div>
+							<img class=“col-fit-img” src=“https://evolving.money/Images/Starling_card_logo_EM.png” alt=“product image”>
+							<h3 class=“comp_title”>Starling</h3>
 						</div> <!-- .top-info -->
-						<ul class=""cd-features-list""><li>2017</li>
+						<ul class=“cd-features-list”><li>2017</li>
 <li>London</li>
 <li>0.5mil</li>
 <li>£ 0.00</li>
-<li class=""cd-features-subheading""><br></li>
+<li class=“cd-features-subheading”><br></li>
 <li>Current</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>Y but 0.4% transfer fees</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>85000</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>TBC</li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""cd-features-subheading""><br></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“cd-features-subheading”><br></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>3 days</li>
 <li>None</li>
 <li>Few mins</li>
 <li>App</li>
-<li class=""cd-features-subheading""><br></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li><li class=""cd-features-subheading""><br></li>
+<li class=“cd-features-subheading”><br></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li><li class=“cd-features-subheading”><br></li>
 <li>TBC</li>
 <li>TBC</li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 0.4%
 Free
 0.5% to £2k
-<li class=""cd-features-subheading""><br></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“cd-features-subheading”><br></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>Up to  0.0%</li>
 <li>Up to  0.0%</li>
-<li class=""cd-features-subheading""><br></li>
+<li class=“cd-features-subheading”><br></li>
 <£5k
 15%
-<li class=""tick""><span style=""width: 22px;"">Yes</span></li>
+<li class=“tick”><span style=“width: 22px;”>Yes</span></li>
 <li>TBC</li>
-<li class=""cd-features-subheading""><br></li>
+<li class=“cd-features-subheading”><br></li>
 0.25% to £85k
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li>
-<li><img src=""https://evolving.money/Images/cancel.png"" alt=""product image""  height = ""14"" width = ""14""></li></ul>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li>
+<li><img src=“https://evolving.money/Images/cancel.png” alt=“product image”  height = “14” width = “14”></li></ul>
 					</li> <!-- .product -->
 					
 				</ul> <!-- .cd-products-columns -->
@@ -572,3 +572,5 @@ Free
 
 </body>
 </html>
+
+
