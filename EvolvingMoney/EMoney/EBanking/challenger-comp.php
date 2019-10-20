@@ -129,10 +129,10 @@
 <li>Concierge service</li>
 <li>Metal card</li>
 				</ul>
-
+</div> <!-- .features -->
+			
 <!-- First card !-->					
-					
-				</div> <!-- .features -->
+									
 			<div class="cd-products-wrapper">
 				<ul class="cd-products-columns">
 					<li class="product"><div class="top-info">
@@ -205,12 +205,7 @@
 
 <!-- 2nd card !-->					
 					
-					
-					
-					</div> <!-- .features -->
-			<div class="cd-products-wrapper">
-				<ul class="cd-products-columns">
-					<li class="product"><div class="top-info">
+				<li class="product"><div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image">
 							<h3 class="comp_title">Revolut premium</h3>
@@ -282,10 +277,6 @@
 					
 <!-- 3rd card !-->					
 					
-					
-					</div> <!-- .features -->
-			<div class="cd-products-wrapper">
-				<ul class="cd-products-columns">
 					<li class="product"><div class="top-info">
 							<div class="check"></div>
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
@@ -357,10 +348,6 @@
 					
 <!-- 4th card !-->					
 					
-					
-					"			</div> <!-- .features -->
-			<div class=""cd-products-wrapper"">
-				<ul class=""cd-products-columns"">
 					<li class=""product""><div class=""top-info"">
 							<div class=""check""></div>
 							<img class=""col-fit-img"" src=""https://evolving.money/Images/Revolut_prem_logo_EM.png"" alt=""product image"">
