@@ -101,8 +101,8 @@ float: none;
 .col_9 {width:47%;}
 .col_8 {width:47%;}
 .col_6 {width:47%;}
-.col_4 {width:47%; margin-left:0px;}
-.col_3 {width:47%; margin-left:0px;}
+.col_4 {width:47%; margin-left:0px;}  /* {width:47%; margin-left:0px;} */
+.col_3 {width:47%; margin-left:0px;}   /* {width:47%; margin-left:0px;} */
 
   /* Column margins */
 
@@ -164,8 +164,8 @@ float: left;
 .col_9 {width:98%;}
 .col_8 {width:98%;}
 .col_6 {width:98%;}
-.col_4 {width:98%; margin-left:0px;}
-.col_3 {width:98%; margin-left:0px;}
+.col_4 {width:98%;} /* {width:98%; margin-left:0px;} */
+.col_3 {width:98%;} /* {width:98%; margin-left:0px;} */
 
 
 /* Fix the .last issue */
