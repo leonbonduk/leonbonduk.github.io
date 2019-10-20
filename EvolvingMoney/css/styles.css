@@ -58,15 +58,15 @@ h2 {
 .article-link-header {
         text-align: left;
         width: 100%;
-        margin: 1% 1% 1% 1%;
+        margin: 0%;
         font-weight: bold;
         font-style: normal;
         font-family: helvetica, sans-serif;
         font-size: 100%;
-        color: #fffff;
+        font-color: #fffff;
         background-color: #274168;
-        padding-top: 5px;
-        padding-bottom: 5px;
+        padding-top: 0px;
+        padding-bottom: 0px;
 }
 
 h3 {
