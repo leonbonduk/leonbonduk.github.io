@@ -65,7 +65,7 @@
 
 		<div class="cd-products-table">
 			<div class="features">
-				<div class="top-info">Models</div>
+				<div class="top-info">Account</div>
 				<ul class="cd-features-list">
 					<li>Launched</li>
 <li>Origin</li>
