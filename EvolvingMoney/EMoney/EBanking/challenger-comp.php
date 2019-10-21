@@ -131,6 +131,9 @@
 				</ul>
 </div> <!-- .features -->
 			
+<div class="cd-products-wrapper">
+
+				<ul class="cd-products-columns">			
 <!-- First card !-->					
 									
 			<li class="product"><div class="top-info">
