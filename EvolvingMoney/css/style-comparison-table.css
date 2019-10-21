@@ -351,6 +351,8 @@ Main Components
   padding: 1.25em 0 0.625em;
   font-weight: bold;
   font-size: 0.875rem;
+  border-top: none;
+  border-bottom: none;
 }
 
 .cd-products-table .top-info img {
