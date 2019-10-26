@@ -132,7 +132,7 @@ Main Components
   border-color: #e6e6e6;
   border-top-width: 1px;
   border-bottom-width: 1px;
-  background-color: #fafafa;
+  background-color: #ff9400;  /* #fafafa; */
   opacity: .95;
 }
 .cd-products-table .features::after {
@@ -150,7 +150,7 @@ Main Components
 }
 @media only screen and (min-width: 1170px) {
   .cd-products-table .features {
-    width: 210px;
+    width: 310px;
   }
 }
 
@@ -220,12 +220,13 @@ Main Components
 .cd-features-subheading {
   font-size: 0.875rem;
   font-weight: bold;
+  font-color: #274168;
   padding: 25px 40px;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
   border-right-width: 1px;
-  background: #8a8a8a;
+  background: #FF9400; /* #8a8a8a; */
 }
 
 .cd-features-list li {
@@ -301,6 +302,7 @@ Main Components
   .features .cd-features-list li,
   .cd-products-table .features .top-info {
     text-transform: uppercase;
+    font-color: #274168;
     line-height: 16px;
     padding: 25px 20px;
     letter-spacing: 1px;
@@ -346,6 +348,7 @@ Main Components
   padding: 1.25em 0 0.625em;
   font-weight: bold;
   font-size: 0.875rem;
+  text-align: center;
 }
 .comp_title {
   padding: 1.25em 0 0.625em;
