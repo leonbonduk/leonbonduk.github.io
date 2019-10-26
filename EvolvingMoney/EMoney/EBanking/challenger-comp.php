@@ -82,7 +82,7 @@
 <li>Apple Pay</li>
 <li>Google pay</li>
 <li>Spending analysis</li>
-<li>Notification if bills higher or lower than last time</li>
+<li>Notification if monthly<br>bill amount changes</li>
 <li>Budgeting</li>
 <li>Deposit and withdraw cash from post office</li>
 <li>Trustpilot score</li>
@@ -156,7 +156,7 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="cross"><span style="width: 22px;">Yes<br>Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li>8.9</li>
