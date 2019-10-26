@@ -146,7 +146,7 @@
 <li>7.0mil</li>
 <li>£ 0.00</li>
 <li class="cd-features-subheading"><br></li>
-<li>Prepaid debit card</li>
+<li>Debit card</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li>Received</li>
@@ -164,7 +164,7 @@
 <li class="cd-features-subheading"><br></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li>TBC</li>
-<li>Up to 9 days</li>
+<li><9 days</li>
 <li>None</li>
 <li>TBC</li>
 <li>App</li>
@@ -179,8 +179,8 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li><li class="cd-features-subheading"><br></li>
-<li>Up to £200 per month</li>
-<li> 2.0%</li>
+<li><£200pm</li>
+<li>2.0%</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
@@ -189,8 +189,8 @@
 <li class="cd-features-subheading"><br></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>Up to  0.0%</li>
-<li>Up to  0.0%</li>
+<li>0.0%</li>
+<li>0.0%</li>
 <li class="cd-features-subheading"><br></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li>N/A</li>
@@ -217,7 +217,7 @@
 <li>7.0mil</li>
 <li>£ 6.99</li>
 <li class="cd-features-subheading"><br></li>
-<li>Prepaid debit card</li>
+<li>Debit card</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li>Received</li>
@@ -235,7 +235,7 @@
 <li class="cd-features-subheading"><br></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li>TBC</li>
-<li>Up to 9 days</li>
+<li><9 days</li>
 <li>None</li>
 <li>TBC</li>
 <li>App</li>
@@ -250,8 +250,8 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li><li class="cd-features-subheading"><br></li>
-<li>Up to £400 per month</li>
-<li> 2.0%</li>
+<li><£400pm</li>
+<li>2.0%</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
@@ -260,8 +260,8 @@
 <li class="cd-features-subheading"><br></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>Up to  0.0%</li>
-<li>Up to  0.0%</li>
+<li>0.0%</li>
+<li>0.0%</li>
 <li class="cd-features-subheading"><br></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li>N/A</li>
@@ -290,7 +290,7 @@
 <li>7.0mil</li>
 <li>£ 12.99</li>
 <li class="cd-features-subheading"><br></li>
-<li>Prepaid debit card</li>
+<li>Debit card</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li>Received</li>
@@ -323,7 +323,7 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li><li class="cd-features-subheading"><br></li>
-<li>Up to £600 per month</li>
+<li><£600pm</li>
 <li> 2.0%</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
@@ -333,8 +333,8 @@
 <li class="cd-features-subheading"><br></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>Up to  0.0%</li>
-<li>Up to  0.0%</li>
+<li>0.0%</li>
+<li>0.0%</li>
 <li class="cd-features-subheading"><br></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li>N/A</li>
@@ -364,9 +364,9 @@
 <li class="cd-features-subheading"><br></li>
 <li>Current</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>Y but 0.4% transfer fees</li>
+<li>Fees</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>85000</li>
+<li>85,000</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
@@ -401,19 +401,19 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li>0.4%</li>
 <li>Free</li>
-<li>0.5% to £2k</li>
+<li>0.5%</li>
 <li class="cd-features-subheading"><br></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>Up to  0.0%</li>
-<li>Up to  0.0%</li>
+<li><0.0%</li>
+<li><0.0%</li>
 <li class="cd-features-subheading"><br></li>
 <li><£5k</li>
 <li>15%</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li>TBC</li>
 <li class="cd-features-subheading"><br></li>
-<li>0.25% to £85k</li>
+<li>0.25%</li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
