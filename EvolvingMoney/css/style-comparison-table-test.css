@@ -222,7 +222,7 @@ Main Components
   font-size: 0.875rem;
   font-weight: bold;
   font-color: #FF9400;
-  padding: 25px 25px auto 25px;
+  padding: 0.3rem 1rem auto 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -324,7 +324,7 @@ Main Components
     line-height: 16px;
     padding: 25px 20px;
     letter-spacing: 1px;
-    height: 3rem;
+    
   }
 }
 
@@ -334,6 +334,7 @@ Main Components
   text-overflow: ellipsis;
   overflow: hidden;
   word-wrap: break-word;
+  padding: 0.3rem 1rem auto 1 rem;
 }
 
 .cd-products-table .top-info {
