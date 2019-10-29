@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
        	<title>Evolving Money - Turkish Delight</title>	
  	<meta name="description" content="Is BT a contrarian buy?" />
-   	<meta name="keywords" content="Turkey, buy, share tip, etf, contrarian, buying opportunity" />
+   	<meta name="keywords" content="Turkey, share tip, etf, contrarian, buying opportunity, erdogan, emerging markets, markets" />
        	<meta name="author" content="Leon Bond" />
 	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
