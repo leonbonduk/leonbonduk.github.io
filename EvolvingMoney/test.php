@@ -74,7 +74,7 @@
 <li class="cd-features-subheading">Account details</li>
 <li>Type</li>
 <li>Free UK Account</li>
-<li>Free Euro account</li>
+<li class="two_line">Free Euro account</li>
 <li>Banking license</li>
 <li>FSCS protection</li>
 <li>Direct debits</li>
