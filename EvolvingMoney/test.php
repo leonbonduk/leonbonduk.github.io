@@ -148,7 +148,7 @@
 <li class="cd-features-subheading"><br></li>
 <li>Debit card</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
+<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
 <li>Received</li>
 <li>nil</li>
 <li>Euro only</li>
