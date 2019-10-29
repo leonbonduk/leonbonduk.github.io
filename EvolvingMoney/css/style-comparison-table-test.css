@@ -235,7 +235,7 @@ Main Components
   height: 3rem;
   font-weight: bold;
   word-wrap: break-word;
-  padding: 0.3rem 1rem auto 1rem;
+  padding: 0.3rem 1rem 0.3rem 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -293,6 +293,7 @@ Main Components
 @media only screen and (min-width: 1170px) {
   .cd-features-list li {
     font-size: 1.0rem;
+    height: 3rem;
   }
   .cd-features-list li.rate {
     padding: 22px 0;
@@ -323,6 +324,7 @@ Main Components
     line-height: 16px;
     padding: 25px 20px;
     letter-spacing: 1px;
+    height: 3rem;
   }
 }
 
