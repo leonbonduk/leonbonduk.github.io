@@ -232,9 +232,10 @@ Main Components
 
 .cd-features-list li {
   font-size: 0.875rem;
-  height: 4rem;
+  height: 3rem;
   font-weight: bold;
-  padding: 25px 25px auto 25px;
+  word-wrap: break-word;
+  padding: 0.3rem 1rem auto 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -243,9 +244,10 @@ Main Components
 
 .cd-features-list li.two_line {
   font-size: 0.875rem;
-  height: 5rem;
+  height: 4rem;
   font-weight: bold;
-  padding: 25px 25px auto 25px;
+  word-wrap: break-word;
+  padding: 0.3rem 1rem auto 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
