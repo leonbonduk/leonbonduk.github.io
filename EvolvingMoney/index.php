@@ -29,7 +29,8 @@
 				 <div class="slideshow-container">
 					 <div class="slideshow-inner">
               					<div class="mySlides fade">
-                  					<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php">
+                  					<!-- <a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"> !-->
+								<a href="https://www.evolving.money/test.php"> 
 					            		<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div>
               					</div>
               					<div class="mySlides fade">
