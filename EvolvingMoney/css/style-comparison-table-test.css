@@ -151,6 +151,12 @@ Main Components
 @media only screen and (min-width: 1170px) {
   .cd-products-table .features {
     width: 210px;
+    height:3rem;
+  }
+  
+  .cd-products-table .features2 {
+    width: 210px;
+    height:4rem;
   }
 }
 
