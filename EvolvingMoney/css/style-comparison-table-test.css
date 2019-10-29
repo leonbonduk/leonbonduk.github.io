@@ -230,6 +230,17 @@ Main Components
   background: #274168; /* #8a8a8a; */
 }
 
+.cd-features-list li {
+  font-size: 0.875rem;
+  height: 4rem;
+  font-weight: bold;
+  padding: 25px 25px auto 25px;
+  border-color: #e6e6e6;
+  border-style: solid;
+  border-top-width: 1px;
+  border-right-width: 1px;
+}
+
 .cd-features-list li.two_line {
   font-size: 0.875rem;
   height: 5rem;
@@ -318,6 +329,7 @@ Main Components
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
+  word-wrap: break-word;
 }
 
 .cd-products-table .top-info {
