@@ -67,13 +67,13 @@
 			<div class="features">
 				<div class="top-info">Account</div>
 				<ul class="cd-features-list">
-					<li>Launched</li>
-<li>Origin</li>
-<li>Customer accounts</li>
-<li>Monthly fee</li>
+					<li class="one_line">Launched</li>
+<li class="one_line">Origin</li>
+<li class="one_line">Customer accounts</li>
+<li class="one_line">Monthly fee</li>
 <li class="cd-features-subheading">Account details</li>
-<li>Type</li>
-<li>Free UK Account</li>
+<li class="one_line">Type</li>
+<li class="one_line">Free UK Account</li>
 <li class="two_line">Free Euro account</li>
 <li>Banking license</li>
 <li>FSCS protection</li>
@@ -142,12 +142,12 @@
 							<h3 class="comp_title">Revolut</h3>
 						</div> <!-- .top-info -->
 						<ul class="cd-features-list"><li>2015</li>
-<li>London</li>
-<li>7.0mil</li>
-<li>£ 0.00</li>
+<li class="one_line">London</li>
+<li class="one_line">7.0mil</li>
+<li class="one_line">£ 0.00</li>
 <li class="cd-features-subheading"><br></li>
-<li>Debit card</li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line">Debit card</li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
 <li class="two_line tick"><span style="width: 22px;">Yes</span></li>
 <li>Received</li>
 <li>nil</li>
