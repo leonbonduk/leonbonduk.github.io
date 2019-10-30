@@ -232,7 +232,7 @@ Main Components
 .cd-features-list li {
   font-size: 0.875rem;
   font-weight: bold;
-  padding: 25px 40px;
+  padding: 0.5rem 1rem auto 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
