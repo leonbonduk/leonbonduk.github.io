@@ -301,6 +301,16 @@ Main Components
   .cd-features-list li {
     font-size: 1.0rem;
   }
+    .cd-features-list li.one_line {
+    font-size: 1.0rem;
+    height: 3rem;
+    padding: 0.3rem 1rem 0 1rem;
+  }
+    .cd-features-list li.two_line {
+    font-size: 1.0rem;
+    height: 3rem;
+    padding: 0.3rem 1rem 0 1rem;
+  }
   .cd-features-list li.rate {
     padding: 22px 0;
   }
