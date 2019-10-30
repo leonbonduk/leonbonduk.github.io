@@ -134,7 +134,7 @@ Main Components
   border-bottom-width: 1px;
   background-color: #ff9400;  /* #fafafa; */
   opacity: .95;
-  padding: 0.3rem 1rem auto 1 rem;
+  padding: 0.3rem 1rem auto 1rem;
 }
 .cd-products-table .features::after {
   /* color gradient on the right of .features -  visible while scrolling inside the .cd-products-table */
@@ -152,6 +152,7 @@ Main Components
 @media only screen and (min-width: 1170px) {
   .cd-products-table .features {
     width: 210px;
+    padding: 0.3rem 1rem auto 1rem;
      }
   
 }
