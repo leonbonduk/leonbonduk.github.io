@@ -330,7 +330,7 @@ Main Components
   font-color: #274168;
   /* set line-height value equal to font-size of text inside product cells */
   line-height: 14px;
-  padding: 25px 10px;
+  padding: 0.5rem 1rem auto 1rem; /* 25px 10px */
   text-align: left;
   background-color: #ff9400;
 }
