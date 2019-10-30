@@ -337,7 +337,7 @@ Main Components
   font-weight: bold;
   /* set line-height value equal to font-size of text inside product cells */
   line-height: 14px;
-  padding: 25px 10px;
+  padding: 0.3rem 1 rem auto 1rem
   text-align: left;
 }
 @media only screen and (min-width: 1170px) {
@@ -346,7 +346,7 @@ Main Components
     text-transform: uppercase;
     font-color: #274168;
     line-height: 16px;
-    padding: 25px 20px;
+    padding: 0.3rem 1rem auto 1rem;
     letter-spacing: 1px;
     
   }
