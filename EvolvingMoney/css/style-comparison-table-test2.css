@@ -232,7 +232,7 @@ Main Components
 .cd-features-list li {
   font-size: 0.875rem;
   font-weight: bold;
-  padding: 0.5rem 1rem auto 1rem;
+  padding: auto 1rem auto 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -244,7 +244,7 @@ Main Components
   height: 2rem;
   font-weight: bold;
   word-wrap: break-word;
-  padding: 0.5rem 1rem auto 1rem;
+  padding: auto 1rem auto 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -256,7 +256,7 @@ Main Components
   height: 3rem;
   font-weight: bold;
   word-wrap: break-word;
-  padding: 0.5rem 1rem auto 1rem;
+  padding: auto 1rem auto 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -309,7 +309,7 @@ Main Components
     .cd-features-list li.two_line {
     font-size: 1.0rem;
     height: 3rem;
-    padding: 0.5rem 1rem auto 1rem;
+    padding: auto 1rem auto 1rem;
   }
   .cd-features-list li.rate {
     padding: 22px 0;
@@ -330,7 +330,7 @@ Main Components
   font-color: #274168;
   /* set line-height value equal to font-size of text inside product cells */
   line-height: 14px;
-  padding: 0.5rem 1rem auto 1rem; /* 25px 10px */
+  padding: auto 1rem auto 1rem; /* 25px 10px */
   text-align: left;
   background-color: #ff9400;
 }
@@ -340,7 +340,7 @@ Main Components
     text-transform: uppercase;
     font-color: #274168;
     line-height: 16px;
-    padding: 0.5rem 1rem auto 1rem; /* 25px 20px */
+    padding: auto 1rem auto 1rem; /* 25px 20px */
     letter-spacing: 1px;
     background-color: #ff9400;
   }
