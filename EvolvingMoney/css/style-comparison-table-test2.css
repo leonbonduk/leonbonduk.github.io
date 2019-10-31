@@ -263,7 +263,7 @@ Main Components
 }
 .cd-features-list li.tick {
   /* rating stars */
-  padding: 21px 0;
+  /* padding: 21px 0; */
 }
 .cd-features-list li.tick span {
   display: inline-block;
@@ -275,7 +275,7 @@ Main Components
 }
 .cd-features-list li.cross {
   /* rating stars */
-  padding: 21px 0;
+  /* padding: 21px 0; */
 }
 .cd-features-list li.cross span {
   display: inline-block;
@@ -465,7 +465,8 @@ Main Components
   /* models */
   width: 120px;
   cursor: auto;
-  background: #ff9400; /* fafafa */
+  color: #ff9400;
+  background: #274168; /* fafafa */
 }
 @media only screen and (min-width: 1170px) {
   .cd-products-table .features .top-info {
