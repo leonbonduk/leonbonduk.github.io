@@ -290,9 +290,9 @@ Main Components
     font-size: 1.0rem;
   }
   .cd-features-subheading {
-  font-color: #FF9400;
+  color: #FFFFFF;
   padding: 0.5rem 1rem 0rem 1rem;
-  height 2rem;
+  height: 2rem;
   background: #274168; /* #8a8a8a; */
   }
   
@@ -322,7 +322,7 @@ Main Components
   /* fixed left column - items */
   font-size: 0.75rem;
   font-weight: bold;
-  font-color: #274168;
+  color: #274168;
   /* set line-height value equal to font-size of text inside product cells */
   line-height: 14px;
   padding: 0.5rem 1rem 0rem 1rem; /* 25px 10px */
@@ -333,7 +333,7 @@ Main Components
   .features .cd-features-list li,
   .cd-products-table .features .top-info {
     text-transform: uppercase;
-    font-color: #274168;
+    color: #274168;
     line-height: 16px;
     padding: 0.5rem 1rem auto 1rem; /* 25px 20px */
     letter-spacing: 1px;
@@ -351,7 +351,7 @@ Main Components
 .features .cd-features-list .cd-features-subheading {
   font-size: 0.875rem;
   font-weight: bold;
-  font-color: #FF9400;
+  color: #FF9400;
   padding: 0.5rem 1rem 0rem 1rem;
   height 2rem;
   border-color: #e6e6e6;
@@ -465,7 +465,7 @@ Main Components
   /* models */
   width: 120px;
   cursor: auto;
-  background: #fafafa;
+  background: #ff9400; /* fafafa */
 }
 @media only screen and (min-width: 1170px) {
   .cd-products-table .features .top-info {
