@@ -217,23 +217,10 @@ Main Components
   }
 }
 
-.cd-features-subheading {
-  font-size: 0.875rem;
-  font-weight: bold;
-  font-color: #FF9400;
-  padding: 0.5rem 1rem auto 1rem;
-  height 2rem;
-  border-color: #e6e6e6;
-  border-style: solid;
-  border-top-width: 1px;
-  border-right-width: 1px;
-  background: #274168; /* #8a8a8a; */
-}
-
 .cd-features-list li {
   font-size: 0.875rem;
   font-weight: bold;
-  padding: 0.5rem 1rem auto 1rem;
+  padding: 0.5rem 1rem 0rem 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -245,7 +232,7 @@ Main Components
   height: 2rem;
   font-weight: bold;
   word-wrap: break-word;
-  padding: 0.5rem 1rem auto 1rem;
+  padding: 0.5rem 1rem 0rem 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -257,7 +244,7 @@ Main Components
   height: 3rem;
   font-weight: bold;
   word-wrap: break-word;
-  padding: 0.5rem 1rem auto 1rem;
+  padding: 0.5rem 1rem 0rem 1rem;
   border-color: #e6e6e6;
   border-style: solid;
   border-top-width: 1px;
@@ -304,7 +291,7 @@ Main Components
   }
   .cd-features-subheading {
   font-color: #FF9400;
-  padding: 0.5rem 1rem auto 1rem;
+  padding: 0.5rem 1rem 0rem 1rem;
   height 2rem;
   background: #274168; /* #8a8a8a; */
   }
@@ -312,12 +299,12 @@ Main Components
     .cd-features-list li.one_line {
     font-size: 1.0rem;
     height: 2rem;
-    padding: 0.5rem 1rem auto 1rem;
+    padding: 0.5rem 1rem 0rem 1rem;
   }
     .cd-features-list li.two_line {
     font-size: 1.0rem;
     height: 3rem;
-    padding: 0.5rem 1rem auto 1rem;
+    padding: 0.5rem 1rem 0rem 1rem;
   }
   .cd-features-list li.rate {
     padding: 22px 0;
@@ -338,7 +325,7 @@ Main Components
   font-color: #274168;
   /* set line-height value equal to font-size of text inside product cells */
   line-height: 14px;
-  padding: 0.5rem 1rem auto 1rem; /* 25px 10px */
+  padding: 0.5rem 1rem 0rem 1rem; /* 25px 10px */
   text-align: left;
   background-color: #ff9400;
 }
@@ -359,6 +346,19 @@ Main Components
   white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
+}
+
+.features .cd-features-list .cd-features-subheading {
+  font-size: 0.875rem;
+  font-weight: bold;
+  font-color: #FF9400;
+  padding: 0.5rem 1rem 0rem 1rem;
+  height 2rem;
+  border-color: #e6e6e6;
+  border-style: solid;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  background: #274168; /* #8a8a8a; */
 }
 
 .cd-products-table .top-info {
