@@ -141,7 +141,8 @@
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_card_logo_EM.png" alt="product image">
 							<h3 class="comp_title">Revolut</h3>
 						</div> <!-- .top-info -->
-						<ul class="cd-features-list"><li>2015</li>
+						<ul class="cd-features-list">
+<li class="one_line">2015</li>
 <li class="two_line">London</li>
 <li class="one_line">7.0mil</li>
 <li class="one_line">£ 0.00</li>
