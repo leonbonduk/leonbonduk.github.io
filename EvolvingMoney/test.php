@@ -68,7 +68,7 @@
 				<div class="top-info">Account</div>
 				<ul class="cd-features-list">
 					<li class="one_line">Launched</li>
-<li class="two_line">Origin</li>
+<li class="one_line">Origin</li>
 <li class="one_line">Customer accounts</li>
 <li class="one_line">Monthly fee</li>
 <li class="cd-features-subheading">Account details</li>
@@ -143,7 +143,7 @@
 						</div> <!-- .top-info -->
 						<ul class="cd-features-list">
 <li class="one_line">2015</li>
-<li class="two_line">London</li>
+<li class="one_line">London</li>
 <li class="one_line">7.0mil</li>
 <li class="one_line">£ 0.00</li>
 <li class="cd-features-subheading"><br></li>
