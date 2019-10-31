@@ -75,59 +75,59 @@
 <li class="one_line">Type</li>
 <li class="one_line">Free UK Account</li>
 <li class="two_line">Free Euro account</li>
-<li>Banking license</li>
-<li>FSCS protection</li>
-<li>Direct debits</li>
-<li>Standing orders </li>
-<li>Apple Pay</li>
-<li>Google pay</li>
-<li>Spending analysis</li>
-<li>Notification if monthly<br>bill amount changes</li>
-<li>Budgeting</li>
-<li>Deposit and withdraw cash from post office</li>
-<li>Trustpilot score</li>
-<li>Website portal</li>
+<li class="one_line">Banking license</li>
+<li class="one_line">FSCS protection</li>
+<li class="one_line">Direct debits</li>
+<li class="one_line">Standing orders </li>
+<li class="one_line">Apple Pay</li>
+<li class="one_line">Google pay</li>
+<li class="one_line">Spending analysis</li>
+<li class="one_line">Notification if monthly<br>bill amount changes</li>
+<li class="one_line">Budgeting</li>
+<li class="one_line">Deposit and withdraw cash from post office</li>
+<li class="one_line">Trustpilot score</li>
+<li class="one_line">Website portal</li>
 <li class="cd-features-subheading">Application process</li>
-<li>Proof of address</li>
-<li>Credit check</li>
-<li>Card delivery</li>
-<li>Waiting list</li>
-<li>Time to sign up</li>
-<li>Sign up</li>
+<li class="one_line">Proof of address</li>
+<li class="one_line">Credit check</li>
+<li class="one_line">Card delivery</li>
+<li class="one_line">Waiting list</li>
+<li class="one_line">Time to sign up</li>
+<li class="one_line">Sign up</li>
 <li class="cd-features-subheading">Security features</li>
-<li>Transaction notification</li>
-<li>Virtual cards</li>
-<li>Freeze card in app</li>
-<li>Magstripe disable</li>
-<li>Online 3D secure</li>
-<li>Refunds for fraudulent trans</li>
-<li>Location based</li>
-<li>Contactless disable</li>
-<li>ATM disable</li>
-<li>E commerce disable</li><li class="cd-features-subheading">Fees</li>
-<li>Free UK ATM </li>
-<li>Fee above</li>
-<li>No transaction charges</li>
-<li>Fee free overseas spending</li>
-<li>Fee free overseas transfers</li>
-<li>Fee free overseas cash withdrawal</li>
-<li>Current account Interest AER</li>
+<li class="one_line">Transaction notification</li>
+<li class="one_line">Virtual cards</li>
+<li class="one_line">Freeze card in app</li>
+<li class="one_line">Magstripe disable</li>
+<li class="one_line">Online 3D secure</li>
+<li class="one_line">Refunds for fraudulent trans</li>
+<li class="one_line">Location based</li>
+<li class="one_line">Contactless disable</li>
+<li class="one_line">ATM disable</li>
+<li class="one_line">E commerce disable</li><li class="cd-features-subheading">Fees</li>
+<li class="one_line">Free UK ATM </li>
+<li class="one_line">Fee above</li>
+<li class="one_line">No transaction charges</li>
+<li class="one_line">Fee free overseas spending</li>
+<li class="one_line">Fee free overseas transfers</li>
+<li class="one_line">Fee free overseas cash withdrawal</li>
+<li class="one_line">Current account Interest AER</li>
 <li class="cd-features-subheading">Savings</li>
-<li>Savings pots</li>
-<li>Round up savings</li>
-<li>Savings account Interest AER</li>
-<li>Current account Interest AER</li>
+<li class="one_line">Savings pots</li>
+<li class="one_line">Round up savings</li>
+<li class="one_line">Savings account Interest AER</li>
+<li class="one_line">Current account Interest AER</li>
 <li class="cd-features-subheading">Borrowings</li>
-<li>Approved Overdraft</li>
-<li>Approved overdraft int</li>
-<li>Loans</li>
-<li>Loans typical  rate</li>
+<li class="one_line">Approved Overdraft</li>
+<li class="one_line">Approved overdraft int</li>
+<li class="one_line">Loans</li>
+<li class="one_line">Loans typical  rate</li>
 <li class="cd-features-subheading">Other features</li>
-<li>Cash back on purchases</li>
-<li>Crypto conversion</li>
-<li>Travel insurance</li>
-<li>Concierge service</li>
-<li>Metal card</li>
+<li class="one_line">Cash back on purchases</li>
+<li class="one_line">Crypto conversion</li>
+<li class="one_line">Travel insurance</li>
+<li class="one_line">Concierge service</li>
+<li class="one_line">Metal card</li>
 				</ul>
 </div> <!-- .features -->
 			
@@ -150,9 +150,9 @@
 <li class="one_line">Debit card</li>
 <li class="one_line tick"><span style="width: 22px;">Yes</span></li>
 <li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li>Received</li>
-<li>nil</li>
-<li>Euro only</li>
+<li class="one_line">Received</li>
+<li class="one_line">nil</li>
+<li class="one_line">Euro only</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
@@ -160,41 +160,41 @@
 <li class="cross"><span style="width: 22px;">Yes<br>Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
-<li>8.9</li>
+<li class="one_line">8.9</li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li class="cd-features-subheading"><br></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
-<li>TBC</li>
-<li><9 days</li>
-<li>None</li>
-<li>TBC</li>
-<li>App</li>
+<li class="one_line">TBC</li>
+<li class="one_line"><9 days</li>
+<li class="one_line">None</li>
+<li class="one_line">TBC</li>
+<li class="one_line">App</li>
 <li class="cd-features-subheading"><br></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>TBC</li>
+<li class="one_line">TBC</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li><li class="cd-features-subheading"><br></li>
-<li><£200pm</li>
-<li>2.0%</li>
+<li class="one_line"><£200pm</li>
+<li class="one_line">2.0%</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>TBC</li>
+<li class="one_line">TBC</li>
 <li class="cd-features-subheading"><br></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>0.0%</li>
-<li>0.0%</li>
+<li class="one_line">0.0%</li>
+<li class="one_line">0.0%</li>
 <li class="cd-features-subheading"><br></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
-<li>N/A</li>
+<li class="one_line">N/A</li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li class="cd-features-subheading"><br></li>
