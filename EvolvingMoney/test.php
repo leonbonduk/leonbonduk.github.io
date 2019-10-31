@@ -153,56 +153,56 @@
 <li class="one_line">Received</li>
 <li class="one_line">nil</li>
 <li class="one_line">Euro only</li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes<br>Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span style="width: 22px;">Yes<br>Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="one_line">8.9</li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="cd-features-subheading"><br></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="one_line">TBC</li>
 <li class="one_line"><9 days</li>
 <li class="one_line">None</li>
 <li class="one_line">TBC</li>
 <li class="one_line">App</li>
 <li class="cd-features-subheading"><br></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
 <li class="one_line">TBC</li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li><li class="cd-features-subheading"><br></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li><li class="cd-features-subheading"><br></li>
 <li class="one_line"><£200pm</li>
 <li class="one_line">2.0%</li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
 <li class="one_line">TBC</li>
 <li class="cd-features-subheading"><br></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
 <li class="one_line">0.0%</li>
 <li class="one_line">0.0%</li>
 <li class="cd-features-subheading"><br></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="one_line">N/A</li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="cd-features-subheading"><br></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li></ul>
+<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span style="width: 22px;">Yes</span></li></ul>
 					</li> <!-- .product -->
 
 
