@@ -307,13 +307,13 @@ Main Components
     padding: 0.5rem 1rem 0rem 1rem;
   }
   .cd-features-list li.rate {
-    padding: 22px 0;
+  /*  padding: 22px 0; */
   }
     .cd-features-list li.tick {
-    padding: 22px 0;
+   /* padding: 22px 0; */
   }
   .cd-features-list li.cross {
-    padding: 22px 0;
+  /*  padding: 22px 0; */
   }
 }
 
