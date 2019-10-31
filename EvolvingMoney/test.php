@@ -87,7 +87,7 @@
 <li class="one_line">Deposit and withdraw cash from post office</li>
 <li class="one_line">Trustpilot score</li>
 <li class="one_line">Website portal</li>
-<li class="cd-features-subheading">Application process</li>
+<li class="two_line cd-features-subheading">Application process</li>
 <li class="one_line">Proof of address</li>
 <li class="one_line">Credit check</li>
 <li class="one_line">Card delivery</li>
@@ -162,7 +162,7 @@
 <li class="one_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="one_line">8.9</li>
 <li class="one_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="cd-features-subheading"><br></li>
+<li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="one_line">TBC</li>
 <li class="one_line"><9 days</li>
