@@ -115,7 +115,7 @@
 <li class="two_line cd-features-subheading">Savings</li>
 <li class="one_line">Savings pots</li>
 <li class="one_line">Round up savings</li>
-<li class="rwo_line">Savings account<br>Interest AER</li>
+<li class="two_line">Savings account<br>Interest AER</li>
 <li class="two_line">Current account<br>Interest AER</li>
 <li class="two_line cd-features-subheading">Borrowings</li>
 <li class="one_line">Approved Overdraft</li>
@@ -199,7 +199,7 @@
 <li class="one_line cross"><span>Yes</span></li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="two_line cross"><span>Yes</span></li>
-<li class="one-line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="one_line cross"><span>Yes</span></li>
 <li class="one_line cross"><span>Yes</span></li>
 <li class="one_line cross"><span>Yes</span></li></ul>
