@@ -74,7 +74,7 @@
 <li class="two_line cd-features-subheading">Account details</li>
 <li class="one_line">Type</li>
 <li class="one_line">Free UK Account</li>
-<li class="two_line">Free Euro account</li>
+<li class="one_line">Free Euro account</li>
 <li class="one_line">Banking license</li>
 <li class="one_line">FSCS protection</li>
 <li class="one_line">Direct debits</li>
@@ -149,7 +149,7 @@
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line">Debit card</li>
 <li class="one_line tick"><span>Yes</span></li>
-<li class="two_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="one_line">Received</li>
 <li class="one_line">nil</li>
 <li class="one_line">Euro only</li>
