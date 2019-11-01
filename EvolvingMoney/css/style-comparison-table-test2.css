@@ -228,29 +228,14 @@ Main Components
 }
 
 .cd-features-list li.one_line {
-  font-size: 0.875rem;
   height: 2rem;
-  font-weight: bold;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  padding: 0.5rem 1rem 0rem 1rem;
-  border-color: #e6e6e6;
-  border-style: solid;
-  border-top-width: 1px;
-  border-right-width: 1px;
 }
 
 .cd-features-list li.two_line {
-  font-size: 0.875rem;
   height: 3rem;
-  font-weight: bold;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  padding: 0.5rem 1rem 0rem 1rem;
-  border-color: #e6e6e6;
-  border-style: solid;
-  border-top-width: 1px;
-  border-right-width: 1px;
+}
+.cd-features-list li.three_line {
+  height: 4rem;
 }
 .cd-features-list li.rate {
   /* rating stars */
@@ -270,7 +255,7 @@ Main Components
 .cd-features-list li.tick span {
   display: inline-block;
   height: 1rem;
-  width: 5rem; 
+  width: 1rem; 
   background: url(../Images/checked.png);
   background-size: contain;
   color: transparent;
@@ -282,7 +267,7 @@ Main Components
 .cd-features-list li.cross span {
   display: inline-block;
   height: 1rem;
-  width: 5rem; 
+  width: 1rem; 
   background: url(../Images/cancel.png);
   background-size: contain;
   color: transparent;
@@ -306,6 +291,11 @@ Main Components
     .cd-features-list li.two_line {
     font-size: 1.0rem;
     height: 3rem;
+    padding: 0.5rem 1rem 0rem 1rem;
+  }
+  .cd-features-list li.three_line {
+    font-size: 1.0rem;
+    height: 4rem;
     padding: 0.5rem 1rem 0rem 1rem;
   }
   .cd-features-list li.rate {
