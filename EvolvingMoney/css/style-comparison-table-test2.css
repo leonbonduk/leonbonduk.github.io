@@ -227,7 +227,8 @@ Main Components
   border-right-width: 1px;
 }
   .cd-features-list li.cd-features-subheading {
-  color: #FFFFFF;
+  color: #FF9400;
+  border-color: #274168;
   padding: 0.5rem 1rem 0rem 1rem;
   height: 2rem;
   background: #274168; /* #8a8a8a; */
@@ -284,7 +285,8 @@ Main Components
     font-size: 1.0rem;
   }
   .cd-features-subheading {
-  color: #FFFFFF;
+  color: #FF9400;
+  border-color: #274168;
   padding: 0.5rem 1rem 0rem 1rem;
   height: 2rem;
   background: #274168; /* #8a8a8a; */
