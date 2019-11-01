@@ -226,6 +226,13 @@ Main Components
   border-top-width: 1px;
   border-right-width: 1px;
 }
+  .cd-features-list li.cd-features-subheading {
+  color: #FFFFFF;
+  padding: 0.5rem 1rem 0rem 1rem;
+  height: 2rem;
+  background: #274168; /* #8a8a8a; */
+  }
+  
 
 .cd-features-list li.one_line {
   height: 2rem;
