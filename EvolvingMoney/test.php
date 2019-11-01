@@ -104,7 +104,8 @@
 <li class="one_line">Location based</li>
 <li class="one_line">Contactless disable</li>
 <li class="one_line">ATM disable</li>
-<li class="one_line">E commerce disable</li><li class="cd-features-subheading">Fees</li>
+<li class="one_line">E commerce disable</li>
+<li class="two_line cd-features-subheading">Fees</li>
 <li class="one_line">Free UK ATM </li>
 <li class="one_line">Fee above</li>
 <li class="two_line">No transaction<br>charges</li>
@@ -179,7 +180,8 @@
 <li class="one_line tick"><span>Yes</span></li>
 <li class="one_line tick"><span>Yes</span></li>
 <li class="one_line tick"><span>Yes</span></li>
-<li class="one_line tick"><span>Yes</span></li><li class="cd-features-subheading"><br></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="two_line cd-features-subheading"><br></li>
 <li class="one_line"><£200pm</li>
 <li class="one_line">2.0%</li>
 <li class="two_line tick"><span>Yes</span></li>
