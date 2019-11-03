@@ -4,7 +4,7 @@
 	<meta charset="utf-8" />
        	<title>Evolving Money - Glossary</title>
        	<meta name="description" content="Glossary of some key finacial terms explained in easy to udnerstand terms" />
-       	<meta name="keywords" content="finacial terms, glossary, investments, new, macro, crypto, contrarian, p2p, banking" />
+       	<meta name="keywords" content="investing books, investing books review, finance books, trading books, books, investments, macro, crypto, contrarian, p2p, banking" />
        	<meta name="author" content="Leon Bond" />
        	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
