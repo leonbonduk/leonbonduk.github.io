@@ -46,43 +46,39 @@
   					<span class="dot" onclick='currentSlide(2)'></span>
 				</div>
 				</div>
+				
+				<div>
+
+					<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
+						<div class="col_4 first">
+							<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
+							<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?</h2>
+						</div>
+					</a>
+									       
+					<a href="https://www.evolving.money/InvIdeas/BT-Sept19.php">
+						<div class="col_4">
+							<div class="imgbox"><img class="center-fit" src="Images/small_phone_boxes.jpg"></div>
+							<h2 class="article-link-header">Is BT a contrarian buy?<br></h2>
+						</div>
+					</a>
+				</div>
+					 
+ 				<div>
+					<a href="https://www.evolving.money/EMoney/cashback_websites.php">
+						<div class="col_4 first">
+							<div class="imgbox"><img class="center-fit" src="Images/spilled_cash_EM.jpg"></div>
+							<h2 class="article-link-header">Cashback websites</h2>
+						</div>
+					</a>
+				</div>
     			</div>
 			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
 	
 		</div>
 				
 		<div class="clear"></div>
-		
- 		<div class="row">
-
-			<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
-				<div class="col_4 first">
-					<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
-					<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?</h2>
-				</div>
-			</a>
-									       
-			<a href="https://www.evolving.money/InvIdeas/BT-Sept19.php">
-				<div class="col_4">
-					<div class="imgbox"><img class="center-fit" src="Images/small_phone_boxes.jpg"></div>
-					<h2 class="article-link-header">Is BT a contrarian buy?<br></h2>
-				</div>
-			</a>
-			
-		</div>
-					 
- 		<div class="row">
-
-			<a href="https://www.evolving.money/EMoney/cashback_websites.php">
-				<div class="col_4 first">
-					<div class="imgbox"><img class="center-fit" src="Images/spilled_cash_EM.jpg"></div>
-					<h2 class="article-link-header">Cashback websites</h2>
-				</div>
-			</a>
-				     
-		</div>
 				
-			
 		</div>
 	
 		<div class="clear"></div>
