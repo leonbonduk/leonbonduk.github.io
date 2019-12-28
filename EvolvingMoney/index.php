@@ -12,6 +12,7 @@
 	<meta name="robots" content="all" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<script src="https://evolving.money/table-nodejs/slideshow.js"></script> <!-- SLideshow js -->
+	<script data-ad-client="ca-pub-3169172932709847" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<link rel="canonical" href="https://www.evolving.money/">
 	<link href="css/styles.css" type="text/css" rel="stylesheet" />
 	<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
