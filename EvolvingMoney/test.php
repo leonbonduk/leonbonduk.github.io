@@ -19,7 +19,7 @@
 
 <body>
 
-	<?php include("https://www.evolving.money/includes/test-header.html");?>
+	<?php include("includes/test-header.html");?>
 
 <div>
 	<div class="row">
@@ -215,68 +215,69 @@
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_prem_logo_EM.png" alt="product image">
 							<h3 class="comp_title">Revolut premium</h3>
 						</div> <!-- .top-info -->
-						<ul class="one_line cd-features-list"><li>2015</li>
-<liclass="one_line">London</li>
+						<ul class="cd-features-list">
+<li class="one_line">2015</li>
+<li class="one_line">London</li>
 <li class="one_line">7.0mil</li>
 <li class="one_line">£ 6.99</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line">Debit card</li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="one_line">Received</li>
 <li class="one_line">nil</li>
 <li class="one_line">Euro only</li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="three_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="three_line cross"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="two_line cross"><span>Yes</span></li>
 <li class="one_line">8.9</li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
 <li class="one_line three_line cd-features-subheading"><br></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
 <li class="one_line">TBC</li>
 <li class="one_line"><9 days</li>
 <li class="one_line">None</li>
 <li class="one_line">TBC</li>
 <li class="one_line">App</li>
 <li class="two_line cd-features-subheading"><br></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="two_line">TBC</li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line"><£400pm</li>
 <li class="one_line">2.0%</li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
 <li class="two_line">TBC</li>
 <li class="two_line cd-features-subheading"><br></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="two_line">0.0%</li>
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
 <li class="two_line">N/A</li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
 <li class="two_line cd-features-subheading"><br></li>
-<li class="two_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li></ul>
+<li class="two_line cross"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li></ul>
 					</li> <!-- .product -->
 
 
@@ -289,67 +290,68 @@
 							<img class="col-fit-img" src="https://evolving.money/Images/Revolut_metal_logo_EM.png" alt="product image">
 							<h3 class="comp_title">Revolut metal</h3>
 						</div> <!-- .top-info -->
-						<ul class="one_line cd-features-list"><li>2015</li>
+						<ul class="cd-features-list">
+<li class="one_line">2015</li>
 <li class="one_line">London</li>
 <li class="one_line">7.0mil</li>
 <li class="one_line">£ 12.99</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line">Debit card</li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="one_line">Received</li>
 <li class="one_line">nil</li>
 <li class="one_line">Euro only</li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="three_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="three_line cross"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="two_line cross"><span>Yes</span></li>
 <li class="one_line">8.9</li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
 <li class="three_line cd-features-subheading"><br></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
 <li class="one_line">TBC</li>
 <li class="one_line">Up to 9 days</li>
 <li class="one_line">None</li>
 <li class="one_line">TBC</li>
 <li class="one_line">App</li>
 <li class="two_line cd-features-subheading"><br></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="two_line">TBC</li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line"><£600pm</li>
 <li class="one_line"> 2.0%</li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
 <li class="two_line">TBC</li>
 <li class="two_line cd-features-subheading"><br></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_linetick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_linetick"><span>Yes</span></li>
 <li class="two_line">0.0%</li>
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
 <li class="two_line">N/A</li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
 <li class="two_line cd-features-subheading"><br></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
- <li class="one_line tick"><span style="width: 22px;">Yes</span></li></ul>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+ <li class="one_line tick"><span>Yes</span></li></ul>
 					</li> <!-- .product -->
 
 
@@ -361,68 +363,69 @@
 							<img class="col-fit-img" src="https://evolving.money/Images/Starling_card_logo_EM.png" alt="product image">
 							<h3 class="comp_title">Starling</h3>
 						</div> <!-- .top-info -->
-						<ul class="one_line cd-features-list"><li>2017</li>
+						<ul class="cd-features-list">
+<li class="one_line">2017</li>
 <li class="one_line">London</li>
 <li class="one_line">0.5mil</li>
 <li class="one_line">£ 0.00</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line">Current</li>
-<li class="one_linetick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="one_line">Fees</li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="one_line">85,000</li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="three_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="three_line cross"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
 <li class="one_line">TBC</li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
 <li class="three_line cd-features-subheading"><br></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="one_line">3 days</li>
 <li class="one_line">None</li>
 <li class="one_line">Few mins</li>
 <li class="one_line">App</li>
 <li class="two_line cd-features-subheading"><br></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line">TBC</li>
 <li class="one_line">TBC</li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
+<li class="two_line tick"><span>Yes</span></li>
 <li class="two_line">0.4%</li>
 <li class="two_line">Free</li>
 <li class="two_line">0.5%</li>
 <li class="two_line cd-features-subheading"><br></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="two_line"><0.0%</li>
 <li class="two_line"><0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line"><£5k</li>
 <li class="two_line">15%</li>
-<li class="one_line tick"><span style="width: 22px;">Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="one_line">TBC</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="two_line">0.25%</li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li>
-<li class="one_line cross"><span style="width: 22px;">Yes</span></li></ul>
+<li class="one_line cross"><span>Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li>
+<li class="one_line cross"><span>Yes</span></li></ul>
 					</li> <!-- .product -->
 
 
@@ -439,7 +442,7 @@
 <script src="https://evolving.money/table-nodejs/jquery-2.1.4.js"></script>
 <script src="https://evolving.money/table-nodejs/main.js"></script> <!-- Resource jQuery -->
 	
-<?php include("https://www.evolving.money/includes/footer.html");?>
+<?php include("includes/footer.html");?>
 
 </body>
 </html>
