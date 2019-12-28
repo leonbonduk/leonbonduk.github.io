@@ -348,6 +348,7 @@
 <li class="one_line cross"><span>Yes</span></li>
 <li class="one_line cross"><span>Yes</span></li>
 <li class="two_line cd-features-subheading"><br></li>
+<li class="one_line cross"><span>Yes</span></li>
 <li class="two_line tick"><span>Yes</span></li>
 <li class="one_line tick"><span>Yes</span></li>
 <li class="one_line tick"><span>Yes</span></li>
