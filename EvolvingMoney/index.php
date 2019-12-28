@@ -71,9 +71,11 @@
 							<h2 class="article-link-header">Is BT a contrarian buy?<br></h2>
 						</div>
 					</a>
+					
+					<div class="clear"></div>
 				</div>
 				
-				<div class="clear"></div>
+				
 					      
 				<div>
 					<div class="col_int_12">
