@@ -339,7 +339,7 @@
 <li class="two_line">TBC</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line tick"><span>Yes</span></li>
-<li class="one_linetick"><span>Yes</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="two_line">0.0%</li>
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
