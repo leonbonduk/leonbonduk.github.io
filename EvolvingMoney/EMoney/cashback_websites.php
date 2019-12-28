@@ -2,7 +2,7 @@
 <html lang="en" class="no-js">
 <head>		
 	<meta charset="UTF-8">
-       	<title>Cashflow from cashback Websites</title>	
+       	<title>Cashflow from cashback websites</title>	
  	<meta name="description" content="Get Cashback on online purchases from websites and apps provided by Topcashback and Quidco. This is an Evolving Money guide to the best cashback sites and apps and details their downsides." />
    	<meta name="keywords" content="Cashback, Quidco, TopCashback, Cashback, Cashback cards, Cashback sites, Online shopping, shopping" />
        	<meta name="author" content="Leon Bond" />
@@ -21,7 +21,7 @@
 
 	<div class="col_8 first" style="background-color:#fff">	
 		<br>	 
-		<h1 class="h1_article">Cashflow from cashback Websites!</h1>
+		<h1 class="h1_article">Cashflow from cashback websites!</h1>
 		<h3>Leon Bond, 27th December 2019</h3>
 		<p><img src="https://www.evolving.money/Images/spilled_cash_EM.jpg" alt="Coins spilling out of a jar" title="Cashback websites" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
 		<p>Cashback websites and their associated smartphone apps are a great way at earning money back from your online purchases! On clicking though to the retailer from either the cashback app or website, cookies track the transaction and usually a few weeks after the transaction has completed you will receive some cash back that can typically range from 1% up to 15% and sometimes even more.</p>
