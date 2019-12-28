@@ -232,23 +232,23 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="three_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="two_line cross"><span style="width: 22px;">Yes</span></li>
 <li>8.9</li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
-<li class="cd-features-subheading"><br></li>
+<li class="three_line cd-features-subheading"><br></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li>TBC</li>
 <li><9 days</li>
 <li>None</li>
 <li>TBC</li>
 <li>App</li>
-<li class="cd-features-subheading"><br></li>
+<li class="two_line cd-features-subheading"><br></li>
+<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>TBC</li>
+<li class="two_line">TBC</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
@@ -305,23 +305,23 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="three_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="two_line cross"><span style="width: 22px;">Yes</span></li>
 <li>8.9</li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
-<li class="cd-features-subheading"><br></li>
+<li class="three_line cd-features-subheading"><br></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li>TBC</li>
 <li>Up to 9 days</li>
 <li>None</li>
 <li>TBC</li>
 <li>App</li>
-<li class="cd-features-subheading"><br></li>
+<li class="two_line cd-features-subheading"><br></li>
+<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
-<li>TBC</li>
+<li class="two_line">TBC</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
@@ -377,23 +377,23 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="three_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
+<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
 <li>TBC</li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
-<li class="cd-features-subheading"><br></li>
+<li class="three_line cd-features-subheading"><br></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li>3 days</li>
 <li>None</li>
 <li>Few mins</li>
 <li>App</li>
-<li class="cd-features-subheading"><br></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
+<li class="two_line cd-features-subheading"><br></li>
+<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="tick"><span style="width: 22px;">Yes</span></li>
+<li class="two_line tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
