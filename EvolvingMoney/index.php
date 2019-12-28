@@ -28,59 +28,62 @@
 			<div class="col_8 first" >
 				 <div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
 				      <div class="slideshow-container">
-					 <div class="slideshow-inner">
-              					<div class="mySlides fade">
+					 	<div class="slideshow-inner">
+              						<div class="mySlides fade">
                   					<!-- <a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"> !-->
 								<a href="https://www.evolving.money/test.php"> 
 					            		<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div>
-              					</div>
-              					<div class="mySlides fade">
-                   					<a href="https://www.evolving.money/InvIdeas/index.php">
-					            		<div class="imgbox"><img class="center-fit" src="Images/investment_ideas.png"></div>
-              					</div>
-              					<a class="prev" onclick='plusSlides(-1)'>&#10094;</a>
-              					<a class="next" onclick='plusSlides(1)'>&#10095;</a>
-         			 	</div>
-        			<br/>
-				<div style='text-align: center;'>
-  					<span class="dot" onclick='currentSlide(1)'></span>
-  					<span class="dot" onclick='currentSlide(2)'></span>
+              						</div>
+              						<div class="mySlides fade">
+                   						<a href="https://www.evolving.money/InvIdeas/index.php">
+					            			<div class="imgbox"><img class="center-fit" src="Images/investment_ideas.png"></div>
+              						</div>
+              						<a class="prev" onclick='plusSlides(-1)'>&#10094;</a>
+              						<a class="next" onclick='plusSlides(1)'>&#10095;</a>
+         			 		</div>   <!-- end of slideshow-inner !-->
+        					<br/>
+						<div style='text-align: center;'>
+  							<span class="dot" onclick='currentSlide(1)'></span>
+  							<span class="dot" onclick='currentSlide(2)'></span>
+						</div>
+					</div>	<!-- end of slideshow-container !-->
 				</div>
-				</div>
-			</div>
-			
-			<div>
-				<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
-					<div class="col_int_6">
-						<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
-						<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?</h2>
-					</div>
-				</a>
+				
+				<div class="clear"></div>
+					      
+				<div>
+					<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
+							<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?</h2>
+						</div>
+					</a>
 									       
-				<a href="https://www.evolving.money/InvIdeas/BT-Sept19.php">
-					<div class="col_int_6">
-						<div class="imgbox"><img class="center-fit" src="Images/small_phone_boxes.jpg"></div>
-						<h2 class="article-link-header">Is BT a contrarian buy?<br></h2>
-					</div>
-				</a>
-			</div>
+					<a href="https://www.evolving.money/InvIdeas/BT-Sept19.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/small_phone_boxes.jpg"></div>
+							<h2 class="article-link-header">Is BT a contrarian buy?<br></h2>
+						</div>
+					</a>
+				</div>
 					 
-			<div>
-				<a href="https://www.evolving.money/EMoney/cashback_websites.php">
-					<div class="col_int_6">
-						<div class="imgbox"><img class="center-fit" src="Images/spilled_cash_EM.jpg"></div>
-						<h2 class="article-link-header">Cashback websites</h2>
-					</div>
-				</a>
-			</div>
-		</div>
-			<div class="col_4 last" style="background-color:#fff"><div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
-	
-		</div>
+				<div>
+					<a href="https://www.evolving.money/EMoney/cashback_websites.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/spilled_cash_EM.jpg"></div>
+							<h2 class="article-link-header">Cashback websites</h2>
+						</div>
+					</a>
+				</div>
+			</div> <!-- End of col_8 !-->
+			
+			<div class="col_4 last" style="background-color:#fff">
+				<div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
+			</div> <!-- End of col_4 !-->
 				
 		<div class="clear"></div>
 				
-		</div>
+		</div> <!-- End of row !-->
 	
 		<div class="clear"></div>
 </div>			
