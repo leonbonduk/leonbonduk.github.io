@@ -219,7 +219,7 @@
 <li>London</li>
 <li>7.0mil</li>
 <li>£ 6.99</li>
-<li class="cd-features-subheading"><br></li>
+<li class="two_line cd-features-subheading"><br></li>
 <li>Debit card</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
@@ -230,7 +230,7 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="three_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li>8.9</li>
@@ -292,7 +292,7 @@
 <li>London</li>
 <li>7.0mil</li>
 <li>£ 12.99</li>
-<li class="cd-features-subheading"><br></li>
+<li class="two_line cd-features-subheading"><br></li>
 <li>Debit card</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
@@ -303,7 +303,7 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="three_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="cross"><span style="width: 22px;">Yes</span></li>
 <li>8.9</li>
@@ -364,7 +364,7 @@
 <li>London</li>
 <li>0.5mil</li>
 <li>£ 0.00</li>
-<li class="cd-features-subheading"><br></li>
+<li class="two_line cd-features-subheading"><br></li>
 <li>Current</li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li>Fees</li>
@@ -375,7 +375,7 @@
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
-<li class="cross"><span style="width: 22px;">Yes</span></li>
+<li class="three_line cross"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li class="tick"><span style="width: 22px;">Yes</span></li>
 <li>TBC</li>
