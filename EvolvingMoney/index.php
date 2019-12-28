@@ -71,7 +71,14 @@
 					<a href="https://www.evolving.money/EMoney/cashback_websites.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit" src="Images/spilled_cash_EM.jpg"></div>
-							<h2 class="article-link-header">Cashback websites</h2>
+							<h2 class="article-link-header">Cashflow from cashback websites</h2>
+						</div>
+					</a>
+					
+					<a href="https://www.evolving.money/EMoney/currensea_review.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/currensea_EM.jpg"></div>
+							<h2 class="article-link-header">Seemless low FX rates with Currensea</h2>
 						</div>
 					</a>
 				</div>
