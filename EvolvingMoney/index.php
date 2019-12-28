@@ -53,7 +53,7 @@
 				<div class="clear"></div>
 					      
 				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
-					<div class="col_int_8">
+					<div class="col_int_12">
 						<h1>Investment Ideas</h1>
 					</div>
 					
@@ -72,9 +72,11 @@
 						</div>
 					</a>
 				</div>
-					 
+				
+				<div class="clear"></div>
+					      
 				<div>
-					<div class="col_int_8">
+					<div class="col_int_12">
 						<h1>Other money saving ideas</h1>
 					</div>
 					
