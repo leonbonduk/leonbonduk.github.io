@@ -57,8 +57,7 @@
 						<h1>Investment Ideas</h1>
 					</div>
 					
-					<div class="clear"></div>
-					
+							
 					<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
