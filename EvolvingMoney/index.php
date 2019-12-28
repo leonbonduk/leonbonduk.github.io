@@ -52,7 +52,13 @@
 				
 				<div class="clear"></div>
 					      
-				<div>
+				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
+					<div class="col_int_8">
+						<h1>Investment Ideas</h1>
+					</div>
+					
+					<div class="clear"></div>
+					
 					<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
@@ -69,6 +75,12 @@
 				</div>
 					 
 				<div>
+					<div class="col_int_8">
+						<h1>Other money saving ideas</h1>
+					</div>
+					
+					<div class="clear"></div>
+					
 					<a href="https://www.evolving.money/EMoney/cashback_websites.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit" src="Images/spilled_cash_EM.jpg"></div>
