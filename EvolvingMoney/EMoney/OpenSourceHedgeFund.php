@@ -46,7 +46,7 @@
                     Contributors can make a lot of money if they are good. <p>
 
                 <p> For me this is an example of things to come, the rise in importance of algorithms and AI / automation has been much discussed. A much more important trend potentially
-                    at least in the short term, is likely to be the contributions of teams of people and computer algorithms working together... much discussed in the book Superminds 
+                    at least in the short term, is likely to be the contributions of teams of people and computer algorithms working together... much discussed in the book <a target="_blank" href="https://www.amazon.co.uk/gp/product/1786074702/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1786074702&linkCode=as2&tag=evolvingmoney-21&linkId=0980827271bfdad9d3f2c5dc2665cb82">Superminds</a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=evolvingmoney-21&l=am2&o=2&a=1786074702" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
                     by Thomas W Malone. Numerai is precisely an example of this in action in FinTech. <p>
 	</div>
 
