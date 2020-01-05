@@ -77,12 +77,18 @@
 				
 				
 					      
-				<div>
+				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
 					<div class="col_int_12">
 						<h1>E-Money</h1>
 					</div>
 					
 					<div class="clear"></div>
+					<a href="https://www.evolving.money/EMoney/what-is-emoney.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/EMoney.jpg"></div>
+							<h2 class="article-link-header">What is E-Money?</h2>
+						</div>
+					</a>
 					
 					<a href="https://www.evolving.money/EMoney/OpenSourceHedgeFund.php">
 						<div class="col_int_6">
