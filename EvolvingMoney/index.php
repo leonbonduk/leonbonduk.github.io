@@ -7,7 +7,7 @@
        	<title>Evolving Money</title>
         <meta name="description" content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
        	<meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking" />
-       	<meta name="author"content="Leon Bond" />
+       	<meta name="author"content="Leon Bond and James Day" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="robots" content="all" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -78,6 +78,23 @@
 				
 					      
 				<div>
+					<div class="col_int_12">
+						<h1>E-Money</h1>
+					</div>
+					
+					<div class="clear"></div>
+					
+					<a href="https://www.evolving.money/EMoney/OpenSourceHedgeFund.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/Numerai.jpg"></div>
+							<h2 class="article-link-header">Open Source Hedge Funds!</h2>
+						</div>
+					</a>
+					
+					
+				</div>
+				
+					      <div>
 					<div class="col_int_12">
 						<h1>Other money saving ideas</h1>
 					</div>
