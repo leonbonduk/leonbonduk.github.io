@@ -35,7 +35,7 @@
             		<br><br>
             		<a class="link" href="mailto:leon@evolving.money">leon@evolving.money</a>
            	 	<br><br>
-            		<a class="link" href="mailto:james_graham_day@yahoo.co.uk">james_graham_day@yahoo.co.uk</a>
+            		<a class="link" href="mailto:james@evolving.money">james@evolving.money</a>
             		<br><br>
 			Or connect with us on social media via the links at the bottom of the page...</p>	
 
