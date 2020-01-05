@@ -20,7 +20,11 @@
 <div class="row">
 
 	<div class="col_8 first" style="background-color:#fff">	
-		
+		<br>	 
+		<h1 class="h1_article">Seemless low FX rates with Currensea</h1>
+		<h3>Leon Bond, 5th January 2020</h3>
+		<p><img src="https://www.evolving.money/Images/Currensea.JPG" alt="Currensea debit card in circular flow between Barclays and currency sea" title="Currensea" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p>Currensea...</p>
 	</div>
 
 	<div class="col_4 last" style="background-color:#fff">
