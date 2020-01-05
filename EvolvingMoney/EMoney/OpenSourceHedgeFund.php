@@ -42,7 +42,7 @@
 
                 <p> It's a bit like <strong>Wikipedia</strong> for technical analysis and stock market prediction models, combined with <strong>Crowdfunder</strong>...  Inspired. <p>
 
-                <p> In the background it uses Cryptocurrency, Blockchain and Smart Contracts, to automatically pay and rank everyone providing models, and compute rankings and performance. 
+                <p> In the background it uses Cryptocurrency, Blockchain and Smart Contracts, to automatically pay everyone providing models, and to compute rankings and performance. 
                     Contributors can make a lot of money if they are good. <p>
 
                 <p> For me this is an example of things to come, the rise in importance of algorithms and AI / automation has been much discussed. A much more important trend potentially
