@@ -23,7 +23,7 @@
 		<br>	 
 		<h1 class="h1_article">Open Source Hedge Funds!</h1>
 		<h3>James Day, 5th January 2020</h3>
-		<p> <strong>NumerAi</strong> the open-source hedge fund,  </p>
+		<h2> <strong>NumerAi</strong> the open-source hedge fund  </h2>
 
                 <p> Open source is a term we here from software, where the source code is freely available, but what does this have to do with hedge funds? <p>
 
