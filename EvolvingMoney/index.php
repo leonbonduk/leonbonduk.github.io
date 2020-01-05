@@ -86,7 +86,7 @@
 					
 					<a href="https://www.evolving.money/EMoney/OpenSourceHedgeFund.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/Numerai.jpg"></div>
+							<div class="imgbox"><img class="center-fit" src="Images/numerai.jpg"></div>
 							<h2 class="article-link-header">Open Source Hedge Funds!</h2>
 						</div>
 					</a>
