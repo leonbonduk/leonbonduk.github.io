@@ -32,7 +32,7 @@
 	<div class="row">
 		<div class="col_9 first" style="background-color:#fff">
 
-		<p> Sorry no alcohol here! Bit hopefully you find this Guides and Tools section useful. A mix of books and websites we have found useful in learning the world of investment oppportunities. We have even collated a glossary of terms to help decipher all the confusing terminology you may come across!
+		<p> Sorry no alcohol here! But hopefully you find this Guides and Tools section useful. A mix of books and websites we have found useful in learning the world of investment oppportunities. We have even collated a glossary of terms to help decipher all the confusing terminology you may come across!
 		</p>
 	</div>
 
