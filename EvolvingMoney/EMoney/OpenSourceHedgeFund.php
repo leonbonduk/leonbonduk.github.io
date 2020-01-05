@@ -21,8 +21,8 @@
 
 	<div class="col_8 first" style="background-color:#fff">	
 		<br>	 
-		<h1 class="h1_article">Cashflow from cashback websites!</h1>
-		<h3>Leon Bond, 27th December 2019</h3>
+		<h1 class="h1_article">Open Source Headge Funds!</h1>
+		<h3>James Day, 5th January 2020</h3>
 		<p> NumerAI the open-source hedge fund,  </p>
 
                 <p> Open source is a term we here from software, where the source code is freely available, but what does this have to do with hedge funds? <p>
