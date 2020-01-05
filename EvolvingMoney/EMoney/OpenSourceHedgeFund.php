@@ -21,7 +21,7 @@
 
 	<div class="col_8 first" style="background-color:#fff">	
 		<br>	 
-		<h1 class="h1_article">Open Source Headge Funds!</h1>
+		<h1 class="h1_article">Open Source Hedge Funds!</h1>
 		<h3>James Day, 5th January 2020</h3>
 		<p> NumerAI the open-source hedge fund,  </p>
 
