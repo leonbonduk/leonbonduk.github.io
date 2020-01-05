@@ -23,7 +23,7 @@
 		<br>	 
 		<h1 class="h1_article">Open Source Hedge Funds!</h1>
 		<h3>James Day, 5th January 2020</h3>
-		<p> NumerAI the open-source hedge fund,  </p>
+		<p> <strong>NumerAi</strong> the open-source hedge fund,  </p>
 
                 <p> Open source is a term we here from software, where the source code is freely available, but what does this have to do with hedge funds? <p>
 
@@ -31,16 +31,16 @@
                     These algorithms are kept closely guarded, and are not something a normal hedge fund would share, but in the case of NumerAI that it is precisily these tools
                     that are shared. <p>		 
 
-		<p> The reason that  (<strong>NumerAi</strong>) do this is to take advanatage of the network effects of having many contributors providing algorithms in a competition format. 
+		<p> The reason that  <strong>NumerAi</strong> do this is to take advanatage of the network effects of having many contributors providing algorithms in a competition format. 
                     The crowd generated algorithms they end up with, are derived by much larger teams than any hedge fund could afford on their own,  and from a comminity of highly skilled 
-                    data scientists. Traditional algorithms used for trading were predominantly statistical models used for price prediction, but the (<strong>NumerAi</strong>) community  
+                    data scientists. Traditional algorithms used for trading were predominantly statistical models used for price prediction, but the <strong>NumerAi</strong> community  
                     make use of the latest tools in data science an machine learning, (an area that Hedge funds are only just breaking into). <p>
 
-                <p> The (<strong>NumerAi</strong>) team have incentivised the crowd to work for them in a competion based market place, and contributors compete to provide better algorithms. 
+                <p> The <strong>NumerAi</strong> team have incentivised the crowd to work for them in a competion based market place, and contributors compete to provide better algorithms. 
                     This costs a lot less money than hiring people to do it. Pay is in a competition format so effectively they only have to pay the winners. Also their workforce 
                     pay to be involved, and effectively crowd fund the hedge fund. It's a very creative solution that harnesses technology and the crowd together. <p>
 
-                <p> It's a bit like (<strong>Wikipedia</strong>) for technical analysis and stock market prediction models, combined with (<strong>Crowdfunder</strong>)...  Inspired. <p>
+                <p> It's a bit like <strong>Wikipedia</strong> for technical analysis and stock market prediction models, combined with <strong>Crowdfunder</strong>...  Inspired. <p>
 
                 <p> In the background it uses Cryptocurrency, Blockchain and Smart Contracts, to automatically pay and everyone providing models, and compute rankings and performance. 
                     Contributors can make a lot of money if they are good. <p>
