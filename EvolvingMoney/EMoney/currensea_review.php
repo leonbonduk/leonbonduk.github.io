@@ -3,7 +3,7 @@
 <head>		
 	<meta charset="UTF-8">
        	<title>Seemless low FX rates with Currensea</title>	
- 	<meta name="description" content="Get seemless low fx rates with Currensea on online and overseas transactions. No need to prefund like challenger banks, draws funds directly from standard bank account." />
+ 	<meta name="description" content="Get seamless low fx rates with Currensea on online and overseas transactions. No need to prefund like challenger banks, draws funds directly from standard bank account." />
    	<meta name="keywords" content="Currensea, fx ,low fx rates, travel, overseas fx, foreign exchange" />
        	<meta name="author" content="Leon Bond" />
 	<meta name="robots" content="all">
@@ -21,7 +21,7 @@
 
 	<div class="col_8 first" style="background-color:#fff">	
 		<br>	 
-		<h1 class="h1_article">Seemless low FX rates with Currensea</h1>
+		<h1 class="h1_article">Seamless low FX rates with Currensea</h1>
 		<h3>Leon Bond, 5th January 2020</h3>
 		<p><img src="https://www.evolving.money/Images/Currensea.JPG" alt="Currensea debit card in circular flow between Barclays and currency sea" title="Currensea" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
 		<p>With a plethora of app based challenger banks now doing the rounds with most offering ultra-low fx rates as one  of their main selling points versus the incumbent banks such as Barclays, HSBC, Lloyds etc on first glance it may not be apparent what the point is of new comer Currensea.</p>
