@@ -41,7 +41,7 @@
 		<h2>Is it worth it?</h2>
 		<p>So overall:</p>
 		<ul class="Glossary">
-			<li>Starling is a little cheaper than Currensea with rates 0.1% lower but then if you are not using Starling as your main bank account there is a lot more hassle on funding the account and dealing with residual funds.</li>
+			<li>Starling is a little cheaper than Currensea with rates 0.1% lower but then if you are not using Starling as your main bank account there is a lot more hassle in funding the account and dealing with residual funds.</li>
 			<li>Revolut can be cheaper if the transaction is within trading desk hours or if only withdrawing less than £200 from a cash machine in a month. Once you withdraw more than £200 then Currensea is significantly cheaper. Again, there is the hassle of funding the account if this is not your main account.</li>
 			<li>With typical savings of 85% over the charges and rates of Barclays, Lloyds, HSBC etc it is just a no brainer that you would not use these for overseas transactions unless you absolutely had to!</li>
 		</ul>
