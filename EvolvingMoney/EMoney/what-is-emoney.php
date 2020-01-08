@@ -29,7 +29,7 @@
 	<div class="clear"></div>
 
 	<div class="row">
-		<div class="col_9 first" style="background-color:#fff">
+		<div class="col_8 first" style="background-color:#fff">
 
 		<p> One of the most exciting and least understood areas in finance is online purchasing and how it's still changing. Commerce has moved online, and those that have made 
 			e-commerce "frictionless" (<strong>Paypal, Amazon, Alibaba</strong>) have slaughtered the competition. It hasn't stopped with <strong>Amazon</strong> and <strong>Paypal</strong>, innovations continue. Payments systems like <strong>Transferwise</strong> 
@@ -44,8 +44,22 @@
 
 	</div>
 
-		<div class="col_3 last" style="background-color:#fff">
+		<div class="col_4 last" style="background-color:#fff">
 			<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg"></div>
+		</div>
+		
+		<div class="vertical_ad">
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Native_vertical_banner -->
+			<ins class="adsbygoogle"
+     			style="display:block"
+     			data-ad-client="ca-pub-3169172932709847"
+     			data-ad-slot="1100347920"
+     			data-ad-format="auto"
+     			data-full-width-responsive="true"></ins>
+			<script>
+     			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
 		</div>
 
 	</div>
