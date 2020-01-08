@@ -82,8 +82,8 @@
      			(adsbygoogle = window.adsbygoogle || []).push({});
 			</script> !-->
 			 
-			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			<!-- Native_vertical_banner -->
+			<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			Native_vertical_banner 
 			<ins class="adsbygoogle"
      			style="display:block"
      			data-ad-client="ca-pub-3169172932709847"
@@ -92,7 +92,18 @@
      			data-full-width-responsive="true"></ins>
 			<script>
      			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script> !-->
+			 
+			 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Native_vertical_banner_fixed -->
+			<ins class="adsbygoogle"
+     			style="display:inline-block;width:450px;height:1200px"
+    			data-ad-client="ca-pub-3169172932709847"
+     			data-ad-slot="1100347920"></ins>
+			<script>
+     			(adsbygoogle = window.adsbygoogle || []).push({});
 			</script>
+			 
 	
 		</div>
 	</div>
