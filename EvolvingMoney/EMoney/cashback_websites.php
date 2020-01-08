@@ -62,13 +62,13 @@
 
 	<div class="col_4 last" style="background-color:#fff">
 	
-		<div>
+		<div class="vertical_ad">
 			<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox">
 				<img class="center-fit" src="../Images/Comp_chall_banks.png", alt="bank cards"></div></a>
 		
 		</div>
 	
-		 <div class="vertical_ad">
+		<div class="vertical_ad">
 			 
 			 <!--
 			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -92,7 +92,7 @@
      			data-full-width-responsive="true"></ins>
 			<script>
      			(adsbygoogle = window.adsbygoogle || []).push({});
-			</script> !-->
+			</script>
 			 
 			<!--  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 			Native_vertical_banner_fixed 
