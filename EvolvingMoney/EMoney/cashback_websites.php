@@ -68,7 +68,9 @@
 		
 		</div>
 	
-		<div>
+		 <div>
+			 
+			 <!--
 			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 			<ins class="adsbygoogle"
     			style="display:block; text-align:center;"
@@ -78,7 +80,20 @@
      			data-ad-slot="6547992014"></ins>
 			<script>
      			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script> !-->
+			 
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Native_vertical_banner -->
+			<ins class="adsbygoogle"
+     			style="display:block"
+     			data-ad-client="ca-pub-3169172932709847"
+     			data-ad-slot="1100347920"
+     			data-ad-format="auto"
+     			data-full-width-responsive="true"></ins>
+			<script>
+     			(adsbygoogle = window.adsbygoogle || []).push({});
 			</script>
+	
 		</div>
 	</div>
 	
