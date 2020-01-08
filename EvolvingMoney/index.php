@@ -106,7 +106,7 @@
 					<div class="clear"></div>
 				</div>
 				
-					      <div>
+				<div>
 					<div class="col_int_12">
 						<h1>Saving Money:</h1>
 					</div>
@@ -126,13 +126,39 @@
 							<h2 class="article-link-header">Seamless low FX rates with Currensea</h2>
 						</div>
 					</a>
+					<div class="col_int_6">
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<ins class="adsbygoogle"
+     						style="display:block; text-align:center;"
+     						data-ad-layout="in-article"
+     						data-ad-format="fluid"
+     						data-ad-client="ca-pub-3169172932709847"
+     						data-ad-slot="1508607694"></ins>
+						<script>
+     						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+					</div>
+					
+					<div class="col_int_6">
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<ins class="adsbygoogle"
+     						style="display:block; text-align:center;"
+     						data-ad-layout="in-article"
+     						data-ad-format="fluid"
+     						data-ad-client="ca-pub-3169172932709847"
+     						data-ad-slot="1508607694"></ins>
+						<script>
+     						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+					</div>
+					
 				</div>
 			</div> <!-- End of col_8 !-->
 			
 			<div class="col_4 last" style="background-color:#fff">
 				<div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
 				
-				<div>
+				<!-- <div>
 					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 					<ins class="adsbygoogle"
      					style="display:block; text-align:center;"
@@ -153,6 +179,20 @@
      					data-ad-format="fluid"
      					data-ad-client="ca-pub-3169172932709847"
      					data-ad-slot="1508607694"></ins>
+					<script>
+     					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+				</div> !-->
+				
+				<div class="vertical_ad">
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- Native_vertical_banner -->
+					<ins class="adsbygoogle"
+     					style="display:block"
+     					data-ad-client="ca-pub-3169172932709847"
+     					data-ad-slot="1100347920"
+     					data-ad-format="auto"
+     					data-full-width-responsive="true"></ins>
 					<script>
      					(adsbygoogle = window.adsbygoogle || []).push({});
 					</script>
