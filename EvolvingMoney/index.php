@@ -126,6 +126,27 @@
 							<h2 class="article-link-header">Seamless low FX rates with Currensea</h2>
 						</div>
 					</a>
+					
+					<a href="https://www.evolving.money/InvIdeas/Freetrade.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/Smartphone.jpg"></div>
+							<h2 class="article-link-header">Review of fee free trading with Freetrade</h2>
+						</div>
+					</a>
+					
+					<div class="col_int_6">
+						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<ins class="adsbygoogle"
+     						style="display:block; text-align:center;"
+     						data-ad-layout="in-article"
+     						data-ad-format="fluid"
+     						data-ad-client="ca-pub-3169172932709847"
+     						data-ad-slot="1508607694"></ins>
+						<script>
+     						(adsbygoogle = window.adsbygoogle || []).push({});
+						</script>
+					</div>
+					
 					<div class="col_int_6">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 						<ins class="adsbygoogle"
