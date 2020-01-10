@@ -26,7 +26,7 @@
 		<p><img src="https://www.evolving.money/Images/numerai.jpg" alt="Numerai hexagonal logo at top of three skyscrapers" title="Numerai" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
 		<h2> <strong>NumerAi</strong> the open-source hedge fund </h2>
                 <p> Open source is a term we hear from software, where the source code is freely available, but what does this have to do with hedge funds? <p>
-                <p> In hedge funds quants generate models for technical analysis of stock prices. Algorithms tend to do the larger proportion of the trading rather than a human trader.
+                <p> In quant hedge funds teams generate models for technical analysis of stock prices. Algorithms tend to do the larger proportion of the trading rather than a human trader.
                     These algorithms are kept closely guarded, and are not something a normal hedge fund would share, but in the case of NumerAI, it is precisely these algorithms
                     that are shared. <p>		 
 		<p> The reason that  <strong>NumerAi</strong> do this is to take advantage of the network effects of having many contributors providing algorithms in a competition format. 
