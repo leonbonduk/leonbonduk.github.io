@@ -70,8 +70,8 @@
     <p>To invest in funds or in a SIPP wrapper will warrant maintaining another broker’s account anyway but the ability to trade for free with Freetrade and with the security of protection of up to £85k with the FCA means it is too much of bargain to ignore! Also the chance it offers to trade smaller  amounts and more frequently will make playing the stock market a lot more exciting.</p>
     <p>Even though smaller and more frequent trades are now accessible the account also suits people whose strategy is a more longer term, buy and hold approach.</p>
     <h2>Free cash and shares!</h2>
-    <p>To illustrate the effectiveness of the account you may find following my sub-blog of interest where I attempt to grow free cash in my Freetrade account: <a href="https://www.evolving.money/InvIdeas/FTFC.php">Free Trading with Free Cash blog</a></p>
-    <p>If you’re interested in opening a Freetade account then they regularly provide referral offers where we both receive a random UK or US share to the value of up t o £200! If you are seriously interested in opening an account then drop me an email at following link and I will email back with a referral link if I have one available: <a class="link" href="mailto:leon@evolving.money">leon@evolving.money</a></p>
+    <p>To illustrate the effectiveness of the account you may find following my sub-blog of interest where I attempt to grow free cash in my Freetrade account: <a class="link" href="https://www.evolving.money/InvIdeas/FTFC.php">Free Trading with Free Cash blog</a></p>
+    <p>If you’re interested in opening a Freetade account then they regularly provide referral offers where we both receive a random UK or US share to the value of up to £200! If you are seriously interested in opening an account then drop me an email at following link and I will email back with a referral link if I have one available: <a class="link" href="mailto:leon@evolving.money">leon@evolving.money</a></p>
 
 	</div>
 
