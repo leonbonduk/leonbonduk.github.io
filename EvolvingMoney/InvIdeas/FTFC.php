@@ -34,9 +34,9 @@
 		<p>31/12/2019: Received £17 for being referred to Quidco cashback website.  Find out more in this <a class="link" href="https://www.evolving.money/EMoney/cashback_websites.php">article</a>. Or use the following referral link and currently we both receive £10 if you sign up and earn £5 of other cashback!</p>
 		<p>25/12/2019: Received £15 for being referred to Monese challenger bank account.  Find out more in this <a class="link" href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php">article</a>. Or use this following referral <a class="link" href="https://monese.app.link/aZ388btKc1?invite=LEONB035">link</a> and currently we both receive £20 if you sign up to Monese!</p>
 		<h2>Free Trading</h2>
-		<p>Performance: Invested funds only 0.2% down due to Pearson and BT but early days so nothing to worry about yet. Ceres Power’s share price however still appears to have some momentum behind it and so the overall portfolio is relatively break even currently.</p>
+		<p><bold>Performance:</bold> Invested funds only 0.2% down due to Pearson and BT but early days so nothing to worry about yet. Ceres Power’s share price however still appears to have some momentum behind it and so the overall portfolio is relatively break even currently.</p>
 		<p><img src="https://www.evolving.money/Images/Freetrade.png" alt="Table of trades" title="Table of trading performance" style="width:auto;height:auto; margin: 1%; padding: 1%;"/> </p>
-		<p>Trades:</p>
+		<p><bold>Trades:</bold></p>
 		<p>3/1/2020: Freetrade allocated a free share in Pearson for referring a friend. I don't know too much about the company, but appears to be near 10 year lows and going through a restructure to simplify the business so appears to be a contrarian play that is potentially worth a gamble so I have retained…</p>
 		<p>2/1/2020: Bought 6 shares in Ceres Power at a cost of £16.24. There seems to be some strong momentum on this share, tapping into the carbon neutral theme, possibly overinflated price, but will try and ride the momentum for a while.</p>
 		<p>30/12/2019: Bought 7 shares in BT at a cost of £13.76. After the election result, risks of nationalisation has fallen away, with 7%+ dividend yield I think BT should still appreciate further from price at time of my <a class="link" href="https://www.evolving.money/InvIdeas/BT-Sept19.php">article</a>.</p>
