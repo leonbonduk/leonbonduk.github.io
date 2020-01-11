@@ -7,8 +7,8 @@
        	<title>Evolving Money</title>
         <meta name="description" content="Guide to new types of investments and ways of managing money, along with some macro and contrarian investment opportunites" />
        	<meta name="keywords" content="investments, new, macro, crypto, contrarian, p2p, banking" />
-       	<meta name="author"content="Leon Bond and James Day" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+       	<meta name="author" content="Leon Bond and James Day" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="robots" content="all" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<script src="https://evolving.money/table-nodejs/slideshow.js"></script> <!-- SLideshow js -->
@@ -32,18 +32,20 @@
 					 	<div class="slideshow-inner">
               						<div class="mySlides fade">
                   						<a href="https://www.evolving.money/InvIdeas/FTFC.php"> 
-					            		<div class="imgbox"><img class="center-fit" src="Images/Free_Trading.png"></div>
-
+					            		<div class="imgbox"><img class="center-fit" src="Images/Free_Trading.png" alt="smart phone surrounded by electronic financial symbols"></div>
+								</a>
               						</div>
 							<div class="mySlides fade">
                   					<!-- <a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"> !-->
 								<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"> 
 					            		<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div>
-              						</div>
+								</a>
+							</div>
               						<div class="mySlides fade">
                    						<a href="https://www.evolving.money/InvIdeas/index.php">
 					            			<div class="imgbox"><img class="center-fit" src="Images/investment_ideas.png"></div>
-              						</div>
+								</a>
+							</div>
               						<a class="prev" onclick='plusSlides(-1)'>&#10094;</a>
               						<a class="next" onclick='plusSlides(1)'>&#10095;</a>
          			 		</div>   <!-- end of slideshow-inner !-->
