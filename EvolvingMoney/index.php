@@ -43,7 +43,7 @@
 							</div>
               						<div class="mySlides fade">
                    						<a href="https://www.evolving.money/InvIdeas/index.php">
-					            			<div class="imgbox"><img class="center-fit" src="Images/investment_ideas.png"></div>
+					            			<div class="imgbox"><img class="center-fit" src="Images/investment_ideas.png" alt="Wooden letter blocks spelling Invest with piles of coins on and keys and wodden house at the end"></div>
 								</a>
 							</div>
               						<a class="prev" onclick='plusSlides(-1)'>&#10094;</a>
