@@ -62,7 +62,7 @@
 					      
 				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
 					<div class="col_int_12">
-						<h1>Investments:</h1>
+						<h1><strong>Investments:</strong></h1>
 					</div>
 					
 							
@@ -87,7 +87,7 @@
 					      
 				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
 					<div class="col_int_12">
-						<h1>E-Money:</h1>
+						<h1><strong>E-Money:</strong></h1>
 					</div>
 					
 					<div class="clear"></div>
@@ -110,7 +110,7 @@
 				
 				<div>
 					<div class="col_int_12">
-						<h1>Saving Money:</h1>
+						<h1><strong>Saving Money:</strong></h1>
 					</div>
 					
 					<div class="clear"></div>
