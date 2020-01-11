@@ -38,7 +38,7 @@
 							<div class="mySlides fade">
                   					<!-- <a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"> !-->
 								<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"> 
-					            		<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png"></div>
+					            		<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png" alt="Scattered bank cards"></div>
 								</a>
 							</div>
               						<div class="mySlides fade">
@@ -68,14 +68,14 @@
 							
 					<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg"></div>
+							<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish flag"></div>
 							<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?</h2>
 						</div>
 					</a>
 									       
 					<a href="https://www.evolving.money/InvIdeas/BT-Sept19.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/small_phone_boxes.jpg"></div>
+							<div class="imgbox"><img class="center-fit" src="Images/small_phone_boxes.jpg" alt="Red phone box"></div>
 							<h2 class="article-link-header">Is BT a contrarian buy?<br></h2>
 						</div>
 					</a>
@@ -93,14 +93,14 @@
 					<div class="clear"></div>
 					<a href="https://www.evolving.money/EMoney/what-is-emoney.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/EMoney.jpg"></div>
+							<div class="imgbox"><img class="center-fit" src="Images/EMoney.jpg" alt="Bitcoin and  bank notes on a keyboard"></div>
 							<h2 class="article-link-header">What is E-Money?</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/EMoney/OpenSourceHedgeFund.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/numerai.jpg"></div>
+							<div class="imgbox"><img class="center-fit" src="Images/numerai.jpg" alt="Hexagonal maze symbol atop three skyscrapers"></div>
 							<h2 class="article-link-header">Open Source Hedge Funds!</h2>
 						</div>
 					</a>
@@ -117,21 +117,21 @@
 					
 					<a href="https://www.evolving.money/EMoney/cashback_websites.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/spilled_cash_EM.jpg"></div>
+							<div class="imgbox"><img class="center-fit" src="Images/spilled_cash_EM.jpg" alt="Cash falling  out of a jar on its side"></div>
 							<h2 class="article-link-header">Cashflow from cashback websites</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/EMoney/currensea_review.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/currensea_EM.jpg"></div>
+							<div class="imgbox"><img class="center-fit" src="Images/currensea_EM.jpg" alt="Two hands exchanging a euro and dollar note"></div>
 							<h2 class="article-link-header">Seamless low FX rates with Currensea</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/InvIdeas/Freetrade.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/Smartphone.jpg"></div>
+							<div class="imgbox"><img class="center-fit" src="Images/Smartphone.jpg" alt="Smart phone surrounded by financial symbols"></div>
 							<h2 class="article-link-header">Review of fee free trading with Freetrade</h2>
 						</div>
 					</a>
@@ -179,7 +179,7 @@
 			</div> <!-- End of col_8 !-->
 			
 			<div class="col_4 last" style="background-color:#fff">
-				<div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg"></div>
+				<div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg" alt="Evolvinmg Money text surrounded by circle of financial symbols"></div>
 				
 				<!-- <div>
 					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
