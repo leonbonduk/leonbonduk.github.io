@@ -18,7 +18,7 @@
 	<?php include("../includes/test-header.html");?>
 
 <div>
-	<div class="row" margin: 0, 0;>
+	<div class="row" style="margin: 0, 0;">
 		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox">
     				<img class="left-fit-page-heading" src="https://www.evolving.money//Images/EMoney_logo.GIF" alt="EMoney title in blue and orange">
