@@ -11,6 +11,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="robots" content="all" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<meta name="msvalidate.01" content="3443AD6F8D78FC033BB9F11D3C8D9931" />
 	<script src="https://evolving.money/table-nodejs/slideshow.js"></script> <!-- SLideshow js -->
 	<script data-ad-client="ca-pub-3169172932709847" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<link rel="canonical" href="https://www.evolving.money/">
