@@ -38,7 +38,7 @@
               						</div>
 							<div class="mySlides fade">
                   					<!-- <a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"> !-->
-								<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"> 
+								<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp2.php"> 
 					            		<div class="imgbox"><img class="center-fit" src="Images/Comp_chall_banks.png" alt="Scattered bank cards"></div>
 								</a>
 							</div>
