@@ -121,9 +121,9 @@
 <li class="two_line">Current account<br>Interest AER</li>
 <li class="two_line cd-features-subheading">Borrowings</li>
 <li class="one_line">Approved Overdraft</li>
-<li class="one_line">Approved overdaft<br>interest rate</li>
-<li>Cap</li>
-<li>Unapproved overdraft int</li>
+<li class="two_line">Approved overdaft<br>interest rate</li>
+<li class="one_line">Int rate cap</li>
+<li class="two_line">Unapproved<br>overdraft int</li>
 <li class="one_line">Loans</li>
 <li class="one_line">Loans typical rate</li>
 <li class="two_line cd-features-subheading">Other features</li>
@@ -195,8 +195,8 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span>No</span></li>
+<li class="two_line">N/A</li>
 <li class="one_line">N/A</li>
-<li class="one_line"></li>
 <li class="two_line">N/A</li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -267,8 +267,8 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span>No</span></li>
+<li class="two_line">N/A</li>
 <li class="one_line">N/A</li>
-<li class="one_line"></li>
 <li class="two_line">N/A</li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -339,8 +339,8 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span>No</span></li>
+<li class="two_line">N/A</li>
 <li class="one_line">N/A</li>
-<li class="one_line"></li>
 <li class="two_line">N/A</li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -411,7 +411,7 @@
 <li class="two_line">0.5% to £2k</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line"><£5k</li>
-<li class="one_line">15%</li>
+<li class="two_line">15%</li>
 <li class="one_line cross"><span>No</span></li>
 <li class="two_line">15%</li>
 <li class="one_line tick"><span>Yes</span></li>
@@ -483,7 +483,7 @@
 <li class="two_line"><1.71%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line"><£1k</li>
-<li class="one_line cross"><span>No</span></li>
+<li class="two_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="two_line cross"><span>No</span></li>
 <li class="one_line"><£15k</li>
@@ -555,7 +555,7 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span>No</span></li>
-<li class="one_line cross"><span>No</span></li>
+<li class="two_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="two_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -627,7 +627,7 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line"><£250</li>
-<li class="one_line">£20 + 75p per day</li>
+<li class="two_line">£20 + 75p per day</li>
 <li class="one_line">£10 per month</li>
 <li class="two_line cross"><span>No</span></li>
 <li class="one_line">Short term loans up to £400</li>
@@ -699,7 +699,7 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line"><£250</li>
-<li class="one_line">£20 + 75p per day</li>
+<li class="two_line">£20 + 75p per day</li>
 <li class="one_line">£10 per month</li>
 <li class="two_line cross"><span>No</span></li>
 <li class="one_line">Short term loans up to £400</li>
@@ -771,7 +771,7 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line"><£250</li>
-<li class="one_line">£20 + 75p per day</li>
+<li class="two_line">£20 + 75p per day</li>
 <li class="one_line">£10 per month</li>
 <li class="two_line cross"><span>No</span></li>
 <li class="one_line">Short term loans up to £400</li>
@@ -843,8 +843,8 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span>No</span></li>
-<li class="one_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="two_line cross"><span>No</span></li>
+<li class="one_line">N/A</li>
 <li class="two_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -915,8 +915,8 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span>No</span></li>
-<li class="one_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="two_line cross"><span>No</span></li>
+<li class="one_line">N/A</li>
 <li class="two_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -987,8 +987,8 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span>No</span></li>
-<li class="one_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="two_line cross"><span>No</span></li>
+<li class="one_line">N/A</li>
 <li class="two_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -1059,8 +1059,8 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span>No</span></li>
-<li class="one_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="two_line cross"><span>No</span></li>
+<li class="one_line">N/A</li>
 <li class="two_line">14.9%</li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -1131,8 +1131,8 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span>No</span></li>
-<li class="one_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="two_line cross"><span>No</span></li>
+<li class="one_line">N/A</li>
 <li class="two_line">14.9%</li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -1203,8 +1203,8 @@
 <li class="two_line">0.0%</li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="one_line cross"><span>No</span></li>
-<li class="one_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="two_line cross"><span>No</span></li>
+<li class="one_line">N/A</li>
 <li class="two_line">14.9%</li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
