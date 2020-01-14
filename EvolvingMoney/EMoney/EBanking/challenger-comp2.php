@@ -67,7 +67,6 @@
 			<div class="features">
 				<div class="top-info">Account</div>
 				
-
 <ul class="cd-features-list">
 <li class="one_line">Launched</li>
 <li class="one_line">Origin</li>
@@ -491,7 +490,7 @@
 <li class="two_line cd-features-subheading"><br></li>
 <li class="two_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
-<li class="one_line cross"><span>No</span></li>
+<li class="one_line tick"><span>Yes</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 </ul>
@@ -571,7 +570,7 @@
 <li class="product">
 <div class="top-info">
 <div class="check"></div>
-<img class="col-fit-img" src="https://evolving.money/Images/Cashplus_actice_logo_EM.png" alt="product image">
+<img class="col-fit-img" src="https://evolving.money/Images/Cashplus_active_logo_EM.png" alt="product image">
 <h3 class="comp_title">Cashplus Activeplus</h3>
 </div> <!-- .top-info -->
 <ul class="cd-features-list">
@@ -850,7 +849,7 @@
 <li class="one_line cross"><span>No</span></li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="two_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -922,7 +921,7 @@
 <li class="one_line cross"><span>No</span></li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="two_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -994,7 +993,7 @@
 <li class="one_line cross"><span>No</span></li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="two_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -1066,7 +1065,7 @@
 <li class="one_line cross"><span>No</span></li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="two_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -1138,7 +1137,7 @@
 <li class="one_line cross"><span>No</span></li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="two_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
@@ -1210,12 +1209,14 @@
 <li class="one_line cross"><span>No</span></li>
 <li class="two_line cd-features-subheading"><br></li>
 <li class="two_line cross"><span>No</span></li>
-<li class="one_line"></li>
+<li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 <li class="one_line cross"><span>No</span></li>
 </ul>
 </li> <!-- .product -->
+
+
 
 
 
