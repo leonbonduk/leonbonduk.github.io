@@ -45,7 +45,7 @@
 		</p>
 	</div>
 		<div class="col_3 last" style="background-color:#fff">
-			<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg" alt="Evolving.Money logo"></div>
+			<div class="imgbox zoomy"><img class="center-fit" src="https://www.evolving.money/Images/EM_circ_logo.jpg" alt="Evolving.Money logo"></div>
 		</div>
 	</div>
 	<div class="clear"></div>
