@@ -17,14 +17,14 @@
 		<link rel="stylesheet" type="text/css" href="https://evolving.money/css/960-12-col.css" />
 </head>
 
-<body onload="document.body.className += ' loaded';" class="zoominandout">
+<body>
 
 	<?php include("../../includes/test-header.html");?>
 
 <div>
 	<div class="row">
 		<div class="col_12 first" style="background-color:#fff">
-			<div class="imgbox">
+			<div class="imgbox zoom">
     				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/Banking_logo.GIF" alt="Banking.Money">
 			</div>
 		</div>
