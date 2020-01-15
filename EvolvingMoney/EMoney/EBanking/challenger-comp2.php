@@ -17,7 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="https://evolving.money/css/960-12-col.css" />
 </head>
 
-<body onload="document.body.setAttribute('class','loaded')">
+<body onload="document.body.className += ' loaded';" class="fadein">
 
 	<?php include("../../includes/test-header.html");?>
 
