@@ -24,7 +24,7 @@
 <div>
 	<div class="row">
 		<div class="col_12 first" style="background-color:#fff">
-			<div class="imgbox">
+			<div class="imgbox zoomy">
     				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/Banking_logo.GIF" alt="Banking.Money">
 			</div>
 		</div>
