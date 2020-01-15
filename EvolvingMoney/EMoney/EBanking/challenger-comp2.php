@@ -17,7 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="https://evolving.money/css/960-12-col.css" />
 </head>
 
-<body onload="document.body.className += ' loaded';" class="fadein">
+<body>
 
 	<?php include("../../includes/test-header.html");?>
 
@@ -50,7 +50,7 @@
 	</div>
 	<div class="clear"></div>
 
-</div>
+</div onload="document.body.className += ' loaded';" class="fadein">
 	<section class="cd-intro">
 		
 		<h1>Challenger Bank Comparison Table</h1>
