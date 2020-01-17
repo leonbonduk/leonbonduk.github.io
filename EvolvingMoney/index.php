@@ -137,18 +137,12 @@
 						</div>
 					</a>
 					
-					<div class="col_int_6">
-						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-						<ins class="adsbygoogle"
-     						style="display:block; text-align:center;"
-     						data-ad-layout="in-article"
-     						data-ad-format="fluid"
-     						data-ad-client="ca-pub-3169172932709847"
-     						data-ad-slot="1508607694"></ins>
-						<script>
-     						(adsbygoogle = window.adsbygoogle || []).push({});
-						</script>
-					</div>
+					<a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/Sportpursuit.jpg" alt="Two hands exchanging a euro and dollar note"></div>
+							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off RRP</h2>
+						</div>
+					</a>
 					
 					<div class="col_int_6">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
