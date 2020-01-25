@@ -555,7 +555,20 @@ body
        /* clear: right; */
 }
 
-.site-footer .site-footer-left p{
+.site-footer .site-footer-left h1{
+        text-align: left;
+        width: 100%; 
+        margin: 20px auto 20px auto;
+        font-weight: bold;
+        font-style: normal;
+        font-family: helvetica, sans-serif;;
+        font-size: 100%;
+        color: white;
+       /* letter-spacing: 0.15 em;*/
+      /*  line-height: 1.5 em    */
+    
+}
+.site-footer .site-footer-left a{
         text-align: left;
         width: 100%; 
         margin: 20px auto 20px auto;
@@ -568,6 +581,7 @@ body
       /*  line-height: 1.5 em    */
     
 }
+
 .fa {
   padding: 1.5em;  /* 10px make circles wider */
   font-size: 0.8em; /* 20px */
