@@ -28,7 +28,7 @@
 
  		<div class="row">
 			<div class="col_8 first" >
-				 <div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
+				 <div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #FF9300;">
 				      <div class="slideshow-container">
 					 	<div class="slideshow-inner">
               						<div class="mySlides fade">
@@ -61,7 +61,7 @@
 				
 				<div class="clear"></div>
 					      
-				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
+				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #FF9300;">
 					<div class="col_int_12">
 						<h1><strong>Investments:</strong></h1>
 					</div>
@@ -86,7 +86,7 @@
 				
 				
 					      
-				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
+				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #FF9300;">
 					<div class="col_int_12">
 						<h1><strong>E-Money:</strong></h1>
 					</div>
