@@ -23,7 +23,7 @@
 		<br>	 
 		<h1 class="h1_article">Smart Securities and Inteligent Markets!</h1>
 		<h3>James Day, 26th January 2020</h3>
-		<p><img src="https://www.evolving.money/Images/symbiont.jpg" alt="Symbiont logo" title="Symbiont" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p><img src="https://www.evolving.money/Images/Symbiont.jpg" alt="Symbiont logo" title="Symbiont" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
 		<h2> <strong> Symbiont</strong> </h2>
 		
 		<p> Symbiont are key player binging innovation to finance. Their main objective is to use smart contracts and blockchain in finance; 
