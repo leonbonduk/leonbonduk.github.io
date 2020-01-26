@@ -106,6 +106,20 @@
 						</div>
 					</a>
 					
+					<a href="https://www.evolving.money/EMoney/Symbiont.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/Symbiont.jpg" alt="Crowds of people connected by lines of light"></div>
+							<h2 class="article-link-header">Smart Securities and Inteligent Markets</h2>
+						</div>
+					</a>
+					
+					<a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/Sportpursuit.jpg" alt="Two hands exchanging a euro and dollar note"></div>
+							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off RRP</h2>
+						</div>
+					</a>
+					
 					<div class="clear"></div>
 				</div>
 				
