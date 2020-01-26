@@ -15,7 +15,7 @@
 	<script src="https://evolving.money/table-nodejs/slideshow.js"></script> <!-- SLideshow js -->
 	<script data-ad-client="ca-pub-3169172932709847" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<link rel="canonical" href="https://www.evolving.money/">
-	<link href="css/styles.css" type="text/css" rel="stylesheet" />
+	<link href="../css/styles.css" type="text/css" rel="stylesheet" />
 	<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/slideshow.css" />
@@ -29,9 +29,9 @@
  		<div class="row">
 					
 			<div class="col_8 first" >
-				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
+				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #FF9300;">
 					<div class="col_int_12">
-						<h1><strong>E-Money Blog articles:</strong></h1>
+						<h1><strong>E-Money Blog:</strong></h1>
 					</div>
 					
 					<div class="clear"></div>
@@ -97,7 +97,7 @@
 			</div> <!-- End of col_8 !-->
 			
 			<div class="col_4 last" style="background-color:#fff">
-				<div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg" alt="Evolvinmg Money text surrounded by circle of financial symbols"></div>
+				<div class="imgbox"><img class="center-fit" src="../Images/EM_circ_logo.jpg" alt="Evolving Money text surrounded by circle of financial symbols"></div>
 				
 				
 				<div class="vertical_ad">
