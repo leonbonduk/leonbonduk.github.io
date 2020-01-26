@@ -21,8 +21,7 @@
 <div>
 	<div class="row">
 		<div class="col_9 first" style="background-color:#fff">
-			<h1>Terms and Conditions</h1>
-			<h1>Terms & Conditions</h1>
+			<h1 class="h1_article">Terms & Conditions</h1>
 			<p>The Evolving Money website and services are only provided for your general information and use and are not intended to cater for your particular requirements. Evolving Money and its staff <!--, and Evolving Money Limited (the “Company) !--> do not accept any liability for any loss suffered by any reader or user of our website as a result on any investment decision.</p>
 			<h2>General Terms and Conditions of Website Use</h2>
 			<p>These General Terms and Conditions, together with the documents referred to below (the “Agreement”), tell you the terms and conditions on which you may make use of www.evolving.money (the “Website”). If you do not agree to the terms and conditions of this Agreement you must not use the Website. The provisions of this Agreement do not affect your statutory rights as a consumer.<p>
@@ -37,7 +36,7 @@
 			<p>We process information about you in accordance with our Privacy Policy. You consent to such processing and you confirm that all data provided by you is accurate.<p>
 			<h2>Investment Warning</h2>
 			<p>The Websites and the Services are:</p>
-			<ul>
+			<ul class="Glossary">
 				<li>only provided for you</li>
 				<li>not intended to be relied upon by you in making or not making any investment decisions.</li>
 			</ul>
@@ -46,7 +45,7 @@
 			<h2>Private Investor (non-professional)<h2>
 			<p>You agree that in entering into this Agreement you will at all times be acting as a private investor (non-professional) and not in the course of any employment, trade or profession which you may carry on.</p>
 			<p>For regulatory purposes, you are a private investor if you meet all of the following criteria for the entire term of your subscription.</p>
-			<ul>
+			<ul class="Glossary">
 				<li>You are subscribing to the service in a personal capacity.</li>
 				<li>You are not currently registered or qualified as a professional securities trader or investment adviser with any national or state exchange, regulatory authority, professional association or recognised professional body.</li>
 				<li>You do not currently act in any capacity as an investment advisor, whether or not you have at some time been qualified to do so.</li>
@@ -73,7 +72,7 @@
 			<p>You warrant and undertake not to use the Website in connection with any unlawful or illegal purpose, or so as to bring the Company and their businesses, products or services into disrepute. You also warrant not to use the site with any automated page retrieval tool.</p>
 			<p>You agree to indemnify us against any and all claims, losses, liabilities, damages and expenses (including legal fees) arising out of your misuse of the Website.</p>
 			<p>We may terminate this Agreement:</p>
-			<ul>
+			<ul class="Glossary">
 				<li>immediately, upon notice in writing, in the event that you are in breach of this Agreement; or</li>
 				<li>upon not less than one month’s notice in writing at any time.</li>
 			</ul>
@@ -86,7 +85,7 @@
 			<h2>Content Submission Policy</h2>
 			<p>The Website<!--Company!--> encourages User Comments on the Website and Facebook page. User Comments are subject to the following rules: Stay on topic and be respectful of others. Never submit anything unlawful, threatening, abusive, harassing, obscene, defamatory, any material that would violate the law or the rights of others, or any material that you know or think might be false, inaccurate or misleading. Please do not post “ad hominem” or personal attacks against other users or the Company’s employees. Although you are welcome to reference and link to other blogs and web sites in your comment, commercial solicitations or advertising for other personal or commercial blogs and websites are not permitted. Repeatedly making the same post in multiple places is not allowed, and links to obscene or offensive sites are strictly prohibited. When in doubt, remember, the Website and our Facebook page are public forums. Use the same judgment and care you would when standing in front of an audience of thousands.</p>
 			<p>By submitting any User Content, you represent and warrant that:</p>
-			<ul>
+			<ul class="Glossary">
 				<li>you are the sole author and owner of the intellectual property rights thereto;</li>
 				<li>all “moral rights” that you may have in such content have been voluntarily waived by you;</li>
 				<li>all content that you post is accurate;</li>
@@ -94,7 +93,7 @@
 				<li>use of the content you supply does not violate these Terms and Conditions and will not cause injury to any person or entity.</li>
 			</ul>
 			<p>You further agree and warrant that you shall not submit any User Content:</p>
-			<ul>
+			<ul class="Glossary">
 				<li>that is known by you to be false, inaccurate or misleading;</li>
 				<li>that infringes any third party’s copyright, patent, trademark, trade secret or other proprietary rights or rights of publicity or privacy;</li>
 				<li>that violates any law, statute, ordinance or regulation (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising);</li>
