@@ -23,7 +23,7 @@
 </head>
 <body>
 	
-	<?php include("includes/test-header.html");?>
+	<?php include("../includes/test-header.html");?>
 <div>	
 
  		<div class="row">
@@ -36,29 +36,29 @@
 					<div class="clear"></div>
 					<a href="https://www.evolving.money/EMoney/what-is-emoney.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/EMoney.jpg" alt="Bitcoin and  bank notes on a keyboard"></div>
+							<div class="imgbox"><img class="center-fit" src="../Images/EMoney.jpg" alt="Bitcoin and  bank notes on a keyboard"></div>
 							<h2 class="article-link-header">What is E-Money?</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/EMoney/OpenSourceHedgeFund.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/numerai.jpg" alt="Hexagonal maze symbol atop three skyscrapers"></div>
+							<div class="imgbox"><img class="center-fit" src="../Images/numerai.jpg" alt="Hexagonal maze symbol atop three skyscrapers"></div>
 							<h2 class="article-link-header">Open Source Hedge Funds!</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/EMoney/symbiont.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/Symbiont.jpg" alt="Crowds of people connected by lines of light"></div>
+							<div class="imgbox"><img class="center-fit" src="../Images/Symbiont.jpg" alt="Crowds of people connected by lines of light"></div>
 							<h2 class="article-link-header">Smart Securities and Intelligent Markets</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/Sportpursuit.jpg" alt="Two hands exchanging a euro and dollar note"></div>
-							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off RRP</h2>
+							<div class="imgbox"><img class="center-fit" src="../Images/Sportpursuit.jpg" alt="Two hands exchanging a euro and dollar note"></div>
+							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off</h2>
 						</div>
 					</a>
 					
@@ -98,31 +98,6 @@
 			<div class="col_4 last" style="background-color:#fff">
 				<div class="imgbox"><img class="center-fit" src="Images/EM_circ_logo.jpg" alt="Evolvinmg Money text surrounded by circle of financial symbols"></div>
 				
-				<!-- <div>
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<ins class="adsbygoogle"
-     					style="display:block; text-align:center;"
-     					data-ad-layout="in-article"
-     					data-ad-format="fluid"
-     					data-ad-client="ca-pub-3169172932709847"
-     					data-ad-slot="6547992014"></ins>
-					<script>
-     					(adsbygoogle = window.adsbygoogle || []).push({});
-					</script>
-				</div>
-				
-				<div>
-					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<ins class="adsbygoogle"
-     					style="display:block; text-align:center;"
-     					data-ad-layout="in-article"
-     					data-ad-format="fluid"
-     					data-ad-client="ca-pub-3169172932709847"
-     					data-ad-slot="1508607694"></ins>
-					<script>
-     					(adsbygoogle = window.adsbygoogle || []).push({});
-					</script>
-				</div> !-->
 				
 				<div class="vertical_ad">
 					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -146,7 +121,7 @@
 		<div class="clear"></div>
 </div>			
 
-<?php include("includes/footer.html");?>
+<?php include("../includes/footer.html");?>
 
 </body>
 </html>
