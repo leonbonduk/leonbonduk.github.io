@@ -109,7 +109,7 @@
 					<a href="https://www.evolving.money/EMoney/symbiont.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit" src="Images/Symbiont.jpg" alt="Crowds of people connected by lines of light"></div>
-							<h2 class="article-link-header">Smart Securities and Inteligent Markets</h2>
+							<h2 class="article-link-header">Smart Securities and Intelligent Markets</h2>
 						</div>
 					</a>
 					
