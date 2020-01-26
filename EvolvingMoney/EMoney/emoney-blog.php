@@ -31,7 +31,7 @@
 			<div class="col_8 first" >
 				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #274168;">
 					<div class="col_int_12">
-						<h1><strong>E-Money:</strong></h1>
+						<h1><strong>E-Money Blog articles:</strong></h1>
 					</div>
 					
 					<div class="clear"></div>
