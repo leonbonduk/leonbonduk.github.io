@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
        	<title>Free Trading With Free Cash</title>	
  	<meta name="description" content="Join us on a journey of growing free cash from cashback sites and sign up bonuses on the stock market using fee free trading apps to maximise growth rates!" />
-   	<meta name="keywords" content="Free cash, free trading, free shares, Freetrade, free investing, money for nothing" />
+   	<meta name="keywords" content="Free cash, free trading, free shares, Freetrade, free investing, money for nothing, Trading 212" />
        	<meta name="author" content="Leon Bond" />
 	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -31,10 +31,12 @@
 	<div class="col_8 first" style="background-color:#fff">	
 		<br>	 
 		<h1 class="h1_article">Free Trading With Free Cash!</h1>
-		<h3>Leon Bond, 6th January 2020</h3>
+		<h3>Leon Bond, 27th January 2020</h3>
 		<p><img src="https://www.evolving.money/Images/Free_Trading_small.png" alt="Business man watering plant sprouting cash notes" title="Money does grow on trees" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
-		<p>Join me on a dual journey of maximising free cash obtained from cashback offers, such as cashback websites and banking sign up bonuses, and then taking that free cash tand growing it even further by trading on the stock market using the fee free trading app, Freetrade. I intend to keep this blog fairly up to date with my transactions each week so please keep coming back.</p>
-		<p>Freetrade lends itself to trading in small amounts due to it’s lack of fees as well as allowing higher frequency trading so I thought it would be interesting to actually see how much it is possible to grow the free cash from trading on a mixture of shares that have caught my eye and discussed in other articles in this blog, as well as trading on a few opportunities that I have not had time to research fully or not certain on the risk-reward potential but think worth a shot since I am trading with free cash. I am hoping trading with free cash will also remove some nervousness to trade that you get when you have more skin in the game so it will also be interesting to see how this portfolio performs against my more risk adverse portfolio. To find out more about the Freetrade app then take a look at this <a class="link" href="https://www.evolving.money/InvIdeas/Freetrade.php">article</a>.</p>
+		<p>Join me on a dual journey of maximising free cash obtained from cashback offers, such as cashback websites and banking sign up bonuses, and then taking that free cash tand growing it even further by trading on the stock market using the fee free trading apps Freetrade and <a class="link" href="https://www.trading212.com/invite/FMADhhHs">Trading 212</a>. I intend to keep this blog fairly up to date with my transactions each week so please keep coming back.</p>
+		<p>Fee free trading apps such as Freetrade and <a class="link" href="https://www.trading212.com/invite/FMADhhHs">Trading 212</a> lend themselves to trading in small amounts due to their lack of fees as well as allowing higher frequency trading so I thought it would be interesting to actually see how much it is possible to grow the free cash by trading on a mixture of shares that have caught my eye and discussed in other articles in this blog, as well as trading on a few opportunities that I have not had time to research fully or those for which which I am not certain of the risk-reward potential but think worth a shot since I am trading with free cash. I am hoping trading with free cash will also remove some nervousness to trade that you get when you have more skin in the game so it will also be interesting to see how this portfolio performs against my more risk adverse portfolio.</p>
+		<p>To find out more about the Freetrade app then take a look at this <a class="link" href="https://www.evolving.money/InvIdeas/Freetrade.php">article</a>.</p>
+		<p>I have only just started using the Trading 212 app, having found out about it since my article on Freetrade, initally it appears more feature richl, with features such as fractional share trading already availablem, and also with lower fees such as on it's ISA account, so potentially Trading 212 could be the more favourable platform! I will try and write an article on it soon, but in the meantime if you use the following referral <a class="link" href="https://www.trading212.com/invite/FMADhhHs">link</a> we will both get a free share worth up to £100.</p>
 		<h2>Free cash</h2>
 		<p>So far I have received £80.91 of free cash in the space of a couple of months, find out more below:</p>
 		<p><img src="https://www.evolving.money/Images/Freecash.png" alt="Table of free cash" title="Table of free cash received" style="max-width:100%; height:auto; margin: 1%; padding: 1%;"/> </p>
