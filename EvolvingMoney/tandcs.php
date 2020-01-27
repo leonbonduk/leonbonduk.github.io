@@ -42,7 +42,7 @@
 			</ul>
 			<p>If in doubt please seek independent financial advice.</p>
 			<p>The price of shares and investments and the income derived from them can go down as well as up, and investors may not get back the amount they invested. Past performance cannot be relied upon as a guide to future performance.</p>
-			<h2>Private Investor (non-professional)<h2>
+			<h2>Private Investor (non-professional)</h2>
 			<p>You agree that in entering into this Agreement you will at all times be acting as a private investor (non-professional) and not in the course of any employment, trade or profession which you may carry on.</p>
 			<p>For regulatory purposes, you are a private investor if you meet all of the following criteria for the entire term of your subscription.</p>
 			<ul class="Glossary">
