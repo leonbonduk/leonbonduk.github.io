@@ -12,6 +12,15 @@
 	<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157104566-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+
+  	gtag('config', 'UA-157104566-1');
+	</script>
 </head>
 
 <body>
@@ -46,6 +55,8 @@
 			<li>With typical savings of 85% over the charges and rates of Barclays, Lloyds, HSBC etc it is just a no brainer that you would not use these for overseas transactions unless you absolutely had to!</li>
 		</ul>
 		<p>It’s therefore a toss up as to what means most to you… Go for Currensea if you want substantially cheaper rates over your incumbent bank’s rates but prefer less hassle. Otherwise go for Starling for slightly better rates or Revolut for potentially zero fees (depending on the timing), but don’t mind the additional hassle of funding the account. Unless you already regularly use a challenger bank, in which case Currensea may not offer much to you except if you need to take advantage of the additional ability to withdraw fee free from a cash machine.</p>
+		<h2>Refferal link</h2>
+		<p>If you sign up to Currensea through this <a class="link" href="https://www.secure.currensea.com/referral/LB1SIC">link</a> Currensea will plant six trees! Suppsosedly help offfset any overseas travel you are doing in using their card. I will not get any referral fee but will make me all warm and fuzzy in side to know we are benefiting the enviroment somehwat.</p>
 
 	</div>
 
