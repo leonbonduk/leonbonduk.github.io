@@ -34,7 +34,7 @@
 		<h3>James Day, 26th January 2020</h3>
 		<p><img src="https://www.evolving.money/Images/Symbiont.jpg" alt="Symbiont logo" title="Symbiont" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
 		<h2><strong>Symbiont</strong> </h2>
-		<p>Symbiont are a key player binging innovation to finance. Their main objective is to use smart contracts and blockchain in finance; 
+		<p>Symbiont are a key player bringing innovation to finance. Their main objective is to use smart contracts and blockchain in finance; 
 	 	     and they look specifically at securities bonds and equities.<p>
 		<p>From their perspective, <strong> within 20 years financial services will be software</strong>. This is a reality of game theory... 
 		    because some players are adopting the approach, and benefits of adoption are so high, all will have to adopt to compete. <p>
