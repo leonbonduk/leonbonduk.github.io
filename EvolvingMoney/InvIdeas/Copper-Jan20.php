@@ -32,14 +32,25 @@
 		<br>	 
 		<h1 class="h1_article">Has copper caught a cold?</h1>
 		<h3>Leon Bond, 28th January 2020, Wisdomtree Copper ETF (COPA), Price $23.84</h3>
-		<p><img src="https://www.evolving.money/Images/copper_EM.jpg" alt="Messy pile of scrap copper pipes" title="Turkish Delight" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
-		<p>Since Turkey's incursion into Syria a few days ago  Turkey's stock market has fallen to fresh lows with the MSCI Turkey index down 18% since 30th September! It remains 13% higher than the lows seen in May this year however.</p> 
-		<p>With a ceasefire now negotiated by Trump as of today, and the Kurds having allowed the Syrian government forces up to protect the border the markets could now drift back up to their highs seen just a couple of weeks ago.</p>
-		<h2>Other market details</h2>
-		<p>Turkey's market was already very cheap before this retracement, due in the most part to the political turmoil of the Turkish president's regime, President Erdoğan. The Turkish MSCI index was following simlar market trends to the general MSCI EMerging Markets Index from 2004 right up to 2016. But since shortly before the attempted coup in 2016, however, the Turkish market has diverged considerably from the rest of the emerging markets, diverging by about 50%.</p>
-		<p>At 30th September the MSCI Turkey index had a P/E ratio of 8.2 and a forward P/E ratio of 6.3! This compares to the MSCI Emerging Markets index which had P/E ratio of 13.2 and a forward P/E ratio of 11.9. Therefore the Turkish market is trading at approximately half the value of other emerging markets...</p>
-		<h2>High risk opportunity</h2>
-		<p>Although this is obviously a high risk play given the current Syrian situation, the market valuations provide some comfort that even if the short term bet does not pan out, if you can hold for longer term then this should at least return to slightly more sensible valuations, although coming fully back in line with the other emerging markets is unlikely for the foreseeable future until the internal political situation in Turkey settles down also.</p>
+		<p><img src="https://www.evolving.money/Images/copper_EM.jpg" alt="Messy pile of scrap copper pipes" title="Copper pipes" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p>Copper prices took a turn down on Monday from an 8-month high of $26.45 and now currently trade on $23.84 on Tuesday.  This is not far of 3-year lows of $23.23 seen back in September last year and from which point the copper price had been making steady gains to the recent high! It is believed this is being driven by fears surrounding the coronavirus spreading around China and the subsequent actions to lock down travel around the country which could impact the country’s economy and so demand for copper.</p>
+		<p>With 4,500 confirmed infections and more than 100 reported to have died in China this is not a situation to be taken likely. But in likelihood this should be no deadlier than influenza which kills thousands every winter, and barely gets any headlines as we are used to it.</p>
+		<h2>Supply…</h2>
+		<p>For the first 9 months of 2019 supply of copper fell 0.4% and levels held in warehouses appears to be low with LME and Shanghai stocks at their lowest levels since 2014.</p>
+		<p>It is well known that the large copper mines of South America are now depleting rapidly with lower grades now available, particularly in Peru, and inflationary pressures due to strikes and unrest in the likes of Chile over the rising cost of living should help support the price of Copper.</p>
+		<p>Large reserves can be found in the Congo but this is not a particularly stable country into which to invest with recent civil war claiming over 6million lives and the continued unrest, upheaval and corruption since. Therefore it is unlikely any significant levels of supply will be forthcoming from this source.</p>
+		<p>It would appear then that the mining companies will struggle to replace output for same level of cost as their mines age over the next few years.</p>
+		<h2>… and Demand</h2>
+		<p>With significant amounts of copper needed in the manufacture of electric cars and renewable energy generation demand should continue to grow in the longer term and hopefully somewhat exponentially as electric vehicles become more mainstream. Also the prospect of continued improving relations between USA and China should help drive demand despite the recent coronavirus outbreak.
+		<p><a class="link" href="https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Sustainability/Our%20Insights/How%20technology%20is%20reshaping%20supply%20and%20demand%20for%20natural%20resources/MGI-Beyond-the-Supercycle-Executive-summary.ashx">McKinsey</a> believe demand could increase by up to 43% in the next 15 years!</p>
+		<h2>Opportunity</h2>
+		<p>I believe this recent pull back in the copper price could be a great buying opportunity so will start with a small trade and see how the coronavirus plays out and hopefully buy some more over the next couple of weeks if the risk of the coronavirus drops away.</p>
+			
+		<div style="background-color:#8a8a8a" >
+			<p><strong>How to trade:</strong><br><br>As this impact in the copper price appears to be more on the price of copper rather than any impact currently on copper miner's share prices the best and cheapest way to play such a short term market opportunity like this is via an ETC (an Exchange Traded Commodity which works in a similar manner to an Exchange Traded Fund or ETF), which are usually passively managed and so have low management fees. As they are traded on a stock exchange they usually also have a smaller spread when buying or selling compared to a standard unit trust fund. It is also best to make sure a reputable provider is choosen to ensure counter party risk is minimised, i.e. risk that they will go bust is minimised. I have decided to take a small stake in WisdomTree's Copper ETC trading under the ticker COPA which attempts to replciate the performance in the copper price by tracking the Bloomberg Copper Subindex through the use of swaps with the investment banks of Citigroup and Merrill Lynch and charges a management fee of only 0.5%.<br><br>Synthetic replication is riskier than through buying the commodity directly but with commidities it is harder and more expensive to hold the asset directly than with equities in an ETF. As the conterparties are reputable and with strong credit ratings the risk should still be fairly minimal however.<br><br>You should be able to buy this ETC through most online brokers in a similar manner to a normal company share, just search for the ticker COPA on your broker's trading screen.<br>  
+			</p>
+		</div>
+	
 	</div>
 
 	<div class="col_4 last" style="background-color:#fff">
@@ -117,10 +128,7 @@
 	
 	<div class="clear"></div>
 	
-	<div class="col_8 first" style="background-color:#8a8a8a" >
-<p>How to trade:<br><br>As this impact in the copper price appears to be more on the price of copper rather than any impact currently on copper miner's share prices the best and cheapest way to play such a short term market opportunity like this is via an ETF, which are usually passively managed and so have low management fees. As they are traded on a stock exchange they usually also have a smaller spread when buying or selling compared to a standard unit trust fund. It is also best to make sure a reputable provider is choosen to ensure counter party risk is minimised, i.e. risk that they will go bust is minimised. I have decided to take a small stake in WisdomTree's Copper ETF trading under the ticker COPA which attempts to replciate the performance in the copper price by tracking the Bloomberg Copper Subindex through the use of swaps with the investment banks of Citigroup and Merrill Lynch and charges a management fee of only 0.5%.<br><br>Synthetic replication is riskier than through buying the commodity directly but with commidities it is harder and more expensive to hold the asset directly than with equities in an ETF. As the conterparties are reputable and with strong credit ratings the risk should still be fairly minimal however.<br><br>You should be able to buy this ETC through most online brokers in a similar manner to a normal company share, just search for the ticker COPA on your broker's trading screen.<br><br>I have onlt taken a small stake currently to see how the coroavirus pans out in next few days and so potnetially buy more if price falls any further.  
-</p>
-	</div>
+	
 	
 	<div class="clear"></div>
 </div>
