@@ -42,7 +42,7 @@
 					 	<div class="slideshow-inner">
               						<div class="mySlides fade">
                   						<a href="https://www.evolving.money/InvIdeas/FTFC.php"> 
-					            		<div class="imgbox"><img class="center-fit" src="Images/Free_Trading.png" alt="smart phone surrounded by electronic financial symbols"></div>
+					            		<div class="imgbox"><img class="center-fit" src="Images/Free_Trading.png" alt="Suited man watering a money tree"></div>
 								</a>
               						</div>
 							<div class="mySlides fade">
@@ -75,7 +75,20 @@
 						<h1><strong>Investments:</strong></h1>
 					</div>
 					
-							
+					<a href="https://www.evolving.money/InvIdeas/Copper-Jan20.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/copper_EM.jpg" alt="A messy pile of scrap copper pipes"></div>
+							<h2 class="article-link-header">Has copper caught a cold?</h2>
+						</div>
+					</a>
+					
+					<a href="https://www.evolving.money/InvIdeas/FTFC.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="Images/Free_Trading_small_EM.png" alt="Suited man watering a money tree"></div>
+							<h2 class="article-link-header">Fee free trading with free cash blog</h2>
+						</div>
+					</a>
+					
 					<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish flag"></div>
