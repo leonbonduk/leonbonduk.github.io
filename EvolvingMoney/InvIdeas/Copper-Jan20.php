@@ -38,7 +38,7 @@
 		<h2>Supply…</h2>
 		<p>For the first 9 months of 2019 supply of copper fell 0.4% and levels held in warehouses appears to be low with LME and Shanghai stocks at their lowest levels since 2014.</p>
 		<p>It is well known that the large copper mines of South America are now depleting rapidly with lower grades now available, particularly in Peru, and inflationary pressures due to strikes and unrest in the likes of Chile over the rising cost of living should help support the price of Copper.</p>
-		<p>Large reserves can be found in the Congo but this is not a particularly stable country into which to invest with recent civil war claiming over 6million lives and the continued unrest, upheaval and corruption since. Therefore it is unlikely any significant levels of supply will be forthcoming from this source.</p>
+		<p>Large reserves can be found in the Congo but this is not a particularly stable country into which to invest with recent civil war claiming over 6 million lives and the continued unrest, upheaval and corruption since. Therefore it is unlikely any significant levels of supply will be forthcoming from this source.</p>
 		<p>It would appear then that the mining companies will struggle to replace output for same level of cost as their mines age over the next few years.</p>
 		<h2>… and Demand</h2>
 		<p>With significant amounts of copper needed in the manufacture of electric cars and renewable energy generation demand should continue to grow in the longer term and hopefully somewhat exponentially as electric vehicles become more mainstream. Also the prospect of continued improving relations between USA and China should help drive demand despite the recent coronavirus outbreak.
