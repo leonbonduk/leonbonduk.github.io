@@ -13,6 +13,15 @@
 	<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157104566-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+  	gtag('config', 'UA-157104566-1');
+	</script>
+	
 </head>
 
 <body>
@@ -24,7 +33,7 @@
 		<br>	 
 		<h1 class="h1_article">Cashflow from cashback websites!</h1>
 		<h3>Leon Bond, 27th December 2019</h3>
-		<p><img src="https://www.evolving.money/Images/spilled_cash_EM.jpg" alt="Coins spilling out of a jar" title="Cashback websites" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/spilled_cash_EM.jpg" alt="Coins spilling out of a jar" title="Cashback websites"> </p>
 		<p>Cashback websites and their associated smartphone apps are a great way at earning money back from your online purchases! On clicking though to the retailer from either the cashback app or website, cookies track the transaction and usually a few weeks after the transaction has completed you will receive some cash back that can typically range from 1% up to 15% and sometimes even more.</p>
 		<p>If you also use a cashback credit card then you can in effect double dip to maximise cash coming back to you on your purchases.</p>
 		<h2>How do the cashback websites work</h2>
@@ -68,6 +77,11 @@
 		
 		</div>
 	
+		<div>
+			<a href="https://www.evolving.money/InvIdeas/FTFC.php"><div class="imgbox">
+				<img class="center-fit" src="../Images/Free_Trading.png", alt="Suited man watering a money tree"></div></a>
+		</div>
+		
 		<div class="vertical_ad">
 			 
 			 <!--
