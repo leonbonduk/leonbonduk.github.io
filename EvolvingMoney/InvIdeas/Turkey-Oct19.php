@@ -32,7 +32,7 @@
 		<br>	 
 		<h1 class="h1_article">Turkish Delight</h1>
 		<h3>Leon Bond, 18th October 2019, HSBC ETFs plc MSCI Turkey (HTRY), Price £1.69</h3>
-		<p><img src="https://www.evolving.money/Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish Flag" title="Turkish Delight" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish Flag" title="Turkish Delight"> </p>
 		<p>Since Turkey's incursion into Syria a few days ago  Turkey's stock market has fallen to fresh lows with the MSCI Turkey index down 18% since 30th September! It remains 13% higher than the lows seen in May this year however.</p> 
 		<p>With a ceasefire now negotiated by Trump as of today, and the Kurds having allowed the Syrian government forces up to protect the border the markets could now drift back up to their highs seen just a couple of weeks ago.</p>
 		<h2>Other market details</h2>
@@ -82,6 +82,11 @@
 			<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox">
 				<img class="center-fit" src="../Images/Comp_chall_banks.png", alt="bank cards"></div></a>
 		
+		</div>
+		
+		<div>
+			<a href="https://www.evolving.money/InvIdeas/FTFC.php"><div class="imgbox">
+				<img class="center-fit" src="../Images/Free_Trading.png", alt="Suited man watering a money tree"></div></a>
 		</div>
 	
 	</div>
