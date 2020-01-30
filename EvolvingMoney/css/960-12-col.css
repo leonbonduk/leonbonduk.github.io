@@ -44,7 +44,7 @@ margin:1.0% 0 1.0% 0; /* auto */
 
 .article-img-fit {
         max-width: 100%;
-	width: auto;
+	width: 33%;
         max-height: 100vh;
         float: left; 
 	margin: 1%; 
