@@ -12,6 +12,15 @@
 	<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157104566-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+  	gtag('config', 'UA-157104566-1');
+	</script>
+	
 </head>
 
 <body>
@@ -23,7 +32,7 @@
 		<br>	 
 		<h1 class="h1_article">Fee free trading</h1>
 		<h3>Leon Bond, 9th January 2020</h3>
-		<p><img src="https://www.evolving.money/Images/Freetrade_screen.png" alt="Smart phone screen showing share price chart" title="Freetrade app screenshot" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/Freetrade_screen.png" alt="Smart phone screen showing share price chart" title="Freetrade app screenshot"> </p>
 		<p>One of the biggest bug bears of trading are the fees charged by brokers which limit the ability to trade in small amounts or effectively trade on short timescales without significantly eroding your gains!</p>
     <p>A typical broker fee is of the order of £10 so if you were to make a £1k trade with a one year horizon, say, buying in would effectively cost you 1% of your investment and then, assuming no movement in share price, selling out would cost a further 1%. If you were trade that £1k four times in a year instead then fees would quickly add up to 8% of the value of your capital traded and more frequent trading would be ridiculous. But of course, hopefully on most of those trades you will have made some money such that you are trading larger amounts on the later trades and so the effective cost of the fees comes down, but that is not guaranteed.</p>
     <p>Freetrade (https://freetrade.io/), a UK based fintech start-up, have recently launched a smartphone app in last year that significantly reduces these fees, offering a basic order which is completely free! Although this executes at only 3 to 4pm each day, otherwise you can trade instantly for a paltry £1.</p>
@@ -83,6 +92,10 @@
 		
 		</div>
 	
+		<div>
+			<a href="https://www.evolving.money/InvIdeas/FTFC.php"><div class="imgbox">
+				<img class="center-fit" src="../Images/Free_Trading.png", alt="Suited man watering a money tree"></div></a>
+		</div>
 		
 		<div class="vertical_ad">
 			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
