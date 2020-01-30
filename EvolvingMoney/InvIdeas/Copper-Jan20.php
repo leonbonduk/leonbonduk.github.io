@@ -32,7 +32,7 @@
 		<br>	 
 		<h1 class="h1_article">Has copper caught a cold?</h1>
 		<h3>Leon Bond, 28th January 2020, Wisdomtree Copper ETF (COPA), Price $23.84</h3>
-		<p><img src="https://www.evolving.money/Images/copper_EM.jpg" alt="Messy pile of scrap copper pipes" title="Copper pipes" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/copper_EM.jpg" alt="Messy pile of scrap copper pipes" title="Copper pipes"> </p>
 		<p>Copper prices took a turn down on Monday from an 8-month high of $26.45 and now currently trade on $23.84 on Tuesday.  This is not far of 3-year lows of $23.23 seen back in September last year and from which point the copper price had been making steady gains to the recent high! It is believed this is being driven by fears surrounding the coronavirus spreading around China and the subsequent actions to lock down travel around the country which could impact the country’s economy and so demand for copper.</p>
 		<p>With 4,500 confirmed infections and more than 100 reported to have died in China this is not a situation to be taken likely. But in likelihood this should be no deadlier than influenza which kills thousands every winter, and barely gets any headlines as we are used to it.</p>
 		<h2>Supply…</h2>
