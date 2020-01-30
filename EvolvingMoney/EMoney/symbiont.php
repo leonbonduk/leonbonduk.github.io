@@ -32,7 +32,7 @@
 		<br>	 
 		<h1 class="h1_article">Smart Securities and Intelligent Markets!</h1>
 		<h3>James Day, 26th January 2020</h3>
-		<p><img src="https://www.evolving.money/Images/Symbiont.jpg" alt="Symbiont logo" title="Symbiont" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/Symbiont.jpg" alt="Symbiont logo" title="Symbiont"> </p>
 		<h2><strong>Symbiont</strong> </h2>
 		<p>Symbiont are a key player bringing innovation to finance. Their main objective is to use smart contracts and blockchain in finance; 
 	 	     and they look specifically at securities bonds and equities.<p>
@@ -57,6 +57,10 @@
 		
 		</div>
 	
+		<div>
+			<a href="https://www.evolving.money/InvIdeas/FTFC.php"><div class="imgbox">
+				<img class="center-fit" src="../Images/Free_Trading.png", alt="Suited man watering a money tree"></div></a>
+		</div>
 		
 		<div class="vertical_ad">
 			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
