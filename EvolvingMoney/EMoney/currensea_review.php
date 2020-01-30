@@ -32,7 +32,7 @@
 		<br>	 
 		<h1 class="h1_article">Seamless low FX rates with Currensea</h1>
 		<h3>Leon Bond, 5th January 2020</h3>
-		<p><img src="https://www.evolving.money/Images/Currensea.JPG" alt="Currensea debit card in circular flow between Barclays and currency sea" title="Currensea" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/Currensea.JPG" alt="Currensea debit card in circular flow between Barclays and currency sea" title="Currensea"> </p>
 		<p>With a plethora of app based challenger banks now doing the rounds with most offering ultra-low fx rates as one  of their main selling points versus the incumbent banks such as Barclays, HSBC, Lloyds etc on first glance it may not be apparent what the point is of new comer Currensea.</p>
 		<h2>Currensea’s offering</h2>
 		<p>Currensea does not try to offer a full replacement bank account like the other offerings. A lot of people dabble with the new challenger banks but do not fully adopt them as their main bank account. If the main reason for opening a challenger bank account is to get access to the improved fx rates and charges then it can be a bit of a phaff to top up the prepaid cards ahead of using the card on an overseas transaction, firstly having to work out approximately how much sterling equivalent will be necessary and then having to set up a bank transfer. After the transaction has completed residual cash will be left sitting on the account otherwise you will have to action a further transfer of the residual bank to your main bank account!</p>
@@ -68,6 +68,11 @@
 		
 		</div>
 	
+		<div>
+			<a href="https://www.evolving.money/InvIdeas/FTFC.php"><div class="imgbox">
+				<img class="center-fit" src="../Images/Free_Trading.png", alt="Suited man watering a money tree"></div></a>
+		</div>
+		
 		<div class="vertical_ad">
 			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 			<!-- Native_vertical_banner -->
