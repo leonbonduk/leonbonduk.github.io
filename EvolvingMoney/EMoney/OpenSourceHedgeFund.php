@@ -12,6 +12,16 @@
 	<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157104566-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+  	gtag('config', 'UA-157104566-1');
+	</script>
+	
 </head>
 
 <body>
@@ -23,7 +33,7 @@
 		<br>	 
 		<h1 class="h1_article">Open Source Hedge Funds!</h1>
 		<h3>James Day, 5th January 2020</h3>
-		<p><img src="https://www.evolving.money/Images/numerai.jpg" alt="Numerai hexagonal logo at top of three skyscrapers" title="Numerai" style="width:300px;height:auto;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/numerai.jpg" alt="Numerai hexagonal logo at top of three skyscrapers" title="Numerai"> </p>
 		<h2> <strong>NumerAi</strong> the open-source hedge fund </h2>
                 <p> Open source is a term we hear from software, where the source code is freely available, but what does this have to do with hedge funds? <p>
                 <p> In quant hedge funds teams generate models for technical analysis of stock prices. Algorithms tend to do the larger proportion of the trading rather than a human trader.
@@ -48,7 +58,12 @@
 		<div>
 			<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox">
 				<img class="center-fit" src="../Images/Comp_chall_banks.png", alt="bank cards"></div></a>
+		</div>
 		
+		
+    		<div>
+			<a href="https://www.evolving.money/InvIdeas/FTFC.php"><div class="imgbox">
+				<img class="center-fit" src="../Images/Free_Trading.png", alt="Suited man watering a money tree"></div></a>
 		</div>
 	
 		
