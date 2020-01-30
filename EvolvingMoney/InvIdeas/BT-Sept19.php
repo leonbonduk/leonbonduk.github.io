@@ -12,6 +12,15 @@
 	<!-- <link rel="stylesheet" href="https://www.evolving.money/css/new-header.css" /> !-->
 	<link rel="stylesheet" type="text/css" href="https://www.evolving.money/css/960-12-col.css" />
 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157104566-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+  	gtag('config', 'UA-157104566-1');
+	</script>
+	
 </head>
 
 <body>
@@ -23,7 +32,7 @@
 		<br>	 
 		<h1 class="h1_article">Is BT a contrarian buy?</h1>
 		<h3>Leon Bond, 2nd September 2019 (updated 17th September 2019), Price £1.67</h3>
-		<p><img src="https://www.evolving.money/Images/BT_up.jpeg" alt="BT Tower" title="Is BT low share price a contrarian buy?" style="width:300px;height:400px;float: left; margin: 1%; padding: 1%;"/> </p>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/BT_up.jpeg" alt="BT Tower" title="Is BT low share price a contrarian buy?"> </p>
 		<p>With the share price now at 167p, this is significantly down from the heady heights of 500p back in 2015, that’s almost 67% down from it’s peak and 30% down for the year to date. With a forecast PE ratio of 6 (it was around 16 back in 2015!) and a dividend yield of 9% could this now be an unmissable buying opportunity?.</p> 
 		<h2>What went wrong?</h2>
 		<p>After a dramatic rise in the share price in the years up to 2015, from the lows after the last financial crisis, the price has fallen significantly since the EE acquisition back in January 2016. EE has been a relative bright spot in BT’s results since acquisition but other various headwind pressures have battered the share price including:</p>
@@ -85,6 +94,11 @@
 			<a href="https://www.evolving.money/EMoney/EBanking/challenger-comp.php"><div class="imgbox">
 				<img class="center-fit" src="../Images/Comp_chall_banks.png", alt="bank cards"></div></a>
 		
+		</div>
+		
+		<div>
+			<a href="https://www.evolving.money/InvIdeas/FTFC.php"><div class="imgbox">
+				<img class="center-fit" src="../Images/Free_Trading.png", alt="Suited man watering a money tree"></div></a>
 		</div>
 	
 	</div>
