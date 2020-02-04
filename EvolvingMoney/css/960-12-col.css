@@ -273,12 +273,17 @@ margin-right:0%;
 }
 
 .center-fit {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+}
+
+.center-fit-rounded-top {
             border-radius: 15px 15px 0px 0px;
 	    max-width: 100%;
             max-height: 100vh;
             margin: auto;
 }
-
 
 .left-fit-page-heading
 {
