@@ -110,14 +110,14 @@
 					      
 				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #FF9300;">
 					<div class="col_int_12">
-						<h1><strong>E-Money:</strong></h1>
+						<h1><strong><a href="https://www.evolving.money/EMoney/emoney-blog.php">E-Money:</a></strong></h1>
 					</div>
 					
 					<div class="clear"></div>
-					<a href="https://www.evolving.money/EMoney/what-is-emoney.php">
+					<a href="https://www.evolving.money/EMoney/blockchain-in-renewable-energy.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/EMoney.jpg" alt="Bitcoin and  bank notes on a keyboard"></div>
-							<h2 class="article-link-header">What is E-Money?</h2>
+							<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/Wepower.png" alt="Wepower blockchain and wind turbines" title="Wepower"></div>
+							<h2 class="article-link-header">Smart payments, smarter markets and cleaner energy … the emerging story of blockchain in renewable energy markets</h2>
 						</div>
 					</a>
 					
@@ -141,6 +141,10 @@
 							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off</h2>
 						</div>
 					</a>
+					
+					<div class="col_int_12">
+						<h1><strong><a class="link" href="https://www.evolving.money/EMoney/emoney-blog.php">More E-Money...</a></strong></h1>
+					</div>
 					
 					<div class="clear"></div>
 				</div>
