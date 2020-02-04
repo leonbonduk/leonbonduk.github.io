@@ -20,6 +20,7 @@
   	gtag('js', new Date());
   	gtag('config', 'UA-157104566-1');
 	</script>
+</head>
 	
 <body>
 
@@ -70,9 +71,8 @@
 					
 					<div class="clear"></div>
 					</div>
-					</div>
-				
-						
+	
+					
 					<div class="col_int_6">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 						<ins class="adsbygoogle"
