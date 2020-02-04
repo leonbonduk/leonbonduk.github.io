@@ -269,7 +269,16 @@
 
 </url>
 
+-<url>
 
+<loc>https://www.evolving.money/EMoney/emoney-blog.php</loc>
+
+<changefreq>daily</changefreq>
+
+<priority>0.85</priority>
+
+</url>
+  
 -<url>
 
 <loc>https://www.evolving.money/tandcs.php</loc>
