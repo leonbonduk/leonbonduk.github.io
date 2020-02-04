@@ -274,7 +274,7 @@ margin-right:0%;
 }
 
 .center-fit {
-            style="border-radius: 15px 15px 0px 0px;"
+            border-radius: 15px 15px 0px 0px;
 	    max-width: 100%;
             max-height: 100vh;
             margin: auto;
