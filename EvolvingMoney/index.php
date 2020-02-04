@@ -77,28 +77,28 @@
 					
 					<a href="https://www.evolving.money/InvIdeas/Copper-Jan20.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/copper_EM.jpg" alt="A messy pile of scrap copper pipes"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/copper_EM.jpg" alt="A messy pile of scrap copper pipes"></div>
 							<h2 class="article-link-header">Has copper caught a cold?</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/InvIdeas/FTFC.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/Free_Trading_small_EM.png" alt="Suited man watering a money tree"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/Free_Trading_small_EM.png" alt="Suited man watering a money tree"></div>
 							<h2 class="article-link-header">Fee free trading with free cash blog</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish flag"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish flag"></div>
 							<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?</h2>
 						</div>
 					</a>
 									       
 					<a href="https://www.evolving.money/InvIdeas/BT-Sept19.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/small_phone_boxes.jpg" alt="Red phone box"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/small_phone_boxes.jpg" alt="Red phone box"></div>
 							<h2 class="article-link-header">Is BT a contrarian buy?<br></h2>
 						</div>
 					</a>
@@ -120,28 +120,28 @@
 					<div class="clear"></div>
 					<a href="https://www.evolving.money/EMoney/blockchain-in-renewable-energy.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit"  src="https://www.evolving.money/Images/Wepower.png" alt="Wepower blockchain and wind turbines" title="Wepower"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top"  src="https://www.evolving.money/Images/Wepower.png" alt="Wepower blockchain and wind turbines" title="Wepower"></div>
 							<h2 class="article-link-header">Smart payments, smarter markets and cleaner energy… the emerging story of blockchain in renewable energy markets</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/EMoney/OpenSourceHedgeFund.php">
 						<div class="col_int_6" >
-							<div class="imgbox"><img class="center-fit" src="Images/numerai.jpg" alt="Hexagonal maze symbol atop three skyscrapers"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/numerai.jpg" alt="Hexagonal maze symbol atop three skyscrapers"></div>
 							<h2 class="article-link-header">Open Source Hedge Funds!</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/EMoney/symbiont.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/Symbiont.jpg" alt="Crowds of people connected by lines of light"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/Symbiont.jpg" alt="Crowds of people connected by lines of light"></div>
 							<h2 class="article-link-header">Smart Securities and Intelligent Markets</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/Sportpursuit2.jpg" alt="Two hands exchanging a euro and dollar note"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/Sportpursuit2.jpg" alt="Two hands exchanging a euro and dollar note"></div>
 							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off</h2>
 						</div>
 					</a>
@@ -162,21 +162,21 @@
 					
 					<a href="https://www.evolving.money/EMoney/cashback_websites.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/spilled_cash_EM.jpg" alt="Cash falling  out of a jar on its side"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/spilled_cash_EM.jpg" alt="Cash falling  out of a jar on its side"></div>
 							<h2 class="article-link-header">Cashflow from cashback websites</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/EMoney/currensea_review.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/currensea_EM.jpg" alt="Two hands exchanging a euro and dollar note"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/currensea_EM.jpg" alt="Two hands exchanging a euro and dollar note"></div>
 							<h2 class="article-link-header">Seamless low FX rates with Currensea</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/InvIdeas/Freetrade.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/Smartphone.jpg" alt="Smart phone surrounded by financial symbols"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/Smartphone.jpg" alt="Smart phone surrounded by financial symbols"></div>
 							<h2 class="article-link-header">Review of fee free trading with Freetrade</h2>
 						</div>
 					</a>
@@ -188,7 +188,7 @@
 						</div>
 					</a>
 					
-					<div class="col_int_6" style="border-radius: 15px 15px 15px 15px;">
+					<div class="col_int_6">
 						<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 						<ins class="adsbygoogle"
      						style="display:block; text-align:center;"
