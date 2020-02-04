@@ -69,7 +69,8 @@
 
 					
 					<div class="clear"></div>
-				</div>
+					</div>
+					</div>
 				
 						
 					<div class="col_int_6">
