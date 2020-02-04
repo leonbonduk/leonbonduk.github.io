@@ -42,6 +42,13 @@
 						</div>
 					</a>
 					
+					<a href="https://www.evolving.money/EMoney/blockchain-in-renewable-energy.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/Wepower.png" alt="Wepower blockchain and wind turbines" title="Wepower"></div>
+							<h2 class="article-link-header">Smart payments, smarter markets and cleaner energy … the emerging story of blockchain in renewable energy markets</h2>
+						</div>
+					</a>
+					
 					<a href="https://www.evolving.money/EMoney/OpenSourceHedgeFund.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit" src="../Images/numerai.jpg" alt="Hexagonal maze symbol atop three skyscrapers"></div>
