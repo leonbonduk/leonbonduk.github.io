@@ -37,35 +37,35 @@
 					<div class="clear"></div>
 					<a href="https://www.evolving.money/EMoney/what-is-emoney.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="../Images/EMoney.jpg" alt="Bitcoin and  bank notes on a keyboard"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="../Images/EMoney.jpg" alt="Bitcoin and  bank notes on a keyboard"></div>
 							<h2 class="article-link-header">What is E-Money?</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/EMoney/blockchain-in-renewable-energy.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="https://www.evolving.money/Images/Wepower.png" alt="Wepower blockchain and wind turbines" title="Wepower"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="https://www.evolving.money/Images/Wepower.png" alt="Wepower blockchain and wind turbines" title="Wepower"></div>
 							<h2 class="article-link-header">Smart payments, smarter markets and cleaner energy… the emerging story of blockchain in renewable energy markets</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/EMoney/OpenSourceHedgeFund.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="../Images/numerai.jpg" alt="Hexagonal maze symbol atop three skyscrapers"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="../Images/numerai.jpg" alt="Hexagonal maze symbol atop three skyscrapers"></div>
 							<h2 class="article-link-header">Open Source Hedge Funds!</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.evolving.money/EMoney/symbiont.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="../Images/Symbiont.jpg" alt="Crowds of people connected by lines of light"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="../Images/Symbiont.jpg" alt="Crowds of people connected by lines of light"></div>
 							<h2 class="article-link-header">Smart Securities and Intelligent Markets</h2>
 						</div>
 					</a>
 					
 					<a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="../Images/Sportpursuit.jpg" alt="Two hands exchanging a euro and dollar note"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="../Images/Sportpursuit.jpg" alt="Two hands exchanging a euro and dollar note"></div>
 							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off</h2>
 						</div>
 					</a>
