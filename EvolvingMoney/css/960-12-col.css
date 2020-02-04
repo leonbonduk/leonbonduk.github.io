@@ -267,9 +267,10 @@ margin-right:0%;
 }
 
 .imgbox {
-        display: grid;
+        border-radius: 15px 15px 0px 0px;
+	display: grid;
         height: 100%;
-	margin-bottom: 10px;
+	margin-top: 10px;
 }
 
 .center-fit {
