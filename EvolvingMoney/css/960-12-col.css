@@ -267,8 +267,7 @@ margin-right:0%;
 }
 
 .imgbox {
-        border-radius: 15px 15px 0px 0px;
-	display: grid;
+       	display: grid;
         height: 100%;
 	margin-top: 10px;
 }
