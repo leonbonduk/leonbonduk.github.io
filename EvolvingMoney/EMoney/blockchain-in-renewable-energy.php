@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
        	<title>Open Source Hedge Funds</title>	
  	<meta name="description" content="summary." />
-   	<meta name="keywords" content="Numerai, Open Source Hedge Fund, eMoney, technical analysis, payments systems, fintech" />
+   	<meta name="keywords" content="WePower, Blockchain, smart contracts, payments systems, fintech" />
        	<meta name="author" content="James Day" />
 	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -31,8 +31,8 @@
 
 	<div class="col_8 first" style="background-color:#fff">	
 		<br>	 
-		<h1 class="h1_article">Open Source Hedge Funds!</h1>
-		<h3>James Day, 5th January 2020</h3>
+		<h1 class="h1_article">Smart payments, smarter markets and cleaner energy … the emerging story of blockchain in renewable energy markets</h1>
+		<h3>James Day, 4th February 2020</h3>
 		<p><img class="article-img-fit" src="https://www.evolving.money/Images/numerai.jpg" alt="Numerai hexagonal logo at top of three skyscrapers" title="Numerai"> </p>
 		<h2> <strong>NumerAi</strong> the open-source hedge fund </h2>
                 <p> <strong> Blockchain technology </strong> holds great promise in renewable energy markets. As individual consumers we have some idea of 		electricity markets work. We may know that if we shop around we get better prices, and if we don’t we won’t. There have also long been 		providers like <strong> Ecotricity </strong> that seek to provide us with electricity from renewable sources. These market mechanisms 		require individuals to act and make decisions. In our busy lives many of us stick with our existing energy providers and shop around only 		periodically. </p>
@@ -49,13 +49,13 @@
 	<p> 4) The Brooklyn Microgrid </p>
 	<p> 5) Sun exchange </p>
 
-	<p> The approaches have similarities. In this article the Lithuania based startup <strong> WePower </strong> is put under the spotlight 	(they would rather sun light of course). </p>
+	<p> The approaches have similarities. In this article the Lithuania based startup <strong> WePower </strong> is put under the spotlight (they would rather sun light of course). </p>
 
-	<p> <strong> WePower </strong> makes use of the ethereum blockchain to provide a ledger of transactions and to create smart contracts 		between electricity producers and buyers. They call the contracts digitally enabled Power Purchase Agreements (PPAs). They provide a 		ethereum smart contract enabled trading platform to buy and sell renewable energy.</p>
+	<p> <strong> WePower </strong> makes use of the ethereum blockchain to provide a ledger of transactions and to create smart contracts between electricity producers and buyers. They call the contracts digitally enabled Power Purchase Agreements (PPAs). They provide a 		ethereum smart contract enabled trading platform to buy and sell renewable energy.</p>
 
-	<p> Consumers and producers needs are assessed, and PPAs are drawn up to try to provide the best price for the consumer based on the 		available producers. <strong> WePower </strong> try to help small clean energy producers enter the market using this technology.</p>
+	<p> Consumers and producers needs are assessed, and PPAs are drawn up to try to provide the best price for the consumer based on the avaiable producers. <strong> WePower </strong> try to help small clean energy producers enter the market using this technology.</p>
 
-	<p> They have experienced significant growth and attracted a lot of media interest. It’s a fantastic example of how blockchain technology  is being used right now to essentially make smart electricity markets.</p>
+	<p> They have experienced significant growth and attracted a lot of media interest. It’s a fantastic example of how blockchain technology is being used right now to essentially make smart electricity markets.</p>
 	</div>
 
 	<div class="col_4 last" style="background-color:#fff">
