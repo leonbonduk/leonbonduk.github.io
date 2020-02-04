@@ -183,7 +183,7 @@
 					
 					<a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit" src="Images/Sportpursuit.jpg" alt="Two hands exchanging a euro and dollar note"></div>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/Sportpursuit.jpg" alt="Two hands exchanging a euro and dollar note"></div>
 							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off</h2>
 						</div>
 					</a>
