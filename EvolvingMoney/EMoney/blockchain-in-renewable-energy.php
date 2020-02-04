@@ -31,7 +31,7 @@
 
 	<div class="col_8 first" style="background-color:#fff">	
 		<br>	 
-		<h1 class="h1_article">Smart payments, smarter markets and cleaner energy … the emerging story of blockchain in renewable energy markets</h1>
+		<h1 class="h1_article">Smart payments, smarter markets and cleaner energy… the emerging story of blockchain in renewable energy markets</h1>
 		<h3>James Day, 4th February 2020</h3>
 		<p><img class="article-img-fit" src="https://www.evolving.money/Images/Wepower.png" alt="Wepower blockchain and wind turbines" title="Wepower"> </p>
 		<h2><strong>Wepower</strong> the blockchain trading exchange</h2>
