@@ -72,7 +72,7 @@
 					      
 				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #FF9300;">
 					<div class="col_int_12">
-						<h1><strong>Investments:</strong></h1>
+						<h1><strong><a href="https://www.evolving.money/InvIdeas/index.php">Investments:</a></strong></h1>
 					</div>
 					
 					<a href="https://www.evolving.money/InvIdeas/Copper-Jan20.php">
@@ -102,6 +102,10 @@
 							<h2 class="article-link-header">Is BT a contrarian buy?<br></h2>
 						</div>
 					</a>
+					
+					<div class="col_int_12">
+						<h1><strong><a class="link" href="https://www.evolving.money/InvIdeas/index.php">More Investments...</a></strong></h1>
+					</div>
 					
 					<div class="clear"></div>
 				</div>
