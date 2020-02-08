@@ -41,7 +41,9 @@ smart charging payments?</title>
 <p> There has been a growing discussion about a potential role for <strong>blockchain</strong>, in assisting payments for charging in electric vehicles. There have been a number of commentators on the subject including academic researchers and discussion panels, before we get into all that it’s best to start by understanding the problem with the existing charging infrastructure for electric vehicles.</p>
 
 <p> Charging electric vehicles is typically a lot cheaper, than buying diesel and petrol, so some may ask what is the problem. Well, there is a potential problem and there are also solutions…</p>
-		
+
+<p> Charging electric vehicles is typically cheapest, when you charge at home over night. Once you have driven somewhere, maybe to work as a daily commute or something else a longer trip, you are beholden to whatever prices exist at the available charging stations, and you may not have the range to shop around.</p>
+	
 <p> How pricing of petrol and diesel works on fuel station forecourt is a familiar topic; one we navigate daily. Fuel on motorways is expensive, fuel at supermarkets is cheap, and there are geographic variations; but generally if there are a lot of fuel stations near each other prices are cheaper, and you typically have sufficient range and time to shop around.</p>
 
 <p> If you are driving an electric vehicle and have to charge up away from home the options are more limited. Typically you have to charge with whatever option exists and with whatever price is offered, as there are limited options to get somewhere else. This all ties into the topic of range anxiety in electric vehicles.</p>
