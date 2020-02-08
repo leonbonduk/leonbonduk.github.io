@@ -118,20 +118,22 @@
 					</div>
 					
 					<div class="clear"></div>
+					
+					<a href="https://www.evolving.money/EMoney/EV-blockchain-charging/blockchain-in-EV-charging.php">
+						<div class="col_int_6" >
+							<div class="imgbox">
+								<img class="center-fit-rounded-top" src="https://www.evolving.money/Images/electric_car.png" alt="Electric car with winding cable and plug runnic past renewable enery sources" title="Electric Car - https://www.freepik.com/free-photos-vectors/car">Car vector created by freepik - www.freepik.com"></div>
+							<h2 class="article-link-header">Can blockchain ease range anxiety in electric vehicles with smart charging payments?</h2>
+						</div>
+					</a>
+					
 					<a href="https://www.evolving.money/EMoney/blockchain-in-renewable-energy.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit-rounded-top"  src="https://www.evolving.money/Images/Wepower.png" alt="Wepower blockchain and wind turbines" title="Wepower"></div>
 							<h2 class="article-link-header">Smart payments, smarter markets and cleaner energy… the emerging story of blockchain in renewable energy markets</h2>
 						</div>
 					</a>
-					
-					<a href="https://www.evolving.money/EMoney/OpenSourceHedgeFund.php">
-						<div class="col_int_6" >
-							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/numerai.jpg" alt="Hexagonal maze symbol atop three skyscrapers"></div>
-							<h2 class="article-link-header">Open Source Hedge Funds!</h2>
-						</div>
-					</a>
-					
+				
 					<a href="https://www.evolving.money/EMoney/symbiont.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/Symbiont.jpg" alt="Crowds of people connected by lines of light"></div>
