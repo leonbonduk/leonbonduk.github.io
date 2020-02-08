@@ -51,6 +51,14 @@
 						</div>
 					</a>
 					
+					<a href="https://www.evolving.money/EMoney/EV-blockchain-charging/blockchain-in-EV-charging.php">
+						<div class="col_int_6" >
+							<div class="imgbox">
+								<img class="center-fit-rounded-top" src="https://www.evolving.money/Images/electric_car.png" alt="Electric car with winding cable and plug runnic past renewable enery sources" title="Electric Car - https://www.freepik.com/free-photos-vectors/car">Car vector created by freepik - www.freepik.com"></div>
+							<h2 class="article-link-header">Can blockchain ease range anxiety in electric vehicles with smart charging payments?</h2>
+						</div>
+					</a>
+					
 					<a href="https://www.evolving.money/EMoney/blockchain-in-renewable-energy.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit-rounded-top" src="https://www.evolving.money/Images/Wepower.png" alt="Wepower blockchain and wind turbines" title="Wepower"></div>
