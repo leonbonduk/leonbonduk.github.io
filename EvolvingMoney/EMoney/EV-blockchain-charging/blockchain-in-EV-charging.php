@@ -2,9 +2,10 @@
 <html lang="en" class="no-js">
 <head>		
 	<meta charset="UTF-8">
-       	<title>Open Source Hedge Funds</title>	
+       	<title>Can blockchain ease range anxiety in electric vehicles with
+smart charging payments?</title>	
  	<meta name="description" content="summary." />
-   	<meta name="keywords" content="Numerai, Open Source Hedge Fund, eMoney, technical analysis, payments systems, fintech" />
+   	<meta name="keywords" content="Numerai, EV charging payments, eMoney, blockchain, payments systems, fintech" />
        	<meta name="author" content="James Day" />
 	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -31,26 +32,34 @@
 
 	<div class="col_8 first" style="background-color:#fff">	
 		<br>	 
-		<h1 class="h1_article">Open Source Hedge Funds!</h1>
-		<h3>James Day, 5th January 2020</h3>
+		<h1 class="h1_article"></h1>
+		<h3>James Day, 8th February 2020</h3>
 		<p><img class="article-img-fit" src="https://www.evolving.money/Images/numerai.jpg" alt="Numerai hexagonal logo at top of three skyscrapers" title="Numerai"> </p>
-		<h2> <strong>NumerAi</strong> the open-source hedge fund </h2>
-                <p> Open source is a term we hear from software, where the source code is freely available, but what does this have to do with hedge funds? <p>
-                <p> In quant hedge funds teams generate models for technical analysis of stock prices. Algorithms tend to do the larger proportion of the trading rather than a human trader.
-                    These algorithms are kept closely guarded, and are not something a normal hedge fund would share, but in the case of NumerAI, it is precisely these algorithms
-                    that are shared. <p>		 
-		<p> The reason that  <strong>NumerAi</strong> do this is to take advantage of the network effects of having many contributors providing algorithms in a competition format. 
-                    The crowd generated algorithms they end up with, are derived by much larger teams than any hedge fund could afford on their own,  and from a community of highly skilled 
-                    data scientists. Traditional algorithms used for trading were predominantly statistical models used for price prediction, but the <strong>NumerAi</strong> community  
-                    make use of the latest tools in data science and machine learning, an area that Hedge funds are only just breaking into.<p>
-                <p> The <strong>NumerAi</strong> team have incentivised the crowd to work for them in a competion based market place, and contributors compete to provide better algorithms. 
-                    This costs a lot less money than hiring people to do it. Pay is in a competition format so effectively they only have to pay the winners. Also their workforce 
-                    pay to be involved, and effectively crowd fund the hedge fund. It's a very creative solution that harnesses technology and the crowd together.<p>
-                <p> It's a bit like <strong>Wikipedia</strong> for technical analysis and stock market prediction models, combined with <strong>Crowdfunder</strong>...  Inspired.<p>
-                <p> In the background it uses Cryptocurrency, Blockchain and Smart Contracts to automatically pay everyone providing models, and to compute rankings and performance. Contributors can make a lot of money if they are good.<p>
-                <p> For me this is an example of things to come, the rise in importance of algorithms and AI / automation has been much discussed. A much more important trend potentially,
-                    at least in the short term, is likely to be the contributions of teams of people and computer algorithms working together... much discussed in the book <a class="link" target="_blank" href="https://www.amazon.co.uk/gp/product/1786074702/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1786074702&linkCode=as2&tag=evolvingmoney-21&linkId=0980827271bfdad9d3f2c5dc2665cb82">Superminds</a><img src="//ir-uk.amazon-adsystem.com/e/ir?t=evolvingmoney-21&l=am2&o=2&a=1786074702" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
-                    by Thomas W Malone. Numerai is precisely an example of this in action in FinTech.<p>
+		<h2> EURELECTRIC </h2>
+		
+		
+<p> There has been a growing discussion about a potential role for <strong>blockchain</strong>, in assisting payments for charging in electric vehicles. There have been a number of commentators on the subject including academic researchers and discussion panels, before we get into all that it’s best to start by understanding the problem with the existing charging infrastructure for electric vehicles.</p>
+
+<p> Charging electric vehicles is typically a lot cheaper, than buying diesel and petrol, so some may ask what is the problem. Well, there is a potential problem and there are also solutions…
+Charging electric vehicles is typically cheapest, when you charge at home over night. Once you have driven somewhere, maybe to work as a daily commute or something else a longer trip, you are beholden to whatever prices exist at the available charging stations, and you may not have the range to shop around.</p>
+ 
+<p> How pricing of petrol and diesel works on fuel station forecourt is a familiar topic; one we navigate daily. Fuel on motorways is expensive, fuel at supermarkets is cheap, and there are geographic variations; but generally if there are a lot of fuel stations near each other prices are cheaper, and you typically have sufficient range and time to shop around.</p>
+
+<p> If you are driving an electric vehicle and have to charge up away from home the options are more limited. Typically you have to charge with whatever option exists and with whatever price is offered, as there are limited options to get somewhere else. This all ties into the topic of range anxiety in electric vehicles.</p>
+
+<p> It is however a bit strange, when we buy electricity at home we are all tied into the same grid, all producers feed the same grid, and the user gets to choose their provider and price, you get to shop around for providers, (albeit many of us are bad at shopping around and pay more than we should, but nevertheless).</p>
+
+<p> The <strong>blockchain use-case</strong> is essentially that smart contracts can be used to <strong>autonomously shop for the best prices</strong> from providers, and the ledger can provide transparency in the form of an in-tamperable record of what’s happened. This could bring much better prices for consumers.</p>
+
+<p> The benefits don’t stop with consumers though, the charging station operators can benefit from common payment mechanisms and standardised pricing and increased trust, factor crucial to improved branding and popularity. From the electricity providers perspective, the benefits exist in terms of faster electric vehicle adoption, and essentially a growth in consumer demand for their product. From the electric vehicle manufacturers perspective,  it is similar, they get to benefit from faster adoption rates, and a reduction in the range anxiety that is holding back adoption of their products.</p>
+
+<p> There has been interesting research in the blockchain use case by the <strong>University of Waterloo</strong>.</p>
+[Christian Gorenflo Waterloo’s David R Cheriton School of Computer Science]
+
+<p> There are also now discussion groups working in this topic, in particular <strong>EURELECTRIC</strong>, where you can find a wealth of information about the topic.</p>
+
+<p> https://www.eurelectric.org/news/eurelectric-launches-expert-discussion-platform-on-blockchain </p>
+ 
 	</div>
 
 	<div class="col_4 last" style="background-color:#fff">
