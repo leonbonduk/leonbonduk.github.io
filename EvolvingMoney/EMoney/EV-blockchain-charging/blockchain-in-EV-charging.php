@@ -33,7 +33,7 @@
 		<br>	 
 		<h1 class="h1_article">Can blockchain ease range anxiety in electric vehicles with smart charging payments?</h1>
 		<h3>James Day, 8th February 2020</h3>
-		<p><img class="article-img-fit" src="https://www.evolving.money/Images/electric_car.png" alt="Electric car with winding cable and plug runnic past renewable enery sources" title="Electric Car - https://www.freepik.com/free-photos-vectors/car">Car vector created by freepik - www.freepik.com"> </p>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/electric_car.png" alt="Electric car with winding cable and plug runnic past renewable enery sources" title="Electric Car - https://www.freepik.com/free-photos-vectors/car Car vector created by freepik - www.freepik.com"> </p>
 		<h2>EURELECTRIC</h2>
 		<p>There has been a growing discussion about a potential role for <strong>blockchain</strong>, in assisting payments for charging in electric vehicles. There have been a number of commentators on the subject including academic researchers and discussion panels, before we get into all that it’s best to start by understanding the problem with the existing charging infrastructure for electric vehicles.</p>
 		<p>Charging electric vehicles is typically a lot cheaper, than buying diesel and petrol, so some may ask what is the problem. Well, there is a potential problem and there are also solutions…</p>
