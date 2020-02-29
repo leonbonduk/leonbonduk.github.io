@@ -154,6 +154,36 @@
 					
 					<div class="clear"></div>
 				</div>
+
+<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #FF9300;">
+					<div class="col_int_12">
+						<h1><strong><a href="https://www.evolving.money/EMoney/technical-analysis/index.php">Technical Analysis:</a></strong></h1>
+					</div>
+					
+					<div class="clear"></div>
+					
+					<a href="https://www.evolving.money/texhnical-analysis/lets-get-technical.php">
+						<div class="col_int_6" >
+							<div class="imgbox">
+								<img class="center-fit-rounded-top" src="https://www.evolving.money/Images/electric_car.png" alt="Electric car with winding cable and plug runnic past renewable enery sources" title="Electric Car - https://www.freepik.com/free-photos-vectors/car Car vector created by freepik - www.freepik.com"></div>
+							<h2 class="article-link-header">Let's get technical...</h2>
+						</div>
+					</a>
+					
+					<a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/Sportpursuit2.jpg" alt="Two hands exchanging a euro and dollar note"></div>
+							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off</h2>
+						</div>
+					</a>
+					
+					<div class="col_int_12">
+						<h1><strong><a class="link" href="https://www.evolving.money/EMoney/technical-analysis/index.php">More Technical Analysis...</a></strong></h1>
+					</div>
+					
+					<div class="clear"></div>
+				</div>
+
 				
 				<div>
 					<div class="col_int_12">
