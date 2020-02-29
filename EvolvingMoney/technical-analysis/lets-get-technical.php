@@ -3,9 +3,9 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-		<title>Evolving Money - What is E-Money</title>
-       		<meta name="description" content="Introduction to evolving nature of money due to online technology" />
-       		<meta name="keywords" content="emoney, new, crypto, banking" />
+		<title>Lets get technical – charting the way through price prediction</title>
+       		<meta name="description" content="Introduction to charting technical analysis and price prediction" />
+       		<meta name="keywords" content=", technical-analysis, banking, trading" />
        		<meta name="author" content="James Day" />
 		<meta name="robots" content="all">
 		<meta name="viewport" content="width=device-width,initial-scale=1" />
