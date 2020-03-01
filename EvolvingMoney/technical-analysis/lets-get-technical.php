@@ -31,7 +31,7 @@
 	<div class="row" style="margin: 0 0;">
 		<div class="col_12 first" style="background-color:#fff">
 			<div class="imgbox">
-    				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/technical-analysis.jpg" alt="EMoney title in blue and orange">
+    				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/technical-analysis.jpg" alt="Thechnical analysis">
 			</div>
 		</div>
 	</div> 
