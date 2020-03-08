@@ -165,7 +165,7 @@
 					<a href="https://www.evolving.money/technical-analysis/lets-get-technical.php">
 						<div class="col_int_6" >
 							<div class="imgbox">
-								<img class="center-fit-rounded-top" src="https://www.evolving.money/Images/electric_car.png" alt="Electric car with winding cable and plug runnic past renewable enery sources" title="Electric Car - https://www.freepik.com/free-photos-vectors/car Car vector created by freepik - www.freepik.com"></div>
+								<img class="center-fit-rounded-top" src="https://www.evolving.money/Images/technical-analysis.jpg" alt="Man staring and two trading screens"></div>
 							<h2 class="article-link-header">Let's get technical...</h2>
 						</div>
 					</a>
