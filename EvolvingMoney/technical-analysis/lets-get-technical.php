@@ -28,19 +28,10 @@
 	<?php include("../includes/test-header.html");?>
 
 <div>
-	<div class="row" style="margin: 0 0;">
-		<div class="col_12 first" style="background-color:#fff">
-			<div class="imgbox">
-    				<img class="left-fit-page-heading" src="https://www.evolving.money/Images/technical-analysis.jpg" alt="Man staring and two trading screens">
-			</div>
-		</div>
-	</div> 
-
-	<div class="clear"></div>
-
 	<div class="row">
 		<div class="col_8 first" style="background-color:#fff">
 <h1 class="h1_article">Charting a way through price prediction</h1>
+<p><img class="article-img-fit" src="https://www.evolving.money/Images/technical-analysis.jpg" alt="Man staring and two trading screens"> </p>
 <p>A key objective of trading of stocks is to make money on the trades; either through appreciation (buying low and selling high), or by shorting (essentially a placing a kind of bet that the value of a stock will fall).</p>
 <p>Over time people have developed strategies to help them decide which stocks to trade and when to trade them; strategies that aim to increase the probability of making a successful trade. This subject is an art as well as a science and debates rage as to whether the underlying philosophy is valid, however there are people who use these strategies and <strong>beat the market<strong>, making more money than if they just bought and held the stock over time. There are also people who don’t…</p>
 <p>One of the key techniques is called <strong> Charting </strong> or <strong> Technical Analysis </strong>. The underlying philosophy of why it can work, is that even though the future is unwritten, people tend to behave in the same way and make similar decisions, when presented with the same kinds of price information. The technique aims to look at past price data, and establish patterns in that data that enable the trader to produce forecasts of where the stock price is more likely to go next, and this helps the trader to make more effective trades when the predictions from the technique are good.</p>
