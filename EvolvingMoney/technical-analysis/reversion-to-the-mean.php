@@ -294,6 +294,8 @@ table, th, td {
 
 <p> "Evolving Money charting a way through price prediction: Rules Based Trading Models - TA volume 1 " Link to deep dive  </p>
 
+			<h1>Rules Based Trading Models </h1>
+    <p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p>
 
 <p> -----------------------------------------------------------------------------</p>
 
