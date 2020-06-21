@@ -33,7 +33,7 @@
 		<br>	 
 		<h1 class="h1_article">Blockchain Remittance, locked down and here to stay?</h1>
 		<h3>James, 21st June 2020</h3>
-<p><img class="article-img-fit" src="https://www.evolving.money/Images/Smartphone_handshake.jpg " alt="Two smartphones shaking hands" title="Two smartphones shaking hands"> </p>
+<p><img class="article-img-fit" src="https://www.evolving.money/Images/Smartphone_handshake.jpg" alt="Two smartphones shaking hands" title="Two smartphones shaking hands"> </p>
 <section>
 	
 <p> The rise of globalisation has been accompanied by a big growth in migrant workers. We can think of places like Dubai with may international migrant workers in building and construction sector. There are examples everywhere, large global cities have better opportunities and many be people pursuing careers work abroad to take advantage of better job opportunities. It's become very common to work abroad for a while and see the world. </p>
