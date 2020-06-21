@@ -51,6 +51,14 @@
 						</div>
 					</a>
 					
+					<a href="https://www.evolving.money/EMoney/remittance-blockchain.php">
+						<div class="col_int_6" >
+							<div class="imgbox">
+								<img class="center-fit-rounded-top" src="https://www.evolving.money/Images/Smartphone_handshake.jpg" alt="Two smartphones shaking hands" title="Two smartphones shaking hands"></div>
+							<h2 class="article-link-header">Blockchain Remittance, locked down and here to stay?</h2>
+						</div>
+					</a>
+					
 					<a href="https://www.evolving.money/EMoney/EV-blockchain-charging/blockchain-in-EV-charging.php">
 						<div class="col_int_6" >
 							<div class="imgbox">
