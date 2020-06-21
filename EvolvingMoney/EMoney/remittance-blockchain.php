@@ -135,8 +135,7 @@ table, th, td {
 <br/>
 <br/>
 
-<p> <strong> Western Union </strong> has been around a long time, and is one of the most common remittance payments methods. People can transfer money even without a bank in store. It also has an online presence. <strong>Transferwise</strong> and <strong>Remitly</strong> are more recent online only offerings. They brought very competitive pricing from the different ways in which they operate. The healthy competition has meant all platforms tend to offer good online prices that are generally cheaper than bank transfers. It's worth comparing an checking though, where you are sending the money can really make a difference on the different platforms. 
-
+<p> <strong> Western Union </strong> has been around a long time, and is one of the most common remittance payments methods. People can transfer money even without a bank in store. It also has an online presence. <strong>Transferwise</strong> and <strong>Remitly</strong> are more recent online only offerings. They brought very competitive pricing from the different ways in which they operate. The healthy competition has meant all platforms tend to offer good online prices that are generally cheaper than bank transfers. It's worth comparing and checking though... where you are sending the money too can really make a difference on the different platforms. </p>
 <heading>
 <h2><u>Emergent fintech cross boarder payments solutions:</u></h2>
 </heading>
