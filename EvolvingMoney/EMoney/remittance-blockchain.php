@@ -35,25 +35,19 @@
 		<h3>James, 21st June 2020</h3>
 		<p><img class="article-img-fit" src="https://www.evolving.money/Images/Smartphone_handshake.jpg" alt="Two smartphones shaking hands" title="Two smartphones shaking hands"> </p>
 
-		<section>
 			<p>The rise of globalisation has been accompanied by a big growth in migrant workers. We can think of places like Dubai with may international migrant workers in the building and construction sector. There are examples everywhere, large global cities have better opportunities and many people pursuing careers work abroad to take advantage of better job opportunities. It's become very common to work abroad for a while and see the world.</p>
 			<p>The payments people send home from abroad are called <strong> remittance payments </strong>. There are lots of different options for sending money. Directly sending money between two banks in different countries can be expensive, you have transfer fees and exchange rates to pay.</p>
 			<p>There has long been a view that blockchain based and other innovative web based electronic payments systems would and could offer a competitive advantage in remittance payments, allowing people to move money across borders at lower cost.</p>
+			<br>
 			<h2>Currently globalisation is taking a different flavour with a pandemic and rolling global lock-down</h2> 
 			<p>The crisis brings some interesting changes to market conditions. Firstly air travel is likely to be a rarer event going forward. We may also see changes in behaviour of the migrant labour force in terms of their willingness to stay abroad or take jobs abroad in the future.</p>
 			<p>If people are less willing to travel, we may well see more of a shift to <strong>"international work at a distance"</strong>. </p>
 			<p>For many cash will be tighter than before, but business must go on, <strong>"the machine can't stay stopped"</strong>... a few key questions that many people may be asking going forward...  </p>
-		</section>
-
-		<section>
 			<ul class="Glossary">
 				<li>How do I continue to keep doing business globally, against a backdrop of reduced international travel, and tightening budgets?</li>
 				<li>How do I make efficiencies in day-to-day business activities to maintain my profitability?</li>
 				<li>How do I get new global business if I can't travel very easily?</li>
 			</ul>
-		</section>
-
-		<section>
 			<p>We can't answer all the questions in this segment, but the efficiency question is a good one to start with.</p>
 			<p>There are many options for remittance payments, here we look at some of the more popular options that exist for remittance.</p>
 			<br>
@@ -63,9 +57,9 @@
 			<h3>Money transfer company</h3>
 			<table style = "width:100%">
 				<tr>
-					<th> <b> Company </b> </th>
-					<th> <b> Product overview </b> </th>
-					<th> <b> Date founded </b> </th>
+					<th> <strong> Company </strong> </th>
+					<th> <strong> Product overview </strong> </th>
+					<th> <strong> Date founded </strong> </th>
 				</tr>
 				<tr>
 					<th> Western Union </th>
@@ -109,9 +103,9 @@
 			<h2>Emergent fintech cross border payments solutions:</h2>
 			<table style = "width:100%">
 				<tr>
-					<th> <b> Company </b> </th>
-					<th> <b> Product overview </b> </th>
-					<th> <b> Date founded </b> </th>
+					<th> <strong> Company </strong> </th>
+					<th> <strong> Product overview </strong> </th>
+					<th> <strong> Date founded </strong> </th>
 				</tr>
 
 				<tr>
@@ -142,8 +136,6 @@
 
 			<p>Blockchain enabled systems are a much more recent addition. They are not yet mainstream but offer a strong competitive edge in niche markets. In parts of the world where the traditional banking system is not strong, the blockchains can often be the cheapest (and sometimes only) solution. The underlying infrastructure required is a mobile phone and open source software. It's a great solution because of the low infrastructure requirement, and minimal need for staff or training to provide these systems.</p>
 			<p>Web and phone applications provide a glossy front end to payments over the blockchain, the users don't even really need to know that blockchain is used. <strong> BitPesa </strong> has a very strong presence in central Africa, and is leading the way in terms of innovation in Fintech in that emergent market.</p>
-
-		</section> 
 	</div>
 	
 	<div class="col_4 last" style="background-color:#fff">
