@@ -5,7 +5,7 @@
        	<title>The emerging story of blockchain in renewable energy markets</title>	
  	<meta name="description" content="summary." />
    	<meta name="keywords" content="Blockchain Remittance, locked down and here to stay?" />
-       	<meta name="author" content="James Day" />
+       	<meta name="author" content="James (At Evolving Money)" />
 	<meta name="robots" content="all">
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link href="../css/styles.css" type="text/css" rel="stylesheet" />
