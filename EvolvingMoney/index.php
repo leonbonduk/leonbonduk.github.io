@@ -119,6 +119,14 @@
 					
 					<div class="clear"></div>
 					
+					<a href="https://www.evolving.money/EMoney/remittance-blockchain.php">
+						<div class="col_int_6" >
+							<div class="imgbox">
+								<img class="center-fit-rounded-top" src="https://www.evolving.money/Images/Smartphone_handshake.jpg" alt="Two smartphones shaking hands" title="Two smartphones shaking hands"></div>
+							<h2 class="article-link-header">Blockchain Remittance, locked down and here to stay?</h2>
+						</div>
+					</a>
+					
 					<a href="https://www.evolving.money/EMoney/EV-blockchain-charging/blockchain-in-EV-charging.php">
 						<div class="col_int_6" >
 							<div class="imgbox">
@@ -141,12 +149,12 @@
 						</div>
 					</a>
 					
-					<a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
+					<!-- <a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/Sportpursuit2.jpg" alt="Two hands exchanging a euro and dollar note"></div>
 							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off</h2>
 						</div>
-					</a>
+					</a> !-->
 					
 					<div class="col_int_12">
 						<h1><strong><a class="link" href="https://www.evolving.money/EMoney/emoney-blog.php">More E-Money...</a></strong></h1>
