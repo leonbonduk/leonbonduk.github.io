@@ -12,6 +12,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.evolving.money/technical-analysis/reversion-to-the-mean.php</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.evolving.money/EMoney/symbiont.php</loc>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
