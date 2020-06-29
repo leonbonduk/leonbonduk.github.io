@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 		<title>Reversion to the mean</title>
-       		<meta name="description" content="Charting a way through price prediction...reversion to the mean" />
+       		<meta name="description" content="Charting a way through price prediction... reversion to the mean" />
        		<meta name="keywords" content=", technical-analysis, banking, trading" />
        		<meta name="author" content="James Day" />
 		<meta name="robots" content="all">
@@ -29,10 +29,10 @@
 <div>
 	<div class="row">
 		<div class="col_8 first" style="background-color:#fff">
-		<h1 class="h1_article">Charting a way through price prediction...reversion to the mean</h1>
-		<h3>James, 21st June 2020</h3>
+		<h1 class="h1_article">Charting a way through price prediction... reversion to the mean</h1>
+		<h3>James, 29th June 2020</h3>
 		<p><img class="article-img-fit" src="https://www.evolving.money/Images/Candlestick_chart.png" alt="Candlestick trading chart" title="Candlestick trading chart"> </p>
-		<h2> "Volume 1: Rules based trading models" </h2>	
+		<h2>Volume 1: Rules based trading models</h2>	
 		<p>Technical analysis and charting techniques are used by traders to help them place better trades with a higher probability of success. Models are back tested on past price data, and strategies that worked well on the past data are used on the live price data to help decide when to buy and when to sell. </p>
 		<p>Many of us may be aware of the terms algorithmic trading, and high frequency trading. This is an example of automated trading, however the trading does not have to take place on such a short timescale, in fact trading over longer term time scales can also be automated. The advantage of automating trading decisions is that it helps take the emotion out of trading, and to standardise the decision making.  </p>
 		<p>The arsenal of computational techniques available for assisting trading decisions is growing, and so is the data available. <strong> Good modelling starts with good questions and clear objectives </strong>. Here the objective is to make good returns trading Ethereum on a trade time scale of weeks to months. We will look at a simple trading model that seeks to do that, and use it to demonstrate key concepts in technical analysis and charting. </p>
@@ -253,14 +253,12 @@
 		<p><strong>With the improved model fewer trades are placed </strong>, an artefact of sell orders being placed at different dates, and the buy rules not being met as often. <strong> The model places sell orders much closer to the market peaks </strong> and in spite of fewer trades overall returns are significantly higher. A starting balance of $5000 in 2016 is traded up to $92474 buy March 2020.<strong> This represents gains of ~1749% </strong>.  </p>
 		<p>Both of the models trade on a low frequency time scale (weeks to months). The type of model demonstrated here would be called  a "rules based expert system" in AI terminology. It is a basic model (rules based expert systems date back to the 1970s), and requires "an expert" to develop the rules, and the rules have to be manually programmed. More modern and sophisticated AI techniques such as Machine Learning (ML) can be used to develop the rules on their own, and code it themselves. </p>
 		<p>This is a start of the journey, in the next volume we will look at how to improve and optimise these rules based models using a Genetic Algorithm, and add trading on shorter time scales to increase gains in the rising markets. We hope you join us for the next segment (TA volume 2). In later segments we will also look at ML techniques such as SVMs and other AI techniques like clustering to enrich the modelling arsenal.  </p>
-		<p>If you want to take a deeper look at how the trading models presented here in volume 1 were developed, and for deeper look at the numbers, please have a look at our  deep dive paper. It provides some valuable additional insights! </p>
-		<p>"Evolving Money charting a way through price prediction: Rules Based Trading Models - TA volume 1 " Link to deep dive  </p>
-
-		<h1>Rules Based Trading Models </h1>
-    		<p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p>
-		<p>-----------------------------------------------------------------------------</p>
-		<p>DISCLAIMER: Technical analysis techniques seek to improve the probability of making good trades in the future based on using past data, and making the assumption that in the future behaviours from the past will be repeated. There are no guarantees, as the future is unwritten. Different circumstances can come into effect that mean past behaviours are not repeated; behaviour also changes over time. The ideas presented in this blog should not be construed as investment advice. </p>
-               
+		<p>If you want to take a deeper look at how the trading models presented here in volume 1 were developed, and also a deeper look at the numbers, please have a look at our deep dive paper. It provides some valuable additional insights! </p>
+		<p>Link to deep dive model article: <a class="link" href="https://www.evolving.money/technical-analysis/Tech-Report_v6.pdf">"Evolving Money charting a way through price prediction: Rules Based Trading Models - TA volume 1"</a></p>
+		<br>
+		<div style="background-color:#8a8a8a" >
+			<p>DISCLAIMER: Technical analysis techniques seek to improve the probability of making good trades in the future based on using past data, and making the assumption that in the future behaviours from the past will be repeated. There are no guarantees, as the future is unwritten. Different circumstances can come into effect that mean past behaviours are not repeated; behaviour also changes over time. The ideas presented in this blog should not be construed as investment advice. </p>
+               	</div>
 	</div>  
 
 
