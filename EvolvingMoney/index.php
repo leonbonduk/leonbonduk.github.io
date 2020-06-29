@@ -177,13 +177,21 @@
 							<h2 class="article-link-header">Let's get technical...</h2>
 						</div>
 					</a>
+	
+					<a href="https://www.evolving.money/technical-analysis/reversion-to-the-mean.php">
+						<div class="col_int_6" >
+							<div class="imgbox">
+								<img class="center-fit-rounded-top" src="https://www.evolving.money/Images/Candlestick_chart.png" alt="Candlestick trading charts"></div>
+							<h2 class="article-link-header">Charting a way through price prediction...reversion to the mean</h2>
+						</div>
+					</a>
 					
-					<a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
+					<!-- <a href="https://www.sportpursuit.com/join/4FD75C24DAE7F8">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/Sportpursuit2.jpg" alt="Two hands exchanging a euro and dollar note"></div>
 							<h2 class="article-link-header">Sport flash sales site, selling the best sports & outdoor brands at up to 70% off</h2>
 						</div>
-					</a>
+					</a> !-->
 					
 					<div class="col_int_12">
 						<h1><strong><a class="link" href="https://www.evolving.money/EMoney/technical-analysis/index.php">More Technical Analysis...</a></strong></h1>
