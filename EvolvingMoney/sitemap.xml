@@ -155,12 +155,17 @@
   <url>
     <loc>http://www.evolving.money/EMoney/cashback_websites.php</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
 </url>
+<url>
+    <loc>http://www.evolving.money/InvIdeas/Copper-Jul20.php</loc>
+	<changefreq>monthly</changefreq>
+    	<priority>0.6</priority>
+  </url>
   <url>
     <loc>http://www.evolving.money/InvIdeas/Copper-Jan20.php</loc>
 	<changefreq>monthly</changefreq>
-    	<priority>0.8</priority>
+    	<priority>0.6</priority>
   </url>
   <url>
     <loc>http://www.evolving.money/InvIdeas/index.php?blog</loc>
