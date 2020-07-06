@@ -75,10 +75,10 @@
 						<h1><strong><a href="https://www.evolving.money/InvIdeas/index.php">Investments:</a></strong></h1>
 					</div>
 					
-					<a href="https://www.evolving.money/InvIdeas/Copper-Jan20.php">
+					<a href="https://www.evolving.money/InvIdeas/Copper-Jul20.php">
 						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/copper_EM.jpg" alt="A messy pile of scrap copper pipes"></div>
-							<h2 class="article-link-header">Has copper caught a cold?</h2>
+							<div class="imgbox"><img class="center-fit-rounded-top" src="https://www.evolving.money/Images/copperman_EM.jpg" alt="Metal statue of man with head in his hands" title="Metal man with man flu"></div>
+							<h2 class="article-link-header">Ok! So a black swan came along and gave copper a bad case of man flu!</h2>
 						</div>
 					</a>
 					
@@ -89,20 +89,21 @@
 						</div>
 					</a>
 					
+					<a href="https://www.evolving.money/InvIdeas/Copper-Jan20.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/copper_EM.jpg" alt="A messy pile of scrap copper pipes"></div>
+							<h2 class="article-link-header">Has copper caught a cold?</h2>
+						</div>
+					</a>
+
+					
 					<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish flag"></div>
 							<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?</h2>
 						</div>
-					</a>
-									       
-					<a href="https://www.evolving.money/InvIdeas/BT-Sept19.php">
-						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/small_phone_boxes.jpg" alt="Red phone box"></div>
-							<h2 class="article-link-header">Is BT a contrarian buy?<br></h2>
-						</div>
-					</a>
-					
+					</a>			       
+		
 					<div class="col_int_12">
 						<h1><strong><a class="link" href="https://www.evolving.money/InvIdeas/index.php">More Investments...</a></strong></h1>
 					</div>
