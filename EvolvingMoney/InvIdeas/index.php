@@ -40,13 +40,6 @@
 					
 			<div class="col_8 first" >
 				<div style="border-bottom-width: 5px; border-bottom-style: solid; border-bottom-color: #FF9300;">
-					<a href="https://www.evolving.money/InvIdeas/Copper-Jan20.php">
-						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit-rounded-top" src="../Images/copper_EM.jpg" alt="A messy pile of scrap copper pipes"></div>
-							<h2 class="article-link-header">Has copper caught a cold?</h2>
-						</div>
-					</a>
-					
 					<a href="https://www.evolving.money/InvIdeas/FTFC.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit-rounded-top" src="../Images/Free_Trading_small_EM.png" alt="Suited man watering a money tree"></div>
@@ -54,6 +47,20 @@
 						</div>
 					</a>
 					
+					<a href="https://www.evolving.money/InvIdeas/Copper-Jul20.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit-rounded-top" src="https://www.evolving.money/Images/copperman_EM.jpg" alt="Metal statue of man with head in his hands" title="Metal man with man flu"></div>
+							<h2 class="article-link-header">Ok! So a black swan came along and gave copper a bad case of man flu!</h2>
+						</div>
+					</a>
+					
+					<a href="https://www.evolving.money/InvIdeas/Copper-Jan20.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit-rounded-top" src="../Images/copper_EM.jpg" alt="A messy pile of scrap copper pipes"></div>
+							<h2 class="article-link-header">Has copper caught a cold?</h2>
+						</div>
+					</a>
+								
 					<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit-rounded-top" src="../Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish flag"></div>
