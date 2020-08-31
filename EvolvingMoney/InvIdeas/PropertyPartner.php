@@ -30,65 +30,87 @@
 <div class="row">
 
 	<div class="col_8 first" style="background-color:#fff">	
-		<br>	 
-		<h1 class="h1_article">Property crowdfunding with Property Partner</h1>
-		<h3>Leon, 31st August 2020</h3>
-		<p><img class="article-img-fit" src="https://www.evolving.money/Images/spilled_cash_EM.jpg" alt="Coins spilling out of a jar" title="Cashback websites"> </p>
-		<p>A lot of people have a dream of building a property empire but at the start are daunted by the stresses of choosing a property, finding enough funds to put a deposit down, dealing with, finding and then placating tenants etc. It does not help also that the government have made it a lot less tax efficient to own second properties directly, reducing the tax deductibility of mortgage interest and hiking stamp duty. But on the other end of the spectrum investing into a property fund is so far removed that most of the excitement of investing into property has been removed.</p>
-		<p>There is however a middle ground of online property crowdfunding platforms, such as Property Partner, whereby you can invest in smaller lump sums with multiple other investors, choosing specific individual properties where you are able to pick and choose to invest into each property based on which investment cases you believe will give the best return. The platform then manages both the investment process and the ongoing maintenance and administration of the property. Recent tax changes are also circumvented as the properties are owned by an incorporated company, you buy shares in the company but effectively own the same proportion of the property as shares in the company. Such a structure then avoids the restrictions on mortgage interest relieve of direct ownership of a buy-to-let property.</p>
-    <p>You do, however, sacrifice some element of control such as not being able to choose tenants or have a say in whether or not to make repairs to a property (which are usually funded by a provision deducted from the rental income).</p>
-    <p>But on the plus side there are also many advantages such as it being possible to liquidate your investment much quicker than a normal property due to a secondary market that is available on the platform where fellow investors can buy your shares off you.</p>
-		<h2>Investments available</h2>
-		<p>Property Partner provides a range of potential properties across the UK including residential houses, blocks of flats, student properties, commercial properties as well as the chance to invest in short term, hight interest development loans (typically at a rate of 10%) for property developers. It is also possible to invest via a managed investment plan which spreads your funds over multiple properties for you to spread your risk. An ISA wrapper is also available for investing into the property loans.</p>
-    <p>Whilst there are some houses on the platform, most investments available are multi-tenanted properties which I prefer as investment in such properties helps minimise the impact on income received of any tenant void periods.</p>
-    <p>Although dividends have been frozen currently due to the current uncertainty with the Covid situation (and payment holidays have also been negotiated with the banks on interest payments) dividends received typically ranged from 3% to 7%. There is then also the potential for any capital gains…</p>
-		<h2>Mechanics of the platform</h2>
-    <ol class="Glossary">
-      <li>Property Partner identifies a property and negotiates terms and an offer price with the seller.</li>
-      <li>They then list the potential property on the platform to seek out investors to purchase the property.</li>
-      <li>Investors offer funds on a first come first served basis until 100% of the investment is funded</li>
-      <li>The property is then purchased by a newly incorporated company that is solely dedicated to the ownership of that one property, and the investors take shares in that company.</li>
-      <li>Most properties are already tenanted but Property Partner takes on maintenance arrangement for the property and subsequent administration of the tenants.</li>
-      <li>Rental income net of any running expenses and funds held back as a provision for rainy day expenses are paid out as monthly dividends.</li>
-      <li>Any capital gains are reflected in the valuation movement and can be crystallised by selling in the online market place or waiting for the 5 year life of the investment to run its course at which point the shareholders vote as to whether to sell out in the open market at which point the shares are either offered on the platform to other investors or the property is sold off platform.</li>
-      <li>Exiting the investment can happen in one of two ways:</li>
-        <ol class="Glossary">
-          <li>Either use the secondary market to set a price at which you wish to sell out, setting either a low price for a quick sale or higher price if you do not mind biding your time.</li>
-          <li>At the end of the 5-year investment cycle for the property shareholders vote on whether they wish to retain the investment. The platform will then attempt to complete any sell out action on the secondary market otherwise the entire property will be sold on the open market if a majority wish to sell out.</li>
-        </ol>
-     </ol>
-
-
-
-
-
-<ul class="Glossary">
-			<li>eBay: 2.4% at <a class="link" href="https://www.quidco.com/raf/9781321/">Quidco</a> and special offer of up to 5% at <a class="link" href="https://www.topcashback.co.uk/ref/leonbond">TopCashback</a> for a limited time</li>
-			<li>Amazon:  2 to 10% at both <a class="link" href="https://www.quidco.com/raf/9781321/">Quidco</a> and <a class="link" href="https://www.topcashback.co.uk/ref/leonbond">TopCashback</a></li>
-			<li>Sainsburys online order: £1.20 at both <a class="link" href="https://www.quidco.com/raf/9781321/">Quidco</a> and <a class="link" href="https://www.topcashback.co.uk/ref/leonbond">TopCashback</a></li>
-			<li>Domino’s Pizza: £1.20 at <a class="link" href="https://www.topcashback.co.uk/ref/leonbond">TopCashback</a></li>
-		</ul>
-		<p>The two largest players in the game are TopCashback and Quidco but there are many other smaller companies who provide similar services. Both allow you to sign up with no upfront fees, although both also provide premium accounts which provide additional benefits such as boosted levels of cashback for a small fee.</p>
-		<h2>What’s in it for the cashback sites?</h2>
-		<p>The cashback sites are effectively passing on referral or affiliate fees provided by the retailers, with TopCashback and Quidco making a name for themselves for passing on the most, with claims that 100% is typically passed on. Due to their size, however, and so the significant business they put retailers way they are also paid bonuses by the retailers and so this is where they make their money.</p>
-		<h2>Quidco Vs TopCashback</h2>
-		<p>Quidco made it big slightly ahead of TopCashback and pays similar levels of cashback to it’s competitor. They both quite often have exclusive deals with retailers so it can be best to check both out to see who is offering the best rate at the time, particularly on larger transactions. Quidco does have a “price guarantee” however but if you lead a busy life then you probably won’t have time to pull them up on it…</p>
-		<p>TopCashback claim to pay out 105% of commissions generated as they pay out an element of their bonus as well so on average slightly better rates can be achieved with this site over Quidco.</p>
-		<p>They both provide a basic membership for free as well as an upgraded membership, so you can try them out for no cost, but if you do a lot of online shopping then ultimately it will likely be worthwhile to upgrade to a premium account.</p>
-		<h2>Downsides</h2>
-		<p>Sometimes transactions do not track through to payout for various reasons such as:</p>
+	<br>	 
+	<h1 class="h1_article">Property crowdfunding with Property Partner</h1>
+	<h3>Leon, 31st August 2020</h3>
+	<p><img class="article-img-fit" src="https://www.evolving.money/Images/Properties_EM.jpg" alt="Wooden toy properties with a could of question marks" title="Wooden toy properties with a could of question marks"> </p>
+	<p>A lot of people have a dream of building a property empire but at the start are daunted by the stresses of choosing a property, finding enough funds to put a deposit down, dealing with, finding and then placating tenants etc. It does not help also that the government have made it a lot less tax efficient to own second properties directly, reducing the tax deductibility of mortgage interest and hiking stamp duty. But on the other end of the spectrum investing into a property fund is so far removed that most of the excitement of investing into property has been removed.</p>
+	<p>There is however a middle ground of online property crowdfunding platforms, such as Property Partner, whereby you can invest in smaller lump sums with multiple other investors, choosing specific individual properties where you are able to pick and choose to invest into each property based on which investment cases you believe will give the best return. The platform then manages both the investment process and the ongoing maintenance and administration of the property. Recent tax changes are also circumvented as the properties are owned by an incorporated company, you buy shares in the company but effectively own the same proportion of the property as shares in the company. Such a structure then avoids the restrictions on mortgage interest relieve of direct ownership of a buy-to-let property.</p>
+    	<p>You do, however, sacrifice some element of control such as not being able to choose tenants or have a say in whether or not to make repairs to a property (which are usually funded by a provision deducted from the rental income).</p>
+    	<p>But on the plus side there are also many advantages such as it being possible to liquidate your investment much quicker than a normal property due to a secondary market that is available on the platform where fellow investors can buy your shares off you.</p>
+	<h2>Investments available</h2>
+	<p>Property Partner provides a range of potential properties across the UK including residential houses, blocks of flats, student properties, commercial properties as well as the chance to invest in short term, hight interest development loans (typically at a rate of 10%) for property developers. It is also possible to invest via a managed investment plan which spreads your funds over multiple properties for you to spread your risk. An ISA wrapper is also available for investing into the property loans.</p>
+    	<p>Whilst there are some houses on the platform, most investments available are multi-tenanted properties which I prefer as investment in such properties helps minimise the impact on income received of any tenant void periods.</p>
+    	<p>Although dividends have been frozen currently due to the current uncertainty with the Covid situation (and payment holidays have also been negotiated with the banks on interest payments) dividends received typically ranged from 3% to 7%. There is then also the potential for any capital gains…</p>
+	
+	<h2>Mechanics of the platform</h2>
+    	<ol class="Glossary">
+      		<li>Property Partner identifies a property and negotiates terms and an offer price with the seller.</li>
+      		<li>They then list the potential property on the platform to seek out investors to purchase the property.</li>
+      		<li>Investors offer funds on a first come first served basis until 100% of the investment is funded</li>
+      		<li>The property is then purchased by a newly incorporated company that is solely dedicated to the ownership of that one property, and the investors take shares in that company.</li>
+      		<li>Most properties are already tenanted but Property Partner takes on maintenance arrangement for the property and subsequent administration of the tenants.</li>
+      		<li>Rental income net of any running expenses and funds held back as a provision for rainy day expenses are paid out as monthly dividends.</li>
+      		<li>Any capital gains are reflected in the valuation movement and can be crystallised by selling in the online market place or waiting for the 5 year life of the investment to run its course at which point the shareholders vote as to whether to sell out in the open market at which point the shares are either offered on the platform to other investors or the property is sold off platform.</li>
+      		<li>Exiting the investment can happen in one of two ways:</li>
+        	<ol class="Glossary">
+          		<li>Either use the secondary market to set a price at which you wish to sell out, setting either a low price for a quick sale or higher price if you do not mind biding your time.</li>
+          		<li>At the end of the 5-year investment cycle for the property shareholders vote on whether they wish to retain the investment. The platform will then attempt to complete any sell out action on the secondary market otherwise the entire property will be sold on the open market if a majority wish to sell out.</li>
+        	</ol>
+     	</o>
+		
+     	<p><img class="article-img-fit" src="https://www.evolving.money/Images/PropPart_Info.jpg" alt="Property Partner screeshot of available investor information" title="Property Partner screeshot of available investor information"> </p>
+	<h2>Information available</h2>
+	<p>Due to being a minority shareholder unfortunately you do not get real time access to information on each property such as how finding new tenants is going etc, but the platform does provide a significant amount of information to aid your investment decisions, including:</p>
+	<ul class="Glossary">
+		<li>Investment case explaining where the property is situated, it’s condition and any unique selling points that make the property worth investing in</li>
+		<li>A breakdown of costs such as interest, letting fees, insurance, maintenance, corporation tax, provisions for future big-ticket maintenance items.</li>
+		<li>Rental forecasts.</li>
+		<li>Periodic updates as to any property specific issues.</li>
+		<li>Valuation reports.</li>
+		<li>Secondary market information on the size and price of all bids and offers:</li>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/PropPart_Secondary_market.png" alt="Property Partner screenshot of secondary market" title="Property Partner secondary market"> </p>
+		<li>Historic prices achieved on the secondary market:</li>
+		<p><img class="article-img-fit" src="https://www.evolving.money/Images/PropPart_Historic_prices.png" alt="Property Partner screenshot of historic prices" title="Property Partner historic price chart"> </p>
+	</ul>
+	<h2>Fees</h2>
+	<p>Fees are charged by the platform along similar rates and principles to the fund management industry as follows:</p>
+	<ul class="Glossary">
+		<li>Assets Under Management (AUM): similar to the fund industry you have to pay an AUM fee. This ranges from 1.2% for a portfolio valued under £25k and falls to 0.2% for portfolios over £1mil.</li>
+		<li>Monthly account fee: £1.20 is charged per month.</li>
+		<li>Transaction fees: A fee of up to 2% is charged on purchases of investments, but this can usually be substantially lower if you invest in the first week of a property being marketed on the platform. Stamp duty of 0.5% is also incurred since you are buying shares, but this is a considerably saving over stamp duty applied on a direct property purchase which can range from 3% up to 15%!</li>
+		<li>Sourcing fee: on new properties brought onto the platform a charge of 3.5% + VAT is charged against the cost of the property for “sourcing” that property.</li>
+	</ul>
+	<h2>UK tax consequences</h2>
+	<p>With the recent change in tax rules to disincentivise buy-to-let for higher rate taxpayers by restricting the tax deductibility of mortgage interest, buy-to-let has become somewhat less attractive. This however only impacts those people owning such properties personally. Owning the property via an incorporated company, as done through Property Partner, does not have such a restriction on the mortgage interest and so results in a significantly reduced tax burden.</p>
+	<p>To illustrate the difference in tax treatment we will take a look at an example scenario for a property valued at £1mil leveraged with a 50% mortgage and a gross rental yield of 5%:</p>
+	<p><img class="article-img-fit" src="https://www.evolving.money/Images/PropPart_tax scenarios.PNG" alt="Table of tax scenarios" title="Table of tax scenarios"> </p>
+	<p>It can be seen above that a higher rate taxpayer holding a property directly would incur tax at 57%, well above the 40% income tax rate. And additional rate taxpayers would suffer tax at 62%, well up on the 45% income tax rate! Note that for the company scenario the 19% corporation tax incurred is before any profits are extracted as a dividend. We will now look at the total tax burden on any dividends paid from the company:</p>
+	<p><img class="article-img-fit" src="https://www.evolving.money/Images/Tax_on_dividends.PNG" alt="Table of tax on dividends" title="Table of tax dividends"> </p>
+	<p><img class="article-img-fit" src="https://www.evolving.money/Images/Total_tax_burden.PNG" alt="Table of tax burden" title="Table of tax burden"> </p>
+	<p>The first £2k of dividends received in a year are tax free, and then any dividends received above this incur tax at 7.5% for a basic rate taxpayer, 32.5% for a higher rate taxpayer and 32.8% for an additional rate tax payer. Therefore dividends received up to £2k incur only the corporation tax charged on the company and so effectively you receive the net rental income with tax charged at 19% whatever tax payer you are.</p>
+	<p>For dividends received of £10k, basic rate taxpayers are a little worse off than if they were to hold the property directly, incurring total tax at an effective rate of 24%. Higher rate and additional rate taxpayers, however, incur a total tax burden similar to their notional income tax rates at 40% at 44% respectively. Property Partner’s structure of investing in properties for incorporated companies therefore effectively circumvents the interest restriction rules (as well as stamp duty rules) allowing investment in properties in the most tax efficient manner.</p>
+	<h2>Safety of your investment</h2>
+	<p>Although Property Partner is regulated by the Financial Conduct Authority in the UK, there is no protection over your investments or uninvested funds similar to the FSCS scheme which protects your savings held with banks. </p>
+	<p>You do however own shares in a company for each property you invest in which affords you significant protection over your investments. Such a structure ring fences and protects your investments from any creditors of Property Partner as Property Partner has no ownership of the individual companies and their assets.</p>
+	<p>If Property Partner were to go bust however then it would be an unknown as to what any third party would charge to come in and manage your investments, or charge to actively sell off the properties, but presumably you would likely get most of your investment back.</p>
+	<h2>Conclusion</h2>
+	<p>Property Partner is great if you want to dabble in investing in property and do not have sufficient capital to invest in buy-to-let directly, or if you do have more substantial capital it is great for removing the headaches of property management whilst still having some of the excitement or thrill of directly owning a property.</p>
+	<p>It also has a very tax efficient structure compared to owning property directly and provides the opportunity to spread the risk over multiple properties, providing the opportunity to play a part in larger, multi-tenanted properties which would be unobtainable for the smaller investor.</p>
+	
+	<div style="background-color:#8a8a8a" >
+		<p><strong>Referral link:</strong><br><br>If this sounds of interest then please sign up through this link: <a class="link" href="https://www.propertypartner.co?r=leon51">Property Partner</a> <br>  
+		</p>
+		<p>If within 60 days you invest:<p>
 		<ul class="Glossary">
-			<li>If you visit the retailer through other links, then other referral cookies can be saved to your computer and so if the cashback website cookie is not the winning cookie then the cashback will be declined.</li>
-			<li>If you purchase on someone else’s online account at the retailer rather than in your own name then this can also cause issues.</li>
+			<li>£2k we will share sign up reward of £60</li>
+			<li>£10k we will share reward of £300</li>
+			<li>£20k we will share reward of £600</li>
+			<li>£50k we will share reward of £1,500</li>
 		</ul>
-		<p>Most retailers provide cashback to returning customers, albeit usually at reduced rates, but some provide only for first transaction of a new customer.</p>
-		<p>Although there are thousands of retailers signed up, it may be cheaper to buy at another retailer who do not provide cashback so still ensure you shop around for the best deal. Don’t rely on the cashback paying out as a deciding factor as on rare occasions it can fail with minimal ability to chase down any rights you may have to that cashback. The cashback sites do provide facilities to dispute any unreceived cashback but unfortunately this mechanism does not always result in a resolution in your favour. The cashback website will also be out of pocket for non-payment as well so it is in their interests totry and resolve if they can.</p>
-		<h2>Sign-up bonus</h2>
-		<p>If you use my referral links below rather than signing up directly then you will also get an additional sign-up cash bonus (and I will get similar sized bonus to help pay for my musings on this website). I have already received over £600 of cashback from my own spending over last few years without religiously using the apps so hard to justify not using the apps:</p>
-		<ul class="Glossary">
-			<li>£10.00 sign up bonus for both of us if you earn £5 of other cashback at <a class="link" href="https://www.quidco.com/raf/9781321/">Quidco</a></li>
-			<li>£7.50 sign up bonus for both of us if you earn £10 of other cashback at <a class="link" href="https://www.topcashback.co.uk/ref/leonbond">TopCashback</a></li>
-		</ul>
+	</div>
+		
+		
 	</div>
 
 	<div class="col_4 last" style="background-color:#fff">
