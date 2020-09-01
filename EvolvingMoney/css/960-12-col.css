@@ -55,7 +55,7 @@ margin:1.0% 0 1.0% 0; /* auto */
         max-width: 100%;
 	overflow: hidden;
 	max-height: 100vh;
-        float: left; 
+        float: none; 
 	margin: 1%; 
 	padding: 1%;"
 }
