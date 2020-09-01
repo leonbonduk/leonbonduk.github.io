@@ -94,7 +94,7 @@
 	<p>Although Property Partner is regulated by the Financial Conduct Authority in the UK, there is no protection over your investments or uninvested funds similar to the FSCS scheme which protects your savings held with banks. </p>
 	<p>You do however own shares in a company for each property you invest in which affords you significant protection over your investments. Such a structure ring fences and protects your investments from any creditors of Property Partner as Property Partner has no ownership of the individual companies and their assets.</p>
 	<p>If Property Partner were to go bust however then it would be an unknown as to what any third party would charge to come in and manage your investments, or charge to actively sell off the properties, but presumably you would likely get most of your investment back.</p>
-	<h2>Conclusion</h2>
+	<h2>Is it any good...</h2>
 	<p>Property Partner is great if you want to dabble in investing in property and do not have sufficient capital to invest in buy-to-let directly, or if you do have more substantial capital it is great for removing the headaches of property management whilst still having some of the excitement or thrill of directly owning a property.</p>
 	<p>It also has a very tax efficient structure compared to owning property directly and provides the opportunity to spread the risk over multiple properties, providing the opportunity to play a part in larger, multi-tenanted properties which would be unobtainable for the smaller investor.</p>
 	
