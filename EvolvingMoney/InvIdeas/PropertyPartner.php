@@ -44,7 +44,7 @@
     	<p>Although dividends have been frozen currently due to the current uncertainty with the Covid situation (and payment holidays have also been negotiated with the banks on interest payments) dividends received typically ranged from 3% to 7%. There is then also the potential for any capital gains…</p>
 	
 	<h2>Mechanics of the platform</h2>
-    	<ol class="Glossary">
+    	<ol class="NumberedGlossary">
       		<li>Property Partner identifies a property and negotiates terms and an offer price with the seller.</li>
       		<li>They then list the potential property on the platform to seek out investors to purchase the property.</li>
       		<li>Investors offer funds on a first come first served basis until 100% of the investment is funded</li>
@@ -53,7 +53,7 @@
       		<li>Rental income net of any running expenses and funds held back as a provision for rainy day expenses are paid out as monthly dividends.</li>
       		<li>Any capital gains are reflected in the valuation movement and can be crystallised by selling in the online market place or waiting for the 5 year life of the investment to run its course at which point the shareholders vote as to whether to sell out in the open market at which point the shares are either offered on the platform to other investors or the property is sold off platform.</li>
       		<li>Exiting the investment can happen in one of two ways:</li>
-        	<ol class="Glossary">
+        	<ol class="NumberedGlossary">
           		<li>Either use the secondary market to set a price at which you wish to sell out, setting either a low price for a quick sale or higher price if you do not mind biding your time.</li>
           		<li>At the end of the 5-year investment cycle for the property shareholders vote on whether they wish to retain the investment. The platform will then attempt to complete any sell out action on the secondary market otherwise the entire property will be sold on the open market if a majority wish to sell out.</li>
         	</ol>
