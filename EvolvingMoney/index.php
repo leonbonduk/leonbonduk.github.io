@@ -75,6 +75,13 @@
 						<h1><strong><a href="https://www.evolving.money/InvIdeas/index.php">Investments:</a></strong></h1>
 					</div>
 					
+					<a href="https://www.evolving.money/InvIdeas/PropertyPartner.php">
+						<div class="col_int_6">
+							<div class="imgbox"><img class="center-fit-rounded-top" src="https://www.evolving.money/Images/Properties_EM.jpg" alt="Wooden toy properties with a could of question marks" title="Wooden toy properties with a could of question marks"></div>
+							<h2 class="article-link-header">Dabble in buy-to-let without the stresses with property crwodfunding website Property Partner</h2>
+						</div>
+					</a>
+					
 					<a href="https://www.evolving.money/InvIdeas/Copper-Jul20.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit-rounded-top" src="https://www.evolving.money/Images/copperman_EM.jpg" alt="Metal statue of man with head in his hands" title="Metal man with man flu"></div>
@@ -95,15 +102,7 @@
 							<h2 class="article-link-header">Has copper caught a cold?</h2>
 						</div>
 					</a>
-
-					
-					<a href="https://www.evolving.money/InvIdeas/Turkey-Oct19.php">
-						<div class="col_int_6">
-							<div class="imgbox"><img class="center-fit-rounded-top" src="Images/turkey-flag-wrinkled.jpg" alt="Wrinkled Turkish flag"></div>
-							<h2 class="article-link-header">Potential opportunity to buy into a cheap Turkish market?</h2>
-						</div>
-					</a>			       
-		
+   		
 					<div class="col_int_12">
 						<h1><strong><a class="link" href="https://www.evolving.money/InvIdeas/index.php">More Investments...</a></strong></h1>
 					</div>
