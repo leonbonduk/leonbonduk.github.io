@@ -96,6 +96,17 @@ h3 {
         line-height: 1.5em;
 } 
 
+.NumberedGlossary li
+{
+        margin: 1% 1% 1% 1%;
+        padding: 10px 0 10px 50px;
+        text-align: left;
+        /* list-style-type: circle; */
+        list-style-position: inside;
+        text-indent: -1.5em;
+        line-height: 1.5em;
+} 
+
 .link {             
         text-align: left;
         width: 100%;
