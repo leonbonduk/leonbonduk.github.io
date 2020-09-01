@@ -53,7 +53,7 @@
       		<li>Rental income net of any running expenses and funds held back as a provision for rainy day expenses are paid out as monthly dividends.</li>
       		<li>Any capital gains are reflected in the valuation movement and can be crystallised by selling in the online market place or waiting for the 5 year life of the investment to run its course at which point the shareholders vote as to whether to sell out in the open market at which point the shares are either offered on the platform to other investors or the property is sold off platform.</li>
       		<li>Exiting the investment can happen in one of two ways:</li>
-        	<ol class="LetteredGlossary">
+        	<ol class="LetterGlossary">
           		<li>Either use the secondary market to set a price at which you wish to sell out, setting either a low price for a quick sale or higher price if you do not mind biding your time.</li>
           		<li>At the end of the 5-year investment cycle for the property shareholders vote on whether they wish to retain the investment. The platform will then attempt to complete any sell out action on the secondary market otherwise the entire property will be sold on the open market if a majority wish to sell out.</li>
         	</ol>
