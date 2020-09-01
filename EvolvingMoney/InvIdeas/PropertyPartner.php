@@ -53,13 +53,13 @@
       		<li>Rental income net of any running expenses and funds held back as a provision for rainy day expenses are paid out as monthly dividends.</li>
       		<li>Any capital gains are reflected in the valuation movement and can be crystallised by selling in the online market place or waiting for the 5 year life of the investment to run its course at which point the shareholders vote as to whether to sell out in the open market at which point the shares are either offered on the platform to other investors or the property is sold off platform.</li>
       		<li>Exiting the investment can happen in one of two ways:</li>
-        	<ol class="NumberedGlossary">
+        	<ol class="LetteredGlossary">
           		<li>Either use the secondary market to set a price at which you wish to sell out, setting either a low price for a quick sale or higher price if you do not mind biding your time.</li>
           		<li>At the end of the 5-year investment cycle for the property shareholders vote on whether they wish to retain the investment. The platform will then attempt to complete any sell out action on the secondary market otherwise the entire property will be sold on the open market if a majority wish to sell out.</li>
         	</ol>
      	</o>
 		
-     	<p><img class="article-img-fit" src="https://www.evolving.money/Images/PropPart_Info.jpg" alt="Property Partner screeshot of available investor information" title="Property Partner screeshot of available investor information"> </p>
+     	<p><img class="article-img-full-fit" src="https://www.evolving.money/Images/PropPart_Info.jpg" alt="Property Partner screeshot of available investor information" title="Property Partner screeshot of available investor information"> </p>
 	<h2>Information available</h2>
 	<p>Due to being a minority shareholder unfortunately you do not get real time access to information on each property such as how finding new tenants is going etc, but the platform does provide a significant amount of information to aid your investment decisions, including:</p>
 	<ul class="Glossary">
@@ -69,9 +69,9 @@
 		<li>Periodic updates as to any property specific issues.</li>
 		<li>Valuation reports.</li>
 		<li>Secondary market information on the size and price of all bids and offers:</li>
-		<p><img class="article-img-fit" src="https://www.evolving.money/Images/PropPart_Secondary_market.png" alt="Property Partner screenshot of secondary market" title="Property Partner secondary market"> </p>
+		<p><img class="article-img-full-fit" src="https://www.evolving.money/Images/PropPart_Secondary_market.png" alt="Property Partner screenshot of secondary market" title="Property Partner secondary market"> </p>
 		<li>Historic prices achieved on the secondary market:</li>
-		<p><img class="article-img-fit" src="https://www.evolving.money/Images/PropPart_Historic_prices.png" alt="Property Partner screenshot of historic prices" title="Property Partner historic price chart"> </p>
+		<p><img class="article-img-full-fit" src="https://www.evolving.money/Images/PropPart_Historic_prices.png" alt="Property Partner screenshot of historic prices" title="Property Partner historic price chart"> </p>
 	</ul>
 	<h2>Fees</h2>
 	<p>Fees are charged by the platform along similar rates and principles to the fund management industry as follows:</p>
@@ -84,10 +84,10 @@
 	<h2>UK tax consequences</h2>
 	<p>With the recent change in tax rules to disincentivise buy-to-let for higher rate taxpayers by restricting the tax deductibility of mortgage interest, buy-to-let has become somewhat less attractive. This however only impacts those people owning such properties personally. Owning the property via an incorporated company, as done through Property Partner, does not have such a restriction on the mortgage interest and so results in a significantly reduced tax burden.</p>
 	<p>To illustrate the difference in tax treatment we will take a look at an example scenario for a property valued at £1mil leveraged with a 50% mortgage and a gross rental yield of 5%:</p>
-	<p><img class="article-img-fit" src="https://www.evolving.money/Images/PropPart_tax scenarios.PNG" alt="Table of tax scenarios" title="Table of tax scenarios"> </p>
+	<p><img class="article-img-full-fit" src="https://www.evolving.money/Images/PropPart_tax scenarios.PNG" alt="Table of tax scenarios" title="Table of tax scenarios"> </p>
 	<p>It can be seen above that a higher rate taxpayer holding a property directly would incur tax at 57%, well above the 40% income tax rate. And additional rate taxpayers would suffer tax at 62%, well up on the 45% income tax rate! Note that for the company scenario the 19% corporation tax incurred is before any profits are extracted as a dividend. We will now look at the total tax burden on any dividends paid from the company:</p>
-	<p><img class="article-img-fit" src="https://www.evolving.money/Images/Tax_on_dividends.PNG" alt="Table of tax on dividends" title="Table of tax dividends"> </p>
-	<p><img class="article-img-fit" src="https://www.evolving.money/Images/Total_tax_burden.PNG" alt="Table of tax burden" title="Table of tax burden"> </p>
+	<p><img class="article-img-full-fit" src="https://www.evolving.money/Images/Tax_on_dividends.PNG" alt="Table of tax on dividends" title="Table of tax dividends"> </p>
+	<p><img class="article-img-full-fit" src="https://www.evolving.money/Images/Total_tax_burden.PNG" alt="Table of tax burden" title="Table of tax burden"> </p>
 	<p>The first £2k of dividends received in a year are tax free, and then any dividends received above this incur tax at 7.5% for a basic rate taxpayer, 32.5% for a higher rate taxpayer and 32.8% for an additional rate tax payer. Therefore dividends received up to £2k incur only the corporation tax charged on the company and so effectively you receive the net rental income with tax charged at 19% whatever tax payer you are.</p>
 	<p>For dividends received of £10k, basic rate taxpayers are a little worse off than if they were to hold the property directly, incurring total tax at an effective rate of 24%. Higher rate and additional rate taxpayers, however, incur a total tax burden similar to their notional income tax rates at 40% at 44% respectively. Property Partner’s structure of investing in properties for incorporated companies therefore effectively circumvents the interest restriction rules (as well as stamp duty rules) allowing investment in properties in the most tax efficient manner.</p>
 	<h2>Safety of your investment</h2>
