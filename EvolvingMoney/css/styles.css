@@ -88,34 +88,34 @@ h3 {
 .NumberedGlossary li
 {
         margin: 1% 1% 1% 1%;
-        padding: 10px 0 10px 50px;
+        padding: 2.5px 0 2.5px 50px;
         text-align: left;
         list-style-type: decimal;
         list-style-position: inside;
         text-indent: -1.5em;
-        line-height: 1.1em;
+        line-height: 1.5em;
 } 
 
 .LetterGlossary li
 {
         margin: 1% 1% 1% 1%;
-        padding: 10px 0 10px 60px;
+        padding: 2.5px 0 2.5px 60px;
         text-align: left;
         list-style-type: lower-latin;
         list-style-position: inside;
         text-indent: -1.5em;
-        line-height: 1.1em;
+        line-height: 1.5em;
 } 
 
 .Glossary li
 {
         margin: 1% 1% 1% 1%;
-        padding: 10px 0 10px 50px;
+        padding: 2.5px 0 2.5px 50px;
         text-align: left;
         list-style-type: circle;
         list-style-position: inside;
         text-indent: -1.5em;
-        line-height: 1.1em;
+        line-height: 1.5em;
 } 
 
 .link {             
