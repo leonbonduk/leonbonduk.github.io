@@ -69,7 +69,7 @@
 		<li>Periodic updates as to any property specific issues.</li>
 		<li>Valuation reports.</li>
 		<li>Secondary market information on the size and price of all bids and offers:</li>
-		<p><img class="article-img-full-fit" src="https://www.evolving.money/Images/PropPart_Secondary_market.png" alt="Property Partner screenshot of secondary market" title="Property Partner secondary market"> </p>
+		<p><img class="article-img-full-fit" src="https://www.evolving.money/Images/PropPart_Secondary_Market.png" alt="Property Partner screenshot of secondary market" title="Property Partner secondary market"> </p>
 		<li>Historic prices achieved on the secondary market:</li>
 		<p><img class="article-img-full-fit" src="https://www.evolving.money/Images/PropPart_Historic_prices.png" alt="Property Partner screenshot of historic prices" title="Property Partner historic price chart"> </p>
 	</ul>
