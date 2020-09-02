@@ -78,7 +78,7 @@
 					<a href="https://www.evolving.money/InvIdeas/PropertyPartner.php">
 						<div class="col_int_6">
 							<div class="imgbox"><img class="center-fit-rounded-top" src="https://www.evolving.money/Images/Properties_EM.jpg" alt="Wooden toy properties with a could of question marks" title="Wooden toy properties with a could of question marks"></div>
-							<h2 class="article-link-header">Dabble in buy-to-let without the stresses with property crwodfunding website Property Partner</h2>
+							<h2 class="article-link-header">Dabble in buy-to-let without the stresses with property crowdfunding website Property Partner</h2>
 						</div>
 					</a>
 					
