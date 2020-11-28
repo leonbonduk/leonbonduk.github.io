@@ -295,6 +295,10 @@
 				</div> !-->
 				
 				<div class="vertical_ad">
+					<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=22&l=ez&f=ifr&linkID=bf360af8fa3246f71eebb98f3aa86321&t=leonbond-21&tracking_id=leonbond-21" width="250" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+				</div>
+				
+				<div class="vertical_ad">
 					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 					<!-- Native_vertical_banner -->
 					<ins class="adsbygoogle"
@@ -307,10 +311,8 @@
      					(adsbygoogle = window.adsbygoogle || []).push({});
 					</script>
 				</div>
-					<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=22&l=ez&f=ifr&linkID=bf360af8fa3246f71eebb98f3aa86321&t=leonbond-21&tracking_id=leonbond-21" width="250" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-				<div class="vertical_ad">
-
-				</div>				
+					
+								
 				
 			</div> <!-- End of col_4 !-->
 				
