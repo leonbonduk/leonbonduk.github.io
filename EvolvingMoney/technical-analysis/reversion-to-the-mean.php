@@ -286,10 +286,10 @@
      			(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
 			
-		<div class="vertical_ad">
-			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- <div class="vertical_ad">
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  !-->
 			<!-- Native_vertical_banner -->
-			<ins class="adsbygoogle"
+		<!--	<ins class="adsbygoogle"
      			style="display:block"
      			data-ad-client="ca-pub-3169172932709847"
      			data-ad-slot="1100347920"
@@ -297,7 +297,8 @@
      			data-full-width-responsive="true"></ins>
 			<script>
      			(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
+		</script> -->
+			
 						
 		</script>
 					
