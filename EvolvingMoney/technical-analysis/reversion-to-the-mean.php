@@ -284,26 +284,16 @@
      			data-full-width-responsive="true"></ins>
 			<script>
      			(adsbygoogle = window.adsbygoogle || []).push({});
-		</script>
-			
-		<!-- <div class="vertical_ad">
-			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  !-->
-			<!-- Native_vertical_banner -->
-		<!--	<ins class="adsbygoogle"
-     			style="display:block"
-     			data-ad-client="ca-pub-3169172932709847"
-     			data-ad-slot="1100347920"
-     			data-ad-format="auto"
-     			data-full-width-responsive="true"></ins>
-			<script>
-     			(adsbygoogle = window.adsbygoogle || []).push({});
-		</script> -->
-			
-						
-		</script>
-					
-					
+			</script>
+				
 		</div>
+		
+		<div class="vertical_ad">
+			<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=2&p=14&l=ez&f=ifr&linkID=b6d717a24a46504955acd12deb58a594&t=leonbond-21&tracking_id=leonbond-21" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+				
+		</div>
+		
+		
 	</div>
 	<div class="clear"></div>
 	<div class="clear"></div>
