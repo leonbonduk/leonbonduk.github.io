@@ -299,6 +299,10 @@
 				</div>
 				
 				<div class="vertical_ad">
+					<SCRIPT charset="utf-8" type="text/javascript" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=GB&ID=V20070822%2FGB%2Fleonbond-21%2F8009%2F16f690ad-d18b-40dc-812f-162056f2c7c1&Operation=GetScriptTemplate"> </SCRIPT> <NOSCRIPT><A rel="nofollow" HREF="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=GB&ID=V20070822%2FGB%2Fleonbond-21%2F8009%2F16f690ad-d18b-40dc-812f-162056f2c7c1&Operation=NoScript">Amazon.co.uk Widgets</A></NOSCRIPT>
+				</div>
+				
+				<div class="vertical_ad">
 					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 					<!-- Native_vertical_banner -->
 					<ins class="adsbygoogle"
